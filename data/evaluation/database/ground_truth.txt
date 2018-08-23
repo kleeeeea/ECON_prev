@@ -1,0 +1,767 @@
+monterey	1
+brown university	1
+non-key attribute	1
+oo7 benchmark	1
+input mappings	1
+deathplace	1
+visual studio	1
+payload	1
+random integer	1
+cedr	1
+kyoto	1
+broadcast message	1
+glasgow	1
+scientific and statistical database management	1
+intel nehalem	1
+pokfulam road	1
+distributed file system	1
+theoretical upper bound	1
+combiner	1
+compromise	1
+athena	1
+business analyst	1
+explanation template	1
+computing science	1
+computer graphics	1
+singapore management university	1
+mitre	1
+buffer pool size	1
+index advisor	1
+latent semantic	1
+timsort	1
+arpa	1
+theorem	1
+timestamp	1
+categories	1
+function call	1
+ordered tree	1
+tumblr	1
+cfile	1
+worst case complexity	1
+ajax	1
+hdsampler	1
+graham cormode	1
+execution order	1
+centralized lock manager	1
+gqp	1
+monte carlo	1
+relational operators	1
+vertex	1
+cuhk	1
+social relationships	1
+bootstrap	1
+brian cooper	1
+order	1
+copyright	1
+corollary	1
+canonical target instance	1
+nfq	1
+inter	0
+subgraph isomorphism testing	1
+cgsi	1
+foreign key relationships	1
+imcu	1
+classification algorithm	1
+xsds	1
+backup	1
+comparison operation	1
+bisectors	1
+bfss	1
+washington dc	1
+columbia university	1
+knn	1
+noun phrases	1
+heterogeneity	1
+subsets	1
+single instance	1
+microsoft research asia	1
+kyuseok shim	1
+ratings	1
+author	1
+apca	1
+min wiener connector	1
+formulas	1
+beng chin ooi	1
+acknowledgment	1
+paul larson	1
+design advisor	1
+infiniband	1
+remus	1
+rox	1
+oxford university	1
+orca logic	1
+odbc	1
+preference sql	1
+mrsimjoin	1
+programming paradigm	1
+sam madden	1
+subspace	1
+full serializability	1
+digital equipment corporation	1
+keyword node	1
+monitoring rate	1
+retries	1
+commonality	0
+sedna	1
+the two problems	0
+processing unit	1
+prototype system	1
+powerbookmarks	1
+oracle labs	1
+paxos leaders	1
+millisecond	1
+cache blocks	1
+subsection	1
+indsep data structure	1
+government	1
+output value	0
+processes	1
+spidermine	1
+mappers	1
+aida	1
+central coordinator	1
+section	1
+acm sigcomm	1
+functional relationships	1
+nomad	1
+byte	1
+noisy count	1
+auction	1
+natural number	1
+navigation	1
+dennis shasha	1
+pdfs	1
+philadelphia	1
+power7	1
+siam	1
+politecnico	1
+heap	1
+distance	1
+pixel	1
+bernoulli distribution	1
+int	1
+salem	1
+istanbul	1
+lasso path	1
+udfs	1
+svms	1
+tpc	1
+santa barbara	1
+skip	1
+spreadsheets	1
+layout	1
+east china normal university	1
+stream	1
+dfa state	1
+baseline	1
+fault tolerance	1
+stages	1
+locationspark	1
+fence	1
+cascades	1
+reference tuple	1
+index	1
+google maps api	1
+social network graph	1
+hotman	1
+cjoin	1
+structural correlation patterns	1
+queue	1
+bar charts	1
+montpellier	1
+kent state university	1
+survey	1
+hard disk drives	1
+arlington	1
+yale university	1
+multilog	1
+integer domain	1
+multi-information	0
+rsp	1
+susan davidson	1
+dec	1
+connectors	1
+politics	1
+execution	1
+runtime performance	1
+linear increase	1
+replicas	1
+rvts	1
+aspect ratio	0
+audio	1
+mapreduce job	1
+magnetic disk drive	1
+webpage	1
+read lock	1
+scout	1
+psu	1
+netherlands	1
+index seek	1
+imcus	1
+architecture	1
+synchronizations	1
+disconnected components	1
+berkeleydb	1
+same values	0
+ballot	1
+java library	1
+mpro	1
+kmv	1
+ntu	1
+native storage	1
+accuracy cosine similarity	0
+northeastern university	1
+sosp	1
+management layer	1
+worst-case cost	1
+microsoft jim gray systems lab	1
+tpqs	1
+pruning methods	1
+solomon	1
+performance problem	1
+unpruned leaf node	1
+protein	1
+vancouver	1
+preference relation	1
+phase	1
+pxql query	1
+dmapply	1
+index structure	1
+sfa	1
+symmetric difference	1
+chinese university of hong kong	1
+vicinity	1
+graph topology	1
+morgan kaufmann	1
+attracted considerable attention	0
+distributed computing systems	1
+semiconductor	1
+centroid	1
+shakespeare	1
+axis	1
+clusterhead	1
+sihem amer-yahia	1
+distributed joins	1
+uiuc	1
+filter	1
+iterative set expansion	1
+upper bound	1
+feedback	1
+vdataguide	1
+athens	1
+graphjet	1
+call	1
+pool	1
+virtual cores	1
+qatar computing research institute	1
+cells	1
+commit request	1
+lrcs	1
+voltdb	1
+lower-bound	1
+clear water bay	1
+tag	1
+fifo queue	1
+very large databases vldb	1
+split	1
+throughput	1
+colocation	1
+sina weibo	1
+cobase	1
+edf	1
+capacity	1
+path fragment	1
+peter buneman	1
+gbytes	1
+cloudramsort	1
+input program	1
+sorted list	1
+flights	1
+energy usage	1
+maya	1
+break	1
+interoperability	1
+given query	0
+classifier	1
+nsdi	1
+sfsj	1
+knowledge management	1
+books	1
+unauthorized information	0
+adaptive sampling	1
+glade	1
+code base	1
+performance drop	1
+acm tods	1
+overhead	1
+microsoft windows	1
+pushing selections	1
+stream rate	1
+the other two algorithms	0
+tucson	1
+dryad	1
+hong kong	1
+selectivity value	1
+candidate tag	1
+canon	1
+teradata edw	1
+palo alto	1
+wavelet transformation	1
+memoization	1
+the second argument	0
+dominance relationship	1
+admission	1
+hyper-rectangle	1
+gmm	1
+bloomgraphs	1
+kbc	1
+pre-order traversal	1
+generaltim	1
+lp solver	1
+kohala coast	1
+permission	1
+ibm	1
+hyracks	1
+markup language	1
+java program	1
+bwt	1
+the detailed results	0
+hyder	1
+ucsb	1
+parity bucket	1
+hash	1
+dcf	0
+ubuntu linux	1
+dremel	1
+message	1
+select	1
+bprs	1
+north carolina	1
+telegraph	1
+synthesis	1
+jim gray	1
+analytics platform	1
+communication overhead	1
+lba	1
+locks	1
+large sample	0
+other approach	0
+events	1
+conclusion	1
+inputs	1
+contiguous regions	1
+iscr	1
+cient	1
+peers	1
+ibm almaden	1
+xport	1
+rhode island	1
+megabyte	1
+gtx	1
+metaserver	1
+psl	1
+alon halevy	1
+nfa	1
+existentially quantified variables	1
+ndcg	1
+timestamps	1
+august	1
+faulttolerance	1
+waterloo	1
+grants	1
+new zealand	1
+input queue	1
+arrays	1
+widetable	1
+fewer number	0
+prentice hall	1
+native sql	1
+pax	1
+nih	1
+1e9b9d9 ata	0
+zhejiang university	1
+shortest surface distance	1
+shbf	1
+wildcard	1
+ohio state university	1
+the basic idea	0
+map and reduce	1
+dfss	1
+ocr	1
+infinite stream	1
+system administrator	1
+spatial data structures	1
+proofs	1
+buffers	1
+warplda	1
+xiaokui xiao	1
+multiple trees	0
+fmin	0
+bucketization	1
+scalability issue	1
+program	1
+sthmm	1
+glav	1
+iit bombay	1
+ado net entity framework	1
+isolation	1
+gobblin	1
+access distribution	1
+drexel university	1
+dwt	1
+the driver program	0
+haixun wang	1
+possible edges	0
+numa	1
+java virtual machine	1
+xes	1
+mvcc	1
+xbox trace	1
+spark streaming	1
+voronoi neighbor	1
+commit log record	1
+homeviews	1
+brandeis university	1
+ner	1
+initialization	1
+symmetric boolean functions	1
+tiql	1
+xsl	1
+ppj	1
+servers	1
+novel notion	0
+important distinction	0
+snowflake schema	1
+reviews	1
+ann arbor	1
+university of massachusetts amherst	1
+non-zero probability	1
+xin luna dong	1
+apache tomcat	1
+grn	1
+hst-reassignment	1
+dblp	1
+static type checking	1
+timber	1
+murray hill	1
+reviewers	1
+quegel	1
+chain	1
+wyoming	1
+nodes	1
+translations	1
+human intelligence	1
+matrices	1
+chunk folding	0
+densest subgraph problem	1
+nick roussopoulos	1
+intel cpu	1
+nail	1
+atomic type	1
+machines	1
+approxcount	1
+16 threads	0
+snowbird	1
+single execution	0
+gmres	1
+variable substitution	1
+asilomar	1
+log engine	1
+studies	1
+montreal	1
+ipc	1
+same semantics	0
+medoid	1
+redo	1
+college park	1
+links	1
+scan	1
+sort key	1
+pseudocode	1
+hiveql	1
+fwer	1
+subgraph isomorphism algorithm	1
+blocking	1
+customer	1
+skecoq	1
+recstore	1
+states	1
+redundancy	1
+processors	1
+cheetah	1
+orchestrator	1
+seoul	1
+semiring	1
+previous paper	0
+memory allocator	1
+one scan	0
+inheritance	1
+bftl	1
+cholesky factorization	1
+statview	1
+west lafayette	1
+memorycube	1
+gmission	1
+ffp	1
+entity sql	1
+ttl	1
+reachgraph	1
+jni	1
+overall time complexity	1
+fuzzy prophet	1
+start vertex	1
+heron	1
+lineitem	1
+window	1
+two persons	0
+hdbtracker	1
+distribution assumption	1
+compound	1
+discuss	1
+random edge	1
+eigenvalue	1
+ancestor	1
+multipartition transactions	1
+blue pages	1
+partial subgraph instances	1
+different files	0
+energy	1
+frequency	1
+the following problem	0
+monitors	1
+inner workings	1
+participants	1
+evaluation	1
+bistro	1
+attendee	1
+undo	1
+sbf	1
+estimate	1
+different branches	0
+nick koudas	1
+hasa edge	1
+txnqueue	1
+cart models	1
+similar set	0
+mercury	1
+following questions	0
+synthesizer	1
+three different types	0
+dfa	1
+udr	1
+tdcontrol	1
+crowdfill	1
+bits	1
+rate	1
+sole purpose	0
+serialization graph	1
+dynamo	1
+extracted values	0
+first sight	0
+conducted extensive experiments	1
+source code	1
+angel	1
+superclasses	1
+san mateo	1
+based approaches	0
+scpu	0
+particular join	0
+heavy use	0
+read	1
+mip	1
+xtract	1
+base columns	0
+execution process	1
+victoria	1
+niagarast	1
+parallel and distributed information systems	1
+professor	1
+boon thau loo	1
+sale	1
+tel aviv university	1
+tpr	1
+simd algorithm	1
+university of pennsylvania	1
+pbsm	1
+sspi	1
+descriptor	1
+visitor	1
+small ranges	0
+sspa	1
+tkq	1
+mops	1
+technologies	1
+xqueries	1
+emptyheaded	1
+max planck institute	1
+given instance	0
+alternative plan	1
+smaller size	0
+employee	1
+common set	0
+individual elements	0
+few rows	0
+news stories	1
+valid plans	1
+ssa	1
+restart	1
+jaguar	1
+valid page	1
+dsms	1
+fields	1
+the two elements	0
+input total orders	1
+field names	1
+trajectory partition	1
+arc	1
+oldenburg	1
+border node	1
+following form	0
+mprs	1
+score	1
+nl2cm	1
+screen	1
+samplecf	1
+final set	0
+possible groups	0
+portland state university	1
+noisyseeds	1
+connection	1
+sigir	1
+eth	1
+paxos	1
+bufferpool	1
+ctmc	1
+address	1
+interesting point	0
+fems	1
+kws	1
+given range	0
+walnut	1
+telecommunications	1
+poa	1
+java	1
+identity disclosure	1
+fastdc	1
+ontologies	1
+ilf	1
+powerpivot	1
+bulk	1
+hmm	1
+controller	1
+glav mapping	1
+atlanta	1
+join column	1
+following advantages	0
+at least one point	0
+bit-array	1
+following features	0
+force	1
+reproducibility	1
+lineage function	1
+larger groups	0
+tenant-group	1
+doctor	1
+locking	1
+main problems	0
+paa	1
+interesting aspects	0
+literature	1
+screenshot	1
+wide margin	1
+allocation	1
+presentations	1
+incomplete cholesky factorization	1
+dynamic programming approach	1
+virtual class	1
+candidate match	1
+community members	1
+the same variable	0
+the final state	0
+neighborhood	1
+head element	1
+streaminsight	1
+protocol message	1
+distributed information systems	1
+nvram group commit	1
+webuk	1
+ithaca	1
+dsls	1
+readers	1
+installation point	0
+sydney	1
+consistent snapshots	1
+instruction cache misses	1
+imeu	1
+sample table	1
+scan eager	1
+munich	1
+background	1
+pangea	1
+integer	1
+recipient	1
+projects	1
+generation rule	1
+starvation	1
+ivm	1
+noisedown	1
+hail	1
+open source project	1
+slice	1
+blaeu	1
+fragments	1
+buffer pools	1
+two streams	0
+database sequence	1
+hilbert value	1
+hong kong polytechnic university	1
+bounding hypercube	1
+germination	1
+wang-chien lee	1
+ppa	1
+cambridge	1
+nsm	1
+image	1
+profession	1
+sketch	1
+mbb	1
+major role	0
+bombay	1
+full set	0
+datacell	1
+camera	1
+datalawyer	1
+auxiliary data structure	1
+eddies	1
+smaller value	0
+minipages	1
+accurate approximation	0
+opindex	1
+buc	1
+cidr	1
+msd	1
+cikm	1
+aalborg	1
+commit	1
+write-sets	1
+minneapolis	1
+training data	1
+walks	1
+spatial domain	1
+complete bipartite graph	1
+anthony tung	1
+major contribution	0
+the objects	0
+finch	1
+maximum regret ratio	1
+smaller subset	0
+update	1
+feedback mechanism	1
+higher quality	0
+hypergraph	1
+large extent	0
+interval	1
+formal treatment	0
+corleone	1
+time	1
+indsep	1

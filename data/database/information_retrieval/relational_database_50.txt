@@ -1,0 +1,84 @@
+Instead , the typical way to store graph data in relational database is to create edge table with index on vertices : CREATE TABLE Edge 1stNode int NOT NULL , 2ndNode int NOT NULL CREATE INDEX IndexOne ON Edge 1stNode CREATE INDEX IndexTwo ON Edge 2ndNode Based on the above schema , we need to use index to support graph traversal since we can not directly obtain the adjacent elements from the table .	1
+In particular , we varied the distributions for the number items in which each element appears , introduced errors into element cardinality statistics , used different mechanism accuracies , and used different distributions for the query weights as investigated above with the Google Base datasets .	0
+
+Regardless of	0
+SolidDB is an in-core relational database 24 .	1
+19 proposes Qurk to manage crowdsourced tasks as in relational database .	1
+Our experiments reveal that in cases where there is a wide range or high skew in the values for a particular parameter , the benefit provided by the V P I strategy is greater : it is able to effectively determine the matches that provide the most benefit and confirm them first .	0
+VPI with GB histogram VPI with full histogram	0
+Figure 1 : A small portion of the Mondial relational database	1
+We use standard notations of relational database theory .	0
+Suppose that one relational database say an Oracle database contains CUSTOMER and ORDER tables , while a second relational database perhaps DB2 contains customer CREDIT CARD information .	1
+Indexing XML Data Stored in a Relational Database .	1
+performance graph analytics capability to a relational database .	1
+We used a leading commercial centralized relational database .	1
+We varied other parameters of the dataspace and ran similar experiments ; all experiments produced results similar to the first experiment .	0
+We first need to redefine result quality when thresholding is used for query answering .	0
+Here , the query answering module may use an incorrect match if its confidence is above the threshold ; thus , some answers in Q D may not be correct w r t .	0
+By setting all parameters but one to trivial constants e g , 1 item per element , 0 5 query weight , we can study the effect that one parameter has on the V P I strategy s effectiveness .	0
+The performance of a join is very important in a relational database .	1
+The dataset is stored in a relational database with a fully normalized schema .	1
+Relational Database System	0
+though the references in a relational database are physical ,	1
+Parameter exploration tests .	0
+Regardless of	0
+To support finer granularity , a table in relational database can be horizontally partitioned into a number of containers .	1
+The portfolio information is stored in a relational database ,	1
+One strategy towards making relational database usable is using keyword search 17 .	1
+
+Parallel algorithms for the execution of relational database operations .	0
+Algorithms , Experimentaion , Performance Keywords top-k , keyword search , relational database , information retrieval	1
+Relative Information Capacity of Simple Relational Database Schemata .	0
+
+ObjectRank 3 uses an authority-based ranking strategy for keyword search in relational database .	1
+Parameter exploration tests .	0
+An Empirical Study on Performance Comparison of Lucene and Relational Database .	1
+First , observe that the curve for VPI with 0 5 for GB provides the least benefit for ordering confirmations .	0
+A Method for Implementing a Probabilistic Model as a Relational Database .	1
+Figure 1 : A small portion of the Mondial relational database	1
+
+5 2 Relational Database Implementation	0
+
+Parallel algorithms for the execution of relational database operations .	0
+
+The Sybase relational database is used for the Portfolio source .	1
+The first 4 instances should provide positive counts to these sequences , while the last three instances should not provide positive counts to vector machine or relational database because they should not be interpreted as a whole phrase instead , sequences like feature vector and relevance vector machine can .	1
+In relational database , currently no SQL syntax can support such queries , nor can OLAP functions express our query .	1
+the relational database schema that includes	0
+On workload characterization of relational database environments .	0
+
+Join is a powerful operator that combines records from two or more tables , which is of fundamental importance in the field of relational database .	1
+An Empirical Study on Performance Comparison of Lucene and Relational Database .	1
+Relational Database Service	0
+All data in DeepDive is stored in a relational database .	1
+The source is a relational database .	1
+Suppose that one relational database say an Oracle database contains CUSTOMER and ORDER tables , while a second relational database perhaps DB2 contains customer CREDIT CARD information .	1
+A slight improvement occurs when using the histogram approach to convert the confidence for the Google Base matches VPI with GB histogram .	0
+The V P I strategy is robust to variations in the dataspace characteristics : manipulating one characteristic of the dataspace e g , matches per element , items per element while leaving the others at the realistic values used in the basic tests above has very little effect on the efficacy of the V P I strategy .	0
+the relational database schema that includes	0
+In this approach , the elements e1 and e2 in match m e1 , e2 , c are considered equivalent if the confidence c is greater than a threshold T .	0
+a relational database as the server .	1
+While these applications are reasonably common in several domains see examples in Section 3 , in most cases , they are implemented using relational database and data warehousing technologies .	1
+Using a relational database for an	1
+Here , the histogram approach is able to map input confidences to probabilities	0
+Thus , we may wonder if we can use graph database to boost the performance of multi-join queries over relational database .	1
+When the SecondString match confidences are converted to probabilities , we see a large jump in the V P I strategy s effectiveness VPI with SStr histogram .	0
+
+We follow a similar process as in Section 3 to derive an equation for the value of perfect information for confirming match mj when the query answering module uses thresholding .	0
+In our approach , the underlying relational database always stores	1
+Parallel algorithms for the execution of relational database operations .	0
+Controlled joining on encrypted relational database .	1
+In 14 , a decision theoretic framework similar to ours has been proposed to rank candidate reference matches to improve the quality of query responses in dataspaces , but it can not be applied in a constrained repair framework for relational database .	1
+For instance , to test the effect of differing degrees of heterogeneity , we generate dataspaces with different distributions for the number of matches in which an element participates .	0
+
+that the supplier name in the relational database and in the	1
+
+Thus , we may wonder if we can use graph database to boost the performance of multi-join queries over relational database .	1
+We can then determine in what environments it is particularly important to employ an intelligent ordering mechanism for user feedback .	0
+relational database	1
+
+We present an efficient implementation of the SQL MR framework in a massively-parallel relational database based on our experience of providing SQL MR as part of the Aster Data Systems nCluster shared-nothing relational database .	1
+In this paper , we designed and implemented such an engine using a relational database .	1
+Based on the traditional similarity measures , a recent study 19 proposes an efficient top-k similarity pair search algorithm , top-k-join , in relational database , which only considers similarity between tuples .	1
+precision recall Precision and recall are defined in our context as follows :	0
+Until this point , our query answering model considered only confirmed matches .	0

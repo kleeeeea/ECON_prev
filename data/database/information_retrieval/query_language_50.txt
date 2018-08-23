@@ -1,0 +1,100 @@
+2 3 A Gestural Query Language	1
+2 Query Language	1
+DATA MODEL AND QUERY LANGUAGE	1
+2 2 3 Query Language Interface	0
+Hive 22 and HadoopDB 3 are data warehouses that support SQL-like query language .	1
+The cql continuous query language .	0
+APPENDIX A QUERY LANGUAGE Here , we revisit the query language from our previous work 22 .	1
+API AND QUERY LANGUAGE	1
+Thus , in this study , the query language	1
+Graphs-at-a-time : Query Language and Access Methods for Graph Databases	1
+2 2 Query Language	1
+
+temporal query language .	0
+
+Query Language with Functions .	1
+SCHEMA DESIGN , QUERY LANGUAGE	1
+A QUERY LANGUAGE FOR PROVENANCE	1
+In this section we define our query language .	1
+XSCL QUERY LANGUAGE	1
+The schema design and query language in Cheetah is described in Section 4 .	1
+10 SPARQL 1 1 Query Language .	1
+2 2 Query Language and API	1
+We outlined the key aspects of Dremel , including its storage format , query language , and execution .	1
+We presented the data model and query language of Dremel , a query engine used in Google .	1
+
+Query Language .	1
+A QUERY LANGUAGE FOR PROVENANCE	1
+The data model and query language that we consider here were introduced in 2 , 3 .	1
+A powerful SQL like query language has been designed .	1
+A powerful SQL like query language has been designed .	1
+As query language , we consider a subset of the standard RDFS query language SPARQL 41 .	1
+3 1 Data Model and Query Language	1
+A QUERY LANGUAGE FOR PACKAGES	1
+the rest of this section , we describe NAGA s knowledge base , query language , and the scoring model .	1
+QUERY LANGUAGE DATA REPRESENTATION	0
+As query language , we consider a subset of the standard RDFS query language SPARQL 41 .	1
+
+To our knowledge , MultiLog is the rst logic based query language for MLS databases .	1
+Query language .	1
+ITERATIVE QUERY LANGUAGE	1
+facing query language and its tabular data model .	1
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	1
+2 2 Query Language	1
+access the data query language ,	1
+The query language	1
+Following 12 we employ a simplified data model and query language where we do not consider node attributes .	1
+A simple SQL like query language is also proposed .	1
+GRAPH MODEL QUERY LANGUAGE	1
+QUERY LANGUAGE DATA REPRESENTATION	0
+4 3 Query Language	1
+We outlined the key aspects of Dremel , including its storage format , query language , and execution .	1
+2 2 3 Query Language Interface	0
+In this section we present our data model , query language , and probability model .	1
+temporal query language .	0
+The Cymbal Query Language	1
+It generates code that implements the mapping , typically in a programming language or query language , depending on the scenario .	1
+An overview of the deco system : Data model and query language ; query processing and optimization .	1
+2 1 The Meteor query language	1
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	1
+The Cymbal Query Language	1
+The data model and query language that we consider here were introduced in 2 , 3 .	1
+QUERY LANGUAGE	1
+FunctionDB s query language is similar to traditional SQL .	1
+
+The associated query language is extended	1
+A query language for XML .	1
+Discovery Board Application Programming Interface and Query Language for Database Mining .	1
+
+A Query Language for XML .	1
+query language commands	0
+Relational algebra query language .	0
+Thus , in this study , the query language	1
+The data model and query language that we consider here were introduced in 2 , 3 .	1
+SCHEMA DESIGN , QUERY LANGUAGE	1
+A query language for xml .	1
+
+To our knowledge , MultiLog is the rst logic based query language for MLS databases .	1
+The associated query language is extended	1
+SCHEMA DESIGN , QUERY LANGUAGE	1
+4 Query Language	1
+facing query language and its tabular data model .	1
+Hive 22 and HadoopDB 3 are data warehouses that support SQL-like query language .	1
+We conclude with a remark regarding our choice of query language and data model .	1
+2 2 The MayBMS Query Language	1
+Query Language and Semantics : A Deco query Q is a SQL query over the conceptual relations .	1
+Query language supports predicates on time values .	1
+2 1 Data Model and Query Language	1
+
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	1
+2 2 Event Query Language	0
+User STORM Query Language	0
+
+S L , A Data Model and Query Language	1
+3 3 Query Language	1
+Languages , Performance , Algorithms Keywords Data provenance , annotation , query language , query processing	1
+Query Language and Semantics : A Deco query Q is a SQL query over the conceptual relations .	1
+Relational algebra query language .	0
+A powerful SQL like query language has been designed .	1
+SCHEMA DESIGN , QUERY LANGUAGE	1
+temporal query language .

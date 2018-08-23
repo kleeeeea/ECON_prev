@@ -1,0 +1,100 @@
+Two other algorithms can be used to process a join : hash join and index nested-loop join .	1079961	auto:0.0,textrank:0.44764084,kea:0.0,rake:0.61614245,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.42809093
+In Table 2 we show the CPU and network use for hash join and all track join versions .	871362	auto:0.87990767,textrank:0.86458105,kea:0.8689353,rake:0.7577169,spacy_np:0.0,StructMineDataPipeline:0.8806308,econ:1.0
+Partitioned hash join	2102329	auto:0.7485296,textrank:0.7205897,kea:0.72326547,rake:0.70898205,spacy_np:0.0,StructMineDataPipeline:0.37759143,econ:0.83011913
+6 1 Hash Join Performance	2062137	auto:0.40362492,textrank:0.39470714,kea:0.3974369,rake:0.42020038,spacy_np:0.41705674,StructMineDataPipeline:0.37096477,econ:0.35984564
+2 2 3 Lazy hash join	1341481	auto:0.0,textrank:0.45231026,kea:0.56037813,rake:0.5582466,spacy_np:0.0,StructMineDataPipeline:0.45121926,econ:0.0
+Shuffle Move Temp t P1 Hash Join	1910752	auto:0.5672832,textrank:0.4942649,kea:0.50075895,rake:0.5333645,spacy_np:0.0,StructMineDataPipeline:0.47416127,econ:0.0
+hash join as well as the optimal configuration plan .	1817629	auto:0.6020871,textrank:0.5610944,kea:0.56665194,rake:0.5863156,spacy_np:0.5866678,StructMineDataPipeline:0.5594507,econ:0.55067056
+The parallel hybrid hash join is performed in two phases 24 .	1043284	auto:0.5978209,textrank:0.55469775,kea:0.56366104,rake:0.53963035,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+6 HASH JOIN	926461	auto:0.7980524,textrank:0.7583684,kea:0.7596938,rake:0.7803775,spacy_np:0.81656504,StructMineDataPipeline:0.0,econ:0.811778
+5 2 6 Hash Join	2186311	auto:0.62445045,textrank:0.6015784,kea:0.5989922,rake:0.56831646,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+4 1 Hash Join	376330	auto:0.42043817,textrank:0.3898153,kea:0.3894723,rake:0.38708544,spacy_np:0.4152534,StructMineDataPipeline:0.36408097,econ:0.3774625
+hash join with large hash tables .	2077003	auto:0.57663214,textrank:0.55022204,kea:0.48644343,rake:0.5216163,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+5 Hash Join	2139941	auto:0.0,textrank:0.75327367,kea:0.7680216,rake:0.7538556,spacy_np:0.0,StructMineDataPipeline:0.7818358,econ:0.7753963
+6 3 Comparison between Hash Join and Sortmerge Join	2062277	auto:0.66067654,textrank:0.80627114,kea:0.80492574,rake:0.7968337,spacy_np:0.0,StructMineDataPipeline:0.34361467,econ:0.92425287
+Track join is more complex than hash join , offering more choices for overlap .	871406	auto:0.85512847,textrank:0.8374918,kea:0.84248674,rake:0.77809626,spacy_np:0.0,StructMineDataPipeline:0.8559723,econ:1.0
+The estimation on selection is similar to that of hash join ,	1817631	auto:0.25154912,textrank:0.69652176,kea:0.29360723,rake:0.8121767,spacy_np:0.2921292,StructMineDataPipeline:0.30518463,econ:0.5711876
+Block Nested Loops BNL and Hash Join .	386665	auto:0.8016883,textrank:0.77990294,kea:0.7860224,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.80271834,econ:1.0
+Consequently , radix hash join	1265347	auto:0.4622106,textrank:0.41402566,kea:0.42022273,rake:0.42546505,spacy_np:0.43250316,StructMineDataPipeline:0.40554482,econ:0.48527604
+double pipelined join outperforms the hybrid hash join .	539151	auto:0.0,textrank:0.765346,kea:0.76981086,rake:0.76898944,spacy_np:0.0,StructMineDataPipeline:0.76814926,econ:0.7638676
+7 2 Parallel Hash Join	591282	auto:0.0,textrank:0.4458338,kea:0.46454895,rake:0.4360319,spacy_np:0.47724703,StructMineDataPipeline:0.43747148,econ:0.527534
+a Hash Join with disk	951376	auto:0.0,textrank:0.0,kea:0.0,rake:0.4396676,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6424931
+As usual , hash join requires s1 to contain an equality condition .	724330	auto:0.32121882,textrank:0.49216023,kea:0.52128965,rake:0.49252987,spacy_np:0.35403457,StructMineDataPipeline:0.55605143,econ:0.34559742
+hash join Figure 2 : Demonstration GUI	1071026	auto:0.58591366,textrank:0.54546696,kea:0.556262,rake:0.56311303,spacy_np:0.0,StructMineDataPipeline:0.53029805,econ:0.5395378
+Track join is more complex than hash join , offering more choices for overlap .	871406	auto:0.6736794,textrank:0.64865476,kea:0.6524951,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+metric hash join .	200636	auto:0.7630185,textrank:0.7394793,kea:0.7462037,rake:0.69672644,spacy_np:0.0,StructMineDataPipeline:0.76467896,econ:1.0
+This hash table is then used for a hash join with the relation , i e .	1401970	auto:0.47349977,textrank:0.46910542,kea:0.46582025,rake:0.43897176,spacy_np:0.564662,StructMineDataPipeline:0.5148755,econ:0.6438876
+Hash Join l_orderkey=o_orderkey	8821	auto:0.0,textrank:0.0,kea:0.0,rake:0.6463374,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6435419
+5 4 Hash Join	741443	auto:0.0,textrank:0.56211615,kea:0.50836515,rake:0.55903757,spacy_np:0.0,StructMineDataPipeline:0.485283,econ:0.5512027
+Consequently , radix hash join	1265347	auto:0.0,textrank:0.51653385,kea:0.52349514,rake:0.50377876,spacy_np:0.0,StructMineDataPipeline:0.53082854,econ:0.5228189
+These experiments used a hybrid hash join	1482509	auto:0.55697846,textrank:0.52780807,kea:0.5355112,rake:0.5141566,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+query where the tables are joined with a hash join , which	55104	auto:0.47529578,textrank:0.43510693,kea:0.4386798,rake:0.44195488,spacy_np:0.4133022,StructMineDataPipeline:0.36887652,econ:0.36106303
+query where the tables are joined with a hash join , which	55104	auto:0.40245393,textrank:0.38239002,kea:0.3859251,rake:0.36542886,spacy_np:0.40510294,StructMineDataPipeline:0.3679926,econ:0.38576525
+Merge : Same as the one for the hash join , but a nested-loop join is implemented , instead of a hash join .	982943	auto:0.37290272,textrank:0.3579342,kea:0.35177243,rake:0.35801625,spacy_np:0.39711824,StructMineDataPipeline:0.36829233,econ:0.3534268
+demonstrate how a hash join can be mapped to the cost	1817548	auto:0.44275364,textrank:0.429623,kea:0.43822527,rake:0.40502134,spacy_np:0.48374072,StructMineDataPipeline:0.45636874,econ:0.44841015
+Tables 3 and 4 show the times per step for hash join and 4-phase track join .	871392	auto:0.0,textrank:0.49069393,kea:0.0,rake:0.4710033,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.94162697
+The first hash join joins r and p , and the second hash join takes the result and joins it with q .	746911	auto:0.0,textrank:0.4641145,kea:0.0,rake:0.47673368,spacy_np:0.5121967,StructMineDataPipeline:0.0,econ:0.5614883
+RS Pipelined Hash Join	945577	auto:0.0,textrank:0.43885103,kea:0.4613637,rake:0.45404837,spacy_np:0.4881838,StructMineDataPipeline:0.47249004,econ:0.59938824
+We develop all hash join vari-	2102136	auto:0.43983588,textrank:0.38454413,kea:0.40983847,rake:0.3960091,spacy_np:0.39541128,StructMineDataPipeline:0.4115796,econ:0.42401946
+to a hash join or changing from a multi-pass hash join to a single-pass hash join	424458	auto:0.0,textrank:0.0,kea:0.0,rake:0.48822528,spacy_np:0.0,StructMineDataPipeline:0.48068622,econ:1.0
+Merge : Same as the one for the hash join , but a nested-loop join is implemented , instead of a hash join .	982943	auto:0.58333623,textrank:0.54931754,kea:0.55785036,rake:0.5402532,spacy_np:0.530182,StructMineDataPipeline:0.4805792,econ:0.47164884
+2 2 3 Lazy hash join	1341481	auto:0.42743134,textrank:0.39859033,kea:0.40816033,rake:0.38959017,spacy_np:0.46282318,StructMineDataPipeline:0.41666704,econ:0.40931505
+For the uniform hash join workload , we again use the no-partitioning hash join workload of Balkesen et al .	1625123	auto:0.4274626,textrank:0.3665498,kea:0.37890264,rake:0.3840724,spacy_np:0.43414655,StructMineDataPipeline:0.38292727,econ:0.4733979
+modify each join method in Hash Join , and Merge Join ,	1037552	auto:0.37758914,textrank:0.35230044,kea:0.3678757,rake:0.33840874,spacy_np:0.3980373,StructMineDataPipeline:0.0,econ:0.0
+The reduction in CPU time for hash join is very significant .	367848	auto:0.54404974,textrank:0.4436766,kea:0.5190549,rake:0.5113272,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.5925302
+operators in databases i e , selection and hash join .	1817695	auto:0.5123292,textrank:0.47934908,kea:0.489493,rake:0.47254902,spacy_np:0.0,StructMineDataPipeline:0.4927654,econ:0.0
+Hash Join hash Table Scan t )	2181333	auto:0.0,textrank:0.0,kea:0.0,rake:0.6004088,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.8932341
+4 1 Hash Join	376330	auto:0.6534455,textrank:0.64046925,kea:0.6230374,rake:0.62683034,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+The main representatives of the latter class , also named last resort algorithms 4 , are nested block join , sort-merge join , simple hash join , Grace hash join , hybrid hash join .	58454	auto:0.0,textrank:0.0,kea:0.0,rake:0.81986827,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Consider R S using a hash join alternative .	1682657	auto:0.0,textrank:0.47431147,kea:0.44490838,rake:0.54093665,spacy_np:0.0,StructMineDataPipeline:0.49116683,econ:0.48377013
+MR re-implementing indexes , materialized views , hash join ,	343903	auto:0.7542522,textrank:0.73022705,kea:0.7370694,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.75589794,econ:1.0
+join hash join ;	78886	auto:0.0,textrank:0.0,kea:0.0,rake:0.569137,spacy_np:0.0,StructMineDataPipeline:0.5486654,econ:0.59153485
+4 2 2 Hash Join	982918	auto:0.57181495,textrank:0.54494977,kea:0.5519734,rake:0.53211665,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+to a hash join or changing from a multi-pass hash join to a single-pass hash join	424458	auto:0.42815554,textrank:0.0,kea:0.0,rake:0.39326003,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6151089
+We plan to implement hash join in the future and study its impact on our techniques .	942499	auto:0.3869127,textrank:0.33579412,kea:0.33991697,rake:0.35924917,spacy_np:0.38931125,StructMineDataPipeline:0.34306648,econ:0.3545557
+HASH JOIN IMPLEMENTATION	1128047	auto:0.4541081,textrank:0.42705232,kea:0.43899167,rake:0.76599926,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.9147125
+metric hash join .	200636	auto:0.0,textrank:0.66931725,kea:0.0,rake:0.6341195,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Index Join to Index Join Index Join to Hash Join Hash Join to Index Join Hash Join to Hash Join Index Join to Index Join bitmap scan )	2077157	auto:0.0,textrank:0.84921396,kea:0.85316795,rake:0.8429978,spacy_np:0.0,StructMineDataPipeline:0.8595634,econ:0.8624471
+6 1 Hash Join Performance	2062137	auto:0.57027596,textrank:0.5659578,kea:0.5690794,rake:0.551918,spacy_np:0.48963967,StructMineDataPipeline:0.0,econ:0.0
+In hash join , we assume the hash destination is the fifth node .	871031	auto:0.47336295,textrank:0.44366062,kea:0.4505794,rake:0.43763024,spacy_np:0.45973685,StructMineDataPipeline:0.42109185,econ:0.40800452
+5 Hash Join	2139941	auto:0.0,textrank:0.0,kea:0.0,rake:0.42405266,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6253893
+Perhaps just as Hash Join , Index Join and Nested Loop Join work	1248275	auto:0.0,textrank:0.5815037,kea:0.59888715,rake:0.5772067,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+The cost of filtered late materialized hash join , is :	871195	auto:0.54436535,textrank:0.5004188,kea:0.50388515,rake:0.49898776,spacy_np:0.52025616,StructMineDataPipeline:0.5017126,econ:0.4897984
+When the hash join and sort-merge join queries were executed with disk , the response time of hash join was about twice faster than that of sort-merge join .	951390	auto:0.43774053,textrank:0.40774414,kea:0.4132105,rake:0.40681654,spacy_np:0.4198903,StructMineDataPipeline:0.0,econ:1.0
+6 2 2 Hash Join	774846	auto:0.46068335,textrank:0.44351903,kea:0.44663182,rake:0.45839664,spacy_np:0.4621423,StructMineDataPipeline:0.453643,econ:0.4553233
+Hash Join hash Table Scan t )	2181333	auto:0.90080446,textrank:0.8874843,kea:0.8912391,rake:0.8584303,spacy_np:0.0,StructMineDataPipeline:0.9012796,econ:1.0
+Perhaps just as Hash Join , Index Join and Nested Loop Join work	1248275	auto:0.568088,textrank:0.49020347,kea:0.558211,rake:0.47945908,spacy_np:0.60918665,StructMineDataPipeline:0.56980854,econ:0.0
+These experiments used a hybrid hash join	1482509	auto:0.45630354,textrank:0.39604658,kea:0.40306467,rake:0.41704556,spacy_np:0.42728516,StructMineDataPipeline:0.40702432,econ:0.3875246
+5 2 2 Hash Join	2057828	auto:0.6150339,textrank:0.47950637,kea:0.58714825,rake:0.57802874,spacy_np:0.5457884,StructMineDataPipeline:0.5080555,econ:0.54429835
+demonstrate how a hash join can be mapped to the cost	1817548	auto:0.0,textrank:0.0,kea:0.0,rake:0.6015677,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.73170424
+mentioned problems with a conventional hash join in a data	538788	auto:0.67226166,textrank:0.64384186,kea:0.64758563,rake:0.6285799,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+hash join with large hash tables .	2077003	auto:0.487406,textrank:0.45886973,kea:0.46513674,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.4748143,econ:0.64233315
+We refer to the hybrid hash join between the intermediate result that is generated by the first hybrid hash join and the lineitem relation as the second hybrid hash join .	378991	auto:0.91585016,textrank:0.9042465,kea:0.9075282,rake:0.86480695,spacy_np:0.0,StructMineDataPipeline:0.9162747,econ:1.0
+With the double pipelined hash join , there are at least four possibilities .	538823	auto:0.0,textrank:0.7551095,kea:0.0,rake:0.7349542,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+8 implemented a multi-threaded hash join on the Cray MTA-2 architecture .	1043290	auto:0.0,textrank:0.6235137,kea:0.63588303,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.65512735,econ:0.0
+6 3 Comparison between Hash Join and Sortmerge Join	2062277	auto:0.0,textrank:0.75327367,kea:0.7680216,rake:0.7538556,spacy_np:0.0,StructMineDataPipeline:0.7818358,econ:0.0
+We plan to implement hash join in the future and study its impact on our techniques .	942499	auto:0.4613071,textrank:0.43869138,kea:0.44130802,rake:0.42637756,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+Table 2 : Analytical cost model vs join time in minutes for hash join .	774814	auto:0.0,textrank:0.61091036,kea:0.6184087,rake:0.62474066,spacy_np:0.0,StructMineDataPipeline:0.5213897,econ:0.0
+Phi is then 7 faster for radixsort and 8 slower for hash join .	1035664	auto:0.41154167,textrank:0.38700923,kea:0.35094482,rake:0.41583985,spacy_np:0.40932953,StructMineDataPipeline:0.3668381,econ:0.0
+There are three common types of hash join : the simple hash join , the GRACE hash join , and the hybrid hash join Shap86 .	741444	auto:0.42035764,textrank:0.39230704,kea:0.39746034,rake:0.38590795,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.64200544
+6 HASH JOIN	926461	auto:0.0,textrank:0.0,kea:0.0,rake:0.45388588,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6144578
+These experiments used a hybrid hash join	1482509	auto:0.3563065,textrank:0.33377534,kea:0.33755836,rake:0.32253602,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.65733004
+Block Nested Loops BNL and Hash Join .	386665	auto:0.43097124,textrank:0.40645793,kea:0.4096077,rake:0.39877057,spacy_np:0.49283147,StructMineDataPipeline:0.4303372,econ:0.42274475
+5 1 Hash Join	1625168	auto:0.39502847,textrank:0.37133542,kea:0.3673166,rake:0.36125156,spacy_np:0.409205,StructMineDataPipeline:0.35906243,econ:0.37681532
+5 2 Hash Join	368045	auto:0.693084,textrank:0.6751574,kea:0.3807291,rake:0.61922854,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+query where the tables are joined with a hash join , which	55104	auto:0.43988383,textrank:0.4086822,kea:0.4182377,rake:0.40490234,spacy_np:0.44974306,StructMineDataPipeline:0.38737965,econ:0.39439318
+For the uniform hash join workload , we again use the no-partitioning hash join workload of Balkesen et al .	1625123	auto:0.0,textrank:0.47017846,kea:0.4743609,rake:0.4583238,spacy_np:0.0,StructMineDataPipeline:0.4860172,econ:0.53446007
+We refer to the hybrid hash join between the intermediate result that is generated by the first hybrid hash join and the lineitem relation as the second hybrid hash join .	378991	auto:0.56054974,textrank:0.529586,kea:0.5394963,rake:0.5179604,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Block Nested Loops BNL and Hash Join .	386665	auto:0.0,textrank:0.5441503,kea:0.55182296,rake:0.5478944,spacy_np:0.0,StructMineDataPipeline:0.5598924,econ:0.55061036
+For example , Microsoft SQL Server 2000 starts using an in-memory hash join and gradually transitions to grace hash join , and recursive hash join , depending on the size of the build input 2 .	1896890	auto:0.7667956,textrank:0.74361074,kea:0.7502801,rake:0.71213007,spacy_np:0.0,StructMineDataPipeline:0.7685911,econ:1.0
+operators in databases i e , selection and hash join .	1817695	auto:0.0,textrank:0.0,kea:0.0,rake:0.5820399,spacy_np:0.0,StructMineDataPipeline:0.52699697,econ:0.64072275
+2 2 3 Lazy hash join	1341481	auto:0.67996454,textrank:0.0,kea:0.0,rake:0.64568233,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Hash join is a quite complex operation .	1817355	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.68829286
+a Wisconsin hash join processing	1412021	auto:0.0,textrank:0.6343648,kea:0.6348783,rake:0.62992156,spacy_np:0.0,StructMineDataPipeline:0.4811704,econ:0.55715376
+4 2 1 Conventional Hash Join	538723	auto:0.0,textrank:0.6463687,kea:0.65162885,rake:0.6377758,spacy_np:0.0,StructMineDataPipeline:0.45046318,econ:0.5905117
+Therefore , as compared to sort-merge join , hash join would require 1 5X more bandwidth .	2062321	auto:0.6743053,textrank:0.64167225,kea:0.651625,rake:0.6417749,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6346624
+4 2 1 Parallel hash join	239025	auto:0.6174928,textrank:0.52751017,kea:0.58784425,rake:0.5770932,spacy_np:0.5715083,StructMineDataPipeline:0.0,econ:0.0
+A hash join has several important parameters that can be	538737	auto:0.0,textrank:0.0,kea:0.0,rake:0.56566864,spacy_np:0.0,StructMineDataPipeline:0.5725866,econ:1.0
+Two other algorithms can be used to process a join : hash join and index nested-loop join .	1079961	auto:0.0,textrank:0.6927018,kea:0.0,rake:0.69289595,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.5723303
+Hash Join hash Table Scan t )	2181333	auto:0.8692163,textrank:0.85297954,kea:0.85761714,rake:0.74054545,spacy_np:0.0,StructMineDataPipeline:0.8701014,econ:1.0
+Hash join weak locality Hash join moderate locality )	2077539	auto:0.46926335,textrank:0.44950062,kea:0.45380273,rake:0.5030644,spacy_np:0.4496006,StructMineDataPipeline:0.44499922,econ:0.0

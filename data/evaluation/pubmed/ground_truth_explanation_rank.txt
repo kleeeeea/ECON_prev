@@ -1,0 +1,1249 @@
+matched pairs of er	kea:1042
+major component	econ:1027 auto:1079 rake:214 kea:1057 StructMineDataPipeline:473 textrank:137
+genital hpv infection	econ:1098 auto:265 rake:55 kea:1019 StructMineDataPipeline:986 spacy_np:859
+cumulative bcss	econ:1150 rake:335 kea:1156 StructMineDataPipeline:1102
+cincinnati	econ:993 auto:492 kea:599 StructMineDataPipeline:1026 spacy_np:910 textrank:40
+lh surge	econ:816 auto:148 rake:298 kea:1148 StructMineDataPipeline:1127
+existing worldwide health system architecture	rake:15
+alf	econ:1029 auto:842 kea:423 StructMineDataPipeline:870 spacy_np:737 textrank:501
+alleles	econ:452 auto:821 kea:609 StructMineDataPipeline:259 spacy_np:401 textrank:435
+neurofibromatosis	econ:1053 auto:538 kea:365 StructMineDataPipeline:459 spacy_np:413 textrank:479
+reversibility	econ:1030 auto:606 kea:976 StructMineDataPipeline:433 spacy_np:488 textrank:527
+messenger rna	econ:520 auto:47 rake:222 kea:825 StructMineDataPipeline:846 spacy_np:758
+renal biopsy specimens	econ:793 auto:319 rake:65 kea:735 StructMineDataPipeline:555 spacy_np:548
+non-insulin-dependent diabetes	econ:2 kea:370 StructMineDataPipeline:204 spacy_np:593
+acute inferior mi	econ:1128 rake:79 kea:1152 StructMineDataPipeline:1104 spacy_np:1023
+cerivastatin	econ:591 auto:601 kea:265 StructMineDataPipeline:556 spacy_np:479 textrank:549
+the 2-segmental l4-l5 l5-s1 disc fusion	spacy_np:992
+meditation	econ:1031 auto:656 kea:262 StructMineDataPipeline:867 spacy_np:742 textrank:563
+fundaci la marat	econ:844 kea:1122 StructMineDataPipeline:1061
+iuds	econ:422 auto:548 kea:317 StructMineDataPipeline:460 spacy_np:414 textrank:142
+scs	econ:524 auto:725 kea:836 StructMineDataPipeline:913 spacy_np:817 textrank:550
+mycobacterium fortuitum	econ:897 auto:56 rake:273 kea:943 StructMineDataPipeline:1027 spacy_np:911
+visual analogue	econ:5 auto:248 kea:962 textrank:750
+australian e-health research	econ:868 kea:644
+editors	econ:995 auto:401 kea:43 StructMineDataPipeline:458 spacy_np:446 textrank:143
+3 68 95 ci	rake:28 spacy_np:1071
+cytosol	econ:938 auto:975 kea:631 StructMineDataPipeline:649 spacy_np:1024 textrank:571
+hyperthermia	econ:1032 auto:244 kea:364 StructMineDataPipeline:379 spacy_np:377 textrank:508
+h-reflex	econ:1116 kea:1094 StructMineDataPipeline:1079 spacy_np:1072
+monocytes	econ:337 auto:631 kea:386 StructMineDataPipeline:170 spacy_np:147 textrank:152
+cd19 car	econ:759 rake:270 kea:778 StructMineDataPipeline:1129
+both cytoplasmic and nuclear levels	spacy_np:1025
+carcinoma patients	econ:37 auto:1096 rake:284 kea:919 StructMineDataPipeline:1081 textrank:537
+westmead	econ:507 auto:665 kea:1117 StructMineDataPipeline:1105 spacy_np:1026 textrank:764
+hormone replacement therapy hrt	econ:936 auto:63 rake:18 StructMineDataPipeline:725 spacy_np:616
+leukocytes	econ:595 auto:750 kea:461 StructMineDataPipeline:256 spacy_np:252 textrank:362
+breathing	econ:565 auto:615 kea:465 StructMineDataPipeline:465 spacy_np:368 textrank:381
+benzodiazepines	econ:673 auto:507 kea:614 StructMineDataPipeline:274 spacy_np:287 textrank:360
+alb	econ:680 auto:522 kea:519 StructMineDataPipeline:1057 spacy_np:1015 textrank:748
+atherothrombosis	econ:935 auto:804 kea:521 StructMineDataPipeline:569 spacy_np:474
+fak	econ:845 auto:921 kea:400 StructMineDataPipeline:1077 spacy_np:955 textrank:574
+royal melbourne hospital	econ:727 auto:122 rake:115 kea:1006 StructMineDataPipeline:807 spacy_np:993
+polaris-1	econ:769 kea:1064 StructMineDataPipeline:1130 spacy_np:1073
+lynch	econ:515 auto:724 kea:846 StructMineDataPipeline:1043 spacy_np:1018
+several noninvasive techniques developed	rake:33
+surgeon	econ:698 auto:546 kea:438 StructMineDataPipeline:224 spacy_np:581 textrank:405
+american subjects with chest	kea:1065
+beta tgf	econ:873 rake:299 kea:1157
+tudca	econ:1138 kea:1162 StructMineDataPipeline:1106 spacy_np:1027
+the following case report	spacy_np:969
+70 2 per 1000 person	rake:2
+proportional hazards regression	econ:10 auto:768 kea:971 StructMineDataPipeline:1131 textrank:792
+2316 patients	rake:308 spacy_np:1028
+scandinavia	econ:702 auto:930 kea:987 StructMineDataPipeline:906 spacy_np:771
+gender	econ:879 auto:313 kea:321 StructMineDataPipeline:103 spacy_np:61 textrank:410
+trc	econ:1161 auto:1016 kea:1133 StructMineDataPipeline:1056 spacy_np:956 textrank:773
+block rbbb	econ:911 kea:1092
+cmc	econ:1159 auto:966 kea:607 StructMineDataPipeline:1099 spacy_np:1019 textrank:724
+cma	econ:1033 auto:871 kea:483 StructMineDataPipeline:825 spacy_np:783 textrank:217
+el tor	econ:764 auto:2 kea:550 StructMineDataPipeline:1063 spacy_np:1074
+cells vecs	econ:777 kea:1161
+recipient lymphocytes towards donor strain	rake:16 StructMineDataPipeline:1132
+southern denmark	econ:842 rake:349 kea:1067 StructMineDataPipeline:1075 spacy_np:957
+ucb banking	econ:1158 rake:338 kea:951 StructMineDataPipeline:1080 spacy_np:1029
+mucosal damage	econ:148 auto:166 rake:199 kea:570 StructMineDataPipeline:709 spacy_np:642
+breast-conserving surgery	econ:791 kea:736 StructMineDataPipeline:474 spacy_np:408
+lateral lnm	econ:1139 auto:181 rake:111 kea:1153 StructMineDataPipeline:987 spacy_np:914
+cytomegalovirus	econ:14 auto:393 kea:304 StructMineDataPipeline:207 spacy_np:152 textrank:389
+states hospitals	econ:667 kea:1129 textrank:691
+ceramide	econ:820 auto:720 kea:651 StructMineDataPipeline:811 spacy_np:627 textrank:373
+fragment length polymorphism	econ:15 auto:624 rake:119 kea:1002 textrank:751
+nosocomial pneumonia	econ:723 auto:136 rake:120 kea:787 StructMineDataPipeline:475 spacy_np:402
+amoebiasis	econ:594 auto:447 kea:136 StructMineDataPipeline:658 spacy_np:594 textrank:12
+cefoxitin	econ:552 auto:273 kea:557 StructMineDataPipeline:386 spacy_np:325 textrank:349
+marsden nhs foundation	econ:853 kea:1128
+suv max	econ:516 auto:92 rake:350 kea:611 StructMineDataPipeline:1028 spacy_np:964
+cfp	econ:888 auto:1009 kea:981 StructMineDataPipeline:1098 spacy_np:1065 textrank:749
+alkylating agent	auto:218 rake:329 kea:1149 StructMineDataPipeline:1117 spacy_np:1103
+treatment failure among hospitalized patients	rake:14
+eradication	econ:375 auto:470 kea:74 StructMineDataPipeline:149 spacy_np:135 textrank:444
+sua	econ:378 auto:508 kea:546 StructMineDataPipeline:689 spacy_np:699 textrank:323
+fonds pierre berg	econ:874 rake:121 kea:1154 spacy_np:1075
+acidosis	econ:418 auto:444 kea:117 StructMineDataPipeline:298 spacy_np:317 textrank:560
+merck sharp dohme	econ:818 auto:26 rake:93 kea:1027 StructMineDataPipeline:988 spacy_np:860
+meticillin resistant staphylococcus aureus mrsa	auto:170
+arizona hinshawii	econ:1013 rake:264 kea:907 StructMineDataPipeline:1133 textrank:554
+mainly beige brite adipocytes	rake:43 spacy_np:1076
+malaria	econ:17 auto:384 kea:4 StructMineDataPipeline:43 spacy_np:22 textrank:121
+39 2 c	spacy_np:1030
+angiotensin ii receptor blocker valsartan	rake:3 StructMineDataPipeline:1134
+sodium-potassium-atpase	econ:1069 kea:1089 StructMineDataPipeline:1107 spacy_np:1031
+racial groups	econ:404 auto:134 rake:213 kea:716 StructMineDataPipeline:558 spacy_np:668
+structure from electrical impedance	kea:876
+following treatment	rake:168 kea:1151 StructMineDataPipeline:1041 spacy_np:1032 textrank:106
+institute	econ:1065 auto:458 kea:64 StructMineDataPipeline:341 spacy_np:722 textrank:66
+ctx	econ:1087 auto:699 kea:428 StructMineDataPipeline:909 spacy_np:794 textrank:600
+streptococcus faecalis	econ:553 auto:66 rake:352 kea:1077 StructMineDataPipeline:812 spacy_np:648
+etiology	econ:560 auto:510 kea:359 StructMineDataPipeline:62 spacy_np:189 textrank:481
+growth restriction	econ:21 auto:571 rake:149 kea:629 StructMineDataPipeline:1064 spacy_np:1033
+salmeterol	econ:859 auto:619 kea:480 StructMineDataPipeline:534 spacy_np:458 textrank:370
+adverse cardiovascular outcomes	econ:1090 auto:95 rake:80 kea:864 StructMineDataPipeline:787 spacy_np:636
+hbp	econ:23 auto:759 kea:541 StructMineDataPipeline:677 spacy_np:591 textrank:577
+mdr pathogens	econ:1063 rake:344 kea:1158 StructMineDataPipeline:1108 spacy_np:1034
+epidermal growth factor receptor egfr	econ:438 auto:35 rake:0 StructMineDataPipeline:682 spacy_np:765
+haemophilia	econ:25 auto:359 kea:492 StructMineDataPipeline:411 spacy_np:340 textrank:42
+american joint committee on cancer ajcc	auto:157
+statistically significant differences	econ:1110 auto:763 rake:37 spacy_np:510 textrank:774
+nanb hepatitis	econ:472 auto:140 rake:188 kea:555 StructMineDataPipeline:921 spacy_np:632
+readmission	econ:27 auto:335 kea:497 StructMineDataPipeline:304 spacy_np:274 textrank:533
+fluorodeoxyglucose positron emission tomography fdg pet	auto:165
+durham	econ:891 auto:466 kea:1115 StructMineDataPipeline:1058 spacy_np:983 textrank:13
+suicides	econ:961 auto:664 kea:524 StructMineDataPipeline:401 spacy_np:433 textrank:322
+san francisco	econ:28 auto:5 rake:100 kea:774 StructMineDataPipeline:524 spacy_np:468
+derivatives	econ:918 auto:957 kea:330 StructMineDataPipeline:609 spacy_np:715 textrank:553
+toxoplasmosis	econ:29 auto:198 kea:525 StructMineDataPipeline:429 spacy_np:356 textrank:660
+vaccine	econ:251 auto:557 kea:18 StructMineDataPipeline:48 spacy_np:111 textrank:3
+calcium carbonate	econ:912 auto:14 rake:63 kea:823 StructMineDataPipeline:633 spacy_np:527
+ventricular end-diastolic pressure	econ:582 kea:1016 StructMineDataPipeline:930 spacy_np:798
+prep	econ:1076 auto:641 kea:374 StructMineDataPipeline:657 spacy_np:562 textrank:257
+statistically significant p 05	auto:1076 rake:29
+micronutrients	econ:768 auto:827 kea:203 StructMineDataPipeline:578 spacy_np:531 textrank:638
+optimal management	econ:1152 auto:862 rake:243 kea:1044 StructMineDataPipeline:347 spacy_np:384
+comorbidities	econ:329 auto:587 kea:496 StructMineDataPipeline:79 spacy_np:60 textrank:375
+antigens	econ:35 auto:863 kea:162 StructMineDataPipeline:125 spacy_np:80 textrank:147
+pfs	econ:322 auto:316 kea:587 StructMineDataPipeline:322 spacy_np:321 textrank:506
+everolimus	econ:611 auto:570 kea:1079 StructMineDataPipeline:562 spacy_np:405 textrank:709
+substantia nigra	econ:410 auto:87 rake:312 kea:914 StructMineDataPipeline:790 spacy_np:1057
+opioids	econ:359 auto:262 kea:267 StructMineDataPipeline:261 spacy_np:231 textrank:207
+science	econ:39 auto:264 kea:216 StructMineDataPipeline:142 spacy_np:115 textrank:619
+20th century	econ:664 auto:74 rake:313 kea:993 StructMineDataPipeline:395 spacy_np:1113
+cataract	econ:628 auto:408 kea:125 StructMineDataPipeline:381 spacy_np:345 textrank:511
+lymphocytosis	econ:909 auto:755 kea:561 StructMineDataPipeline:729 spacy_np:687 textrank:677
+degenerative joint disease	econ:834 auto:123 rake:40 kea:770 StructMineDataPipeline:622 spacy_np:575
+paralysis	econ:751 auto:427 kea:490 StructMineDataPipeline:333 spacy_np:300 textrank:558
+daptomycin	econ:835 auto:604 kea:193 StructMineDataPipeline:520 spacy_np:502 textrank:522
+acute aortic dissection	econ:1024 auto:101 rake:61 kea:843 StructMineDataPipeline:559 spacy_np:489
+keratitis	econ:923 auto:688 kea:292 StructMineDataPipeline:659 spacy_np:564 textrank:151
+readmissions	econ:1097 auto:404 kea:225 StructMineDataPipeline:342 spacy_np:329 textrank:270
+counseling	econ:567 auto:672 kea:380 StructMineDataPipeline:297 spacy_np:194 textrank:37
+lactase	econ:373 auto:728 kea:237 StructMineDataPipeline:1045 spacy_np:966 textrank:455
+nystagmus	econ:952 auto:769 kea:522 StructMineDataPipeline:842 spacy_np:623 textrank:457
+hypersensitivity	econ:50 auto:767 kea:424 StructMineDataPipeline:318 spacy_np:308 textrank:670
+animal	econ:355 auto:592 kea:357 StructMineDataPipeline:392 spacy_np:812 textrank:105
+signaling pathway	econ:443 auto:48 rake:151 kea:1086 spacy_np:1013 textrank:720
+titre	econ:52 auto:1023 kea:743 StructMineDataPipeline:357 spacy_np:503 textrank:198
+erlotinib	econ:435 auto:537 kea:917 StructMineDataPipeline:443 spacy_np:336 textrank:637
+neurocysticercosis	econ:1008 auto:396 kea:331 StructMineDataPipeline:476 spacy_np:409 textrank:374
+clone	econ:474 auto:875 kea:585 StructMineDataPipeline:580 spacy_np:1017 textrank:335
+tumor necrosis factor tnf	econ:477 auto:76 rake:17 StructMineDataPipeline:543 spacy_np:838
+bioinformatics	econ:503 auto:532 kea:1025 StructMineDataPipeline:927 spacy_np:832 textrank:768
+calcitriol	econ:429 auto:369 kea:318 StructMineDataPipeline:353 spacy_np:313 textrank:419
+prostate	econ:56 auto:739 kea:96 StructMineDataPipeline:186 spacy_np:302 textrank:218
+neck	econ:57 auto:630 kea:320 StructMineDataPipeline:137 spacy_np:125 textrank:469
+lrp	econ:519 auto:762 kea:645 StructMineDataPipeline:960 spacy_np:829 textrank:524
+hypoglycaemia	econ:631 auto:271 kea:150 StructMineDataPipeline:189 spacy_np:148 textrank:449
+old woman	econ:58 rake:117 kea:926 StructMineDataPipeline:1144 textrank:767
+thermogenesis	econ:458 auto:703 kea:706 StructMineDataPipeline:634 spacy_np:565 textrank:719
+dilatation	econ:973 auto:860 kea:363 StructMineDataPipeline:292 spacy_np:260 textrank:353
+volunteers	econ:711 auto:772 kea:198 StructMineDataPipeline:140 spacy_np:228 textrank:463
+mastectomy	econ:61 auto:702 kea:385 StructMineDataPipeline:234 spacy_np:177 textrank:459
+smoking history	econ:1132 auto:149 rake:225 kea:812 StructMineDataPipeline:950 spacy_np:519
+serotonergic	econ:959 auto:969 kea:1070 StructMineDataPipeline:1082 spacy_np:1079 textrank:471
+rnfl	econ:692 auto:526 kea:133 StructMineDataPipeline:941 spacy_np:950 textrank:507
+basic science	econ:929 auto:89 rake:226 kea:618 StructMineDataPipeline:607 spacy_np:589
+proteus mirabilis	econ:471 auto:21 rake:135 kea:1105 StructMineDataPipeline:660 spacy_np:551
+immunisation	econ:343 auto:405 kea:41 StructMineDataPipeline:215 spacy_np:183 textrank:409
+ipth	econ:64 auto:938 kea:790 StructMineDataPipeline:822 spacy_np:688 textrank:595
+sucralfate	econ:525 auto:201 kea:6 StructMineDataPipeline:117 spacy_np:279 textrank:112
+ethics committee	econ:671 auto:28 rake:331 kea:1013 StructMineDataPipeline:916 spacy_np:1081
+vte	econ:351 auto:428 kea:160 StructMineDataPipeline:266 spacy_np:175 textrank:333
+sodium	econ:68 auto:585 kea:24 StructMineDataPipeline:128 spacy_np:89 textrank:78
+polycystic ovary syndrome pcos	econ:924 auto:90 rake:26 StructMineDataPipeline:772 spacy_np:702
+2-year follow-up	econ:1108 kea:880 StructMineDataPipeline:623 spacy_np:725
+cholestasis	econ:69 auto:241 kea:344 StructMineDataPipeline:334 spacy_np:291 textrank:316
+selenium	econ:70 auto:217 kea:134 StructMineDataPipeline:404 spacy_np:388 textrank:161
+important advances	econ:1082 auto:835 rake:253 kea:1052 StructMineDataPipeline:581 spacy_np:546
+osteonecrosis	econ:642 auto:421 kea:732 StructMineDataPipeline:414 spacy_np:380 textrank:528
+governments	econ:747 auto:294 kea:690 StructMineDataPipeline:214 spacy_np:203 textrank:271
+clp	econ:1039 auto:803 kea:556 StructMineDataPipeline:965 spacy_np:789 textrank:561
+cefoperazone	econ:674 auto:355 kea:753 StructMineDataPipeline:383 spacy_np:357 textrank:472
+mesothelioma	econ:588 auto:256 kea:58 StructMineDataPipeline:438 spacy_np:392 textrank:248
+loxl2	econ:1089 kea:739 StructMineDataPipeline:1083 spacy_np:995
+infarcts	econ:73 auto:960 kea:350 StructMineDataPipeline:508 spacy_np:784 textrank:122
+dyspepsia	econ:382 auto:473 kea:97 StructMineDataPipeline:273 spacy_np:235 textrank:245
+posterior fossa	econ:1015 auto:53 rake:106 kea:729 StructMineDataPipeline:776 textrank:726
+term	econ:774 auto:932 kea:1143 StructMineDataPipeline:175 spacy_np:182 textrank:249
+prophylaxis	econ:75 auto:506 kea:188 StructMineDataPipeline:51 spacy_np:37 textrank:290
+tuberculin	econ:77 auto:635 kea:543 StructMineDataPipeline:834 spacy_np:630 textrank:461
+skeletal	auto:489 kea:1125 StructMineDataPipeline:1039 textrank:395
+north africa	econ:867 auto:100 rake:348 kea:785 StructMineDataPipeline:889 spacy_np:720
+debilitating of psychiatric disorders	kea:912
+nematode	econ:863 auto:986 kea:936 StructMineDataPipeline:1094 spacy_np:988 textrank:356
+blood glucose concentration	econ:311 auto:208 rake:27 kea:1003 StructMineDataPipeline:598 spacy_np:631
+0 7 mmol l	rake:41 spacy_np:1068
+companies	econ:990 auto:706 kea:291 StructMineDataPipeline:675 spacy_np:700 textrank:327
+relaxing factor	econ:370 auto:1015 kea:575 StructMineDataPipeline:1137 spacy_np:1083 textrank:565
+ghrelin	econ:82 auto:315 kea:174 StructMineDataPipeline:462 spacy_np:434 textrank:269
+laboratory	econ:682 auto:509 kea:57 StructMineDataPipeline:111 spacy_np:255 textrank:125
+papillary thyroid	econ:85 auto:655 kea:763 spacy_np:919 textrank:526
+herpes simplex virus	econ:86 auto:4 rake:22 kea:450 StructMineDataPipeline:377 spacy_np:779
+alcohol	econ:87 auto:418 kea:26 StructMineDataPipeline:44 spacy_np:18 textrank:90
+blacks	econ:549 auto:338 kea:44 StructMineDataPipeline:45 spacy_np:24 textrank:124
+triazolam	econ:529 auto:483 kea:109 StructMineDataPipeline:413 spacy_np:410 textrank:567
+sitagliptin	econ:986 auto:687 kea:553 StructMineDataPipeline:591 spacy_np:483 textrank:625
+hcc	econ:88 auto:486 kea:85 StructMineDataPipeline:95 spacy_np:53 textrank:213
+internet	econ:958 auto:227 kea:1134 StructMineDataPipeline:345 spacy_np:991 textrank:325
+functional mitral regurgitation fmr	econ:1165 rake:46 StructMineDataPipeline:1111 spacy_np:1040
+ige antibodies	econ:494 auto:761 rake:185 kea:676 StructMineDataPipeline:639 spacy_np:571
+heroin	econ:95 auto:346 kea:269 StructMineDataPipeline:422 spacy_np:416 textrank:262
+das28	econ:1123 auto:727 kea:231 StructMineDataPipeline:752 spacy_np:672
+no local recurrence	spacy_np:998
+clinical parameters	econ:1164 auto:691 rake:218 kea:972 StructMineDataPipeline:376 spacy_np:417
+m694v	econ:896 auto:1022 kea:1150 StructMineDataPipeline:1112 spacy_np:1041
+smokers	econ:97 auto:540 kea:165 StructMineDataPipeline:55 spacy_np:43 textrank:159
+embryo	econ:99 auto:633 kea:494 StructMineDataPipeline:550 spacy_np:1014 textrank:111
+anll	econ:1054 auto:736 kea:405 StructMineDataPipeline:686 spacy_np:679 textrank:336
+collagen	econ:772 auto:650 kea:185 StructMineDataPipeline:231 spacy_np:208 textrank:102
+hearing	econ:102 auto:377 kea:101 StructMineDataPipeline:412 spacy_np:217 textrank:114
+carbon monoxide poisoning	econ:625 auto:29 rake:45 kea:894 StructMineDataPipeline:753 spacy_np:619
+nstemi	econ:312 auto:757 kea:538 StructMineDataPipeline:673 spacy_np:579 textrank:695
+chemotherapy regimens	econ:660 auto:356 rake:288 kea:1020 StructMineDataPipeline:731 spacy_np:891
+molecular mimicry	econ:905 auto:25 rake:205 kea:979 StructMineDataPipeline:483 spacy_np:423
+unmet need	econ:1016 auto:1039 rake:209 kea:783 StructMineDataPipeline:586 spacy_np:1086
+motility	econ:969 auto:669 kea:221 StructMineDataPipeline:365 spacy_np:389 textrank:569
+chemotherapy	econ:105 auto:559 kea:124 StructMineDataPipeline:22 spacy_np:7 textrank:238
+gps	econ:876 auto:364 kea:113 StructMineDataPipeline:176 spacy_np:168 textrank:110
+danish	econ:107 auto:289 kea:661 StructMineDataPipeline:1122 textrank:572
+x-rays	econ:937 kea:594 StructMineDataPipeline:372 spacy_np:371
+cell-lines	econ:1066 kea:1145 StructMineDataPipeline:1101 spacy_np:1022
+kaohsiung medical university hospital	econ:809 rake:30 StructMineDataPipeline:1110 spacy_np:1036
+hus	econ:111 auto:523 kea:354 StructMineDataPipeline:554 spacy_np:412 textrank:490
+diffusion	econ:558 auto:333 kea:340 StructMineDataPipeline:533 spacy_np:520 textrank:532
+probands	econ:1111 auto:752 kea:332 StructMineDataPipeline:346 spacy_np:552 textrank:486
+prostacyclin	econ:113 auto:250 kea:315 StructMineDataPipeline:286 spacy_np:253 textrank:225
+neuropsychiatric disorders	econ:753 auto:159 rake:261 kea:628 StructMineDataPipeline:643 spacy_np:582
+supportive therapy	econ:1101 auto:386 rake:256 kea:968 StructMineDataPipeline:560 spacy_np:529
+ebv	econ:156 auto:465 kea:194 StructMineDataPipeline:245 spacy_np:186 textrank:173
+magnesium	econ:114 auto:234 kea:171 StructMineDataPipeline:184 spacy_np:142 textrank:167
+azithromycin	econ:638 auto:255 kea:79 StructMineDataPipeline:194 spacy_np:184 textrank:251
+pertussis	econ:115 auto:269 kea:118 StructMineDataPipeline:249 spacy_np:230 textrank:226
+isoniazid	econ:118 auto:373 kea:488 StructMineDataPipeline:265 spacy_np:205 textrank:309
+nifedipine	econ:376 auto:345 kea:280 StructMineDataPipeline:166 spacy_np:238 textrank:191
+anp	econ:603 auto:387 kea:224 StructMineDataPipeline:513 spacy_np:427 textrank:264
+abnormalities	econ:195 auto:918 kea:238 StructMineDataPipeline:41 spacy_np:30 textrank:260
+bhs	econ:886 auto:825 kea:249 StructMineDataPipeline:795 spacy_np:664 textrank:593
+estrogens	econ:117 auto:336 kea:154 StructMineDataPipeline:200 spacy_np:159 textrank:162
+infections in private practice	kea:1075
+goiter	econ:108 auto:711 kea:300 StructMineDataPipeline:669 spacy_np:707 textrank:310
+quartile	econ:120 auto:584 kea:795 StructMineDataPipeline:349 spacy_np:851 textrank:293
+naproxen	econ:785 auto:535 kea:408 StructMineDataPipeline:269 spacy_np:145 textrank:536
+rodents	econ:914 auto:942 kea:586 StructMineDataPipeline:316 spacy_np:268 textrank:216
+hgf	econ:121 auto:539 kea:234 StructMineDataPipeline:809 spacy_np:719 textrank:541
+cofactor	econ:160 auto:791 kea:892 StructMineDataPipeline:667 spacy_np:1061 textrank:681
+mesylate	econ:361 auto:908 kea:259 StructMineDataPipeline:1069 spacy_np:938 textrank:141
+igf-1	econ:122 kea:352 StructMineDataPipeline:521 spacy_np:566
+editors summary	econ:1043 auto:494 rake:171 kea:0 StructMineDataPipeline:145 spacy_np:939
+osteopenia	econ:861 auto:575 kea:616 StructMineDataPipeline:407 spacy_np:367 textrank:391
+anca	econ:127 auto:389 kea:734 StructMineDataPipeline:620 spacy_np:437 textrank:489
+primary care practice	econ:926 auto:446 rake:67 kea:746 StructMineDataPipeline:627 spacy_np:585
+organism	econ:133 auto:867 kea:811 StructMineDataPipeline:75 spacy_np:815 textrank:94
+uterine cervix	econ:602 auto:456 rake:193 kea:448 StructMineDataPipeline:442 spacy_np:1045
+cd26	econ:956 kea:648 StructMineDataPipeline:1087 spacy_np:1002
+femur	econ:424 auto:903 kea:834 StructMineDataPipeline:421 spacy_np:731 textrank:614
+gonadotropin-releasing hormone	econ:907 kea:695 StructMineDataPipeline:818 spacy_np:460
+pex6 gene	econ:1044 rake:257 kea:1141 StructMineDataPipeline:1114
+pefr	econ:139 auto:593 kea:639 StructMineDataPipeline:754 spacy_np:802 textrank:620
+redistribution	econ:1105 auto:807 kea:421 StructMineDataPipeline:497 spacy_np:522 textrank:735
+simva	econ:1104 auto:1021 kea:93 StructMineDataPipeline:1048 spacy_np:972 textrank:784
+conduction	econ:1057 auto:939 kea:303 StructMineDataPipeline:668 spacy_np:563 textrank:427
+knowledge gaps	econ:1091 auto:160 rake:318 kea:952 StructMineDataPipeline:789 spacy_np:736
+sulfur	econ:502 auto:786 kea:826 StructMineDataPipeline:1055 spacy_np:951 textrank:566
+pneumococcus	econ:729 auto:501 kea:1010 StructMineDataPipeline:612 spacy_np:690 textrank:791
+adcc	econ:916 auto:795 kea:663 StructMineDataPipeline:1011 spacy_np:921 textrank:621
+rna molecules	econ:758 auto:744 kea:1050 StructMineDataPipeline:1123 spacy_np:1063 textrank:761
+fluid	econ:541 auto:878 kea:208 StructMineDataPipeline:182 spacy_np:251 textrank:201
+sleeping sickness	auto:7 rake:152 kea:1160 spacy_np:1047
+other features	econ:1125 auto:1109 kea:970 StructMineDataPipeline:501 spacy_np:441
+genetic predisposition	econ:1088 auto:82 rake:182 kea:922 StructMineDataPipeline:285 spacy_np:341
+staphylococcal	auto:267 kea:1136 StructMineDataPipeline:1139 textrank:315
+homosexuals	econ:590 auto:952 kea:649 StructMineDataPipeline:529 spacy_np:567 textrank:428
+charcot	econ:1040 auto:484 kea:656 StructMineDataPipeline:1031 spacy_np:839 textrank:666
+colloid	econ:619 auto:906 kea:1101 StructMineDataPipeline:1095 spacy_np:985 textrank:610
+vincristine	econ:149 auto:616 kea:818 StructMineDataPipeline:257 spacy_np:286 textrank:229
+neurodegenerative disorder	econ:324 auto:126 rake:336 kea:1088 StructMineDataPipeline:945 textrank:717
+minimum inhibitory concentration	econ:309 auto:84 rake:103 kea:888 StructMineDataPipeline:710 spacy_np:973
+husband	econ:714 auto:927 kea:507 StructMineDataPipeline:410 spacy_np:792
+minoxidil	econ:685 auto:611 kea:573 StructMineDataPipeline:485 spacy_np:450 textrank:647
+human immunodeficiency virus hiv	econ:302 auto:70 rake:4 StructMineDataPipeline:153 spacy_np:193
+prostate-specific antigen	econ:154 kea:458 StructMineDataPipeline:437 spacy_np:415
+adriamycin	econ:412 auto:530 kea:775 StructMineDataPipeline:522 spacy_np:424 textrank:337
+arfi	econ:1140 auto:1014 kea:1074 StructMineDataPipeline:1086 spacy_np:1042 textrank:783
+swiss national science foundation	econ:722 auto:18 rake:24 StructMineDataPipeline:567 spacy_np:493
+high mortality rate	econ:725 auto:1060 rake:89 kea:893 StructMineDataPipeline:384 spacy_np:974
+fna cytology	econ:1099 auto:156 rake:131 kea:1110 StructMineDataPipeline:1006 spacy_np:887
+cortisol	econ:78 auto:493 kea:293 StructMineDataPipeline:209 spacy_np:190 textrank:219
+thrombocytopenia	econ:161 auto:455 kea:229 StructMineDataPipeline:89 spacy_np:318 textrank:344
+glipizide	econ:658 auto:556 kea:394 StructMineDataPipeline:510 spacy_np:440 textrank:534
+two families	auto:1104 rake:154 spacy_np:452
+korea	econ:165 auto:282 kea:850 StructMineDataPipeline:212 spacy_np:170 textrank:5
+raltegravir	econ:826 auto:697 kea:610 StructMineDataPipeline:736 spacy_np:568 textrank:668
+responses	econ:166 auto:869 kea:156 StructMineDataPipeline:71 spacy_np:95 textrank:181
+chronic obstructive pulmonary disease	econ:301 auto:39 rake:7 StructMineDataPipeline:97 spacy_np:54 textrank:126
+major source	econ:1077 rake:229 kea:940 StructMineDataPipeline:361 textrank:551
+framingham study	econ:681 auto:1081 rake:195 kea:865 StructMineDataPipeline:431
+simvastatin	econ:573 auto:259 kea:183 StructMineDataPipeline:235 spacy_np:216 textrank:403
+ebola virus disease	econ:705 auto:108 rake:74 kea:452 StructMineDataPipeline:463 spacy_np:396
+sclc	econ:169 auto:513 kea:226 StructMineDataPipeline:417 spacy_np:349 textrank:493
+ipratropium	econ:518 auto:440 kea:228 StructMineDataPipeline:538 spacy_np:361 textrank:437
+ccr2	econ:1130 auto:730 kea:682 StructMineDataPipeline:937 spacy_np:780
+leishmaniasis	econ:379 auto:331 kea:187 StructMineDataPipeline:464 spacy_np:403 textrank:263
+gastrinoma	econ:1067 auto:967 kea:777 StructMineDataPipeline:781 spacy_np:769 textrank:688
+quinine	econ:298 auto:342 kea:447 StructMineDataPipeline:350 spacy_np:292 textrank:306
+primary pci	econ:893 auto:417 rake:129 kea:674 StructMineDataPipeline:491 spacy_np:435
+nottingham health profile	econ:1162 rake:96 kea:800 StructMineDataPipeline:1070
+lower urinary tract	econ:532 auto:653 rake:73 kea:508 spacy_np:1101
+esophagus	econ:175 auto:828 kea:76 StructMineDataPipeline:147 spacy_np:666 textrank:547
+electrocardiogram	econ:846 auto:310 kea:707 StructMineDataPipeline:243 spacy_np:660 textrank:531
+abdominal	econ:740 auto:543 kea:923 StructMineDataPipeline:819 spacy_np:976 textrank:321
+beef	econ:978 auto:797 kea:869 StructMineDataPipeline:850 spacy_np:774 textrank:718
+mssa	econ:833 auto:629 kea:762 StructMineDataPipeline:992 spacy_np:781 textrank:786
+rat model	econ:1121 auto:376 rake:172 kea:668 StructMineDataPipeline:378 textrank:743
+families	econ:384 auto:802 kea:131 StructMineDataPipeline:31 spacy_np:40 textrank:140
+radiofrequency	econ:184 auto:295 kea:596 StructMineDataPipeline:808 spacy_np:732 textrank:542
+carvedilol	econ:792 auto:607 kea:435 StructMineDataPipeline:426 spacy_np:378 textrank:630
+world bank	econ:188 auto:37 rake:105 kea:861 StructMineDataPipeline:440 spacy_np:830
+indirect evidence	econ:1167 auto:238 rake:334 kea:901 StructMineDataPipeline:444 spacy_np:444
+uveitis tinu syndrome	econ:974 rake:118 kea:751 StructMineDataPipeline:1090
+t cruzi	econ:919 auto:935 StructMineDataPipeline:938 spacy_np:825
+leprosy	econ:741 auto:340 kea:479 StructMineDataPipeline:253 spacy_np:150 textrank:281
+behavior	econ:192 auto:705 kea:1121 StructMineDataPipeline:216 spacy_np:233 textrank:104
+marrow transplant recipients	econ:465 auto:450 rake:54 kea:683 StructMineDataPipeline:1091 spacy_np:1005
+antigen presenting cells apcs	econ:787 auto:135 rake:58
+oxygen transport	econ:1005 auto:182 rake:196 kea:959 StructMineDataPipeline:743 spacy_np:608
+broth	econ:659 auto:1010 kea:851 StructMineDataPipeline:1024 spacy_np:782 textrank:741
+crystals	econ:317 auto:661 kea:604 StructMineDataPipeline:666 spacy_np:500 textrank:415
+meningiomas	econ:913 auto:597 kea:515 StructMineDataPipeline:477 spacy_np:425 textrank:540
+avc	econ:687 auto:866 kea:335 StructMineDataPipeline:924 spacy_np:790 textrank:387
+operable breast cancer	econ:652 auto:125 rake:94 kea:669 StructMineDataPipeline:647 spacy_np:602
+connection	econ:763 auto:951 kea:872 StructMineDataPipeline:452 spacy_np:693 textrank:587
+dermis	econ:539 auto:926 kea:1078 StructMineDataPipeline:492 spacy_np:873 textrank:702
+colonies	econ:1117 auto:1006 kea:612 StructMineDataPipeline:540 spacy_np:718 textrank:496
+control rate	econ:199 auto:1070 rake:200 kea:1058 StructMineDataPipeline:1035
+exertion	econ:841 auto:636 kea:535 StructMineDataPipeline:415 spacy_np:373 textrank:607
+columbia	econ:201 auto:632 kea:831 StructMineDataPipeline:568 spacy_np:422 textrank:725
+instituto de salud carlos iii	econ:800 auto:115 rake:1 StructMineDataPipeline:1141 spacy_np:843
+adenoma	econ:415 auto:774 kea:415 StructMineDataPipeline:348 spacy_np:386 textrank:502
+fruit	econ:202 auto:357 kea:369 StructMineDataPipeline:470 spacy_np:526 textrank:212
+staphylococci	econ:297 auto:189 kea:353 StructMineDataPipeline:337 spacy_np:347 textrank:530
+calcification	econ:204 auto:595 kea:86 StructMineDataPipeline:300 spacy_np:275 textrank:371
+subgroups	econ:709 auto:770 kea:533 StructMineDataPipeline:131 spacy_np:172 textrank:467
+polymorphism	econ:205 auto:503 kea:389 StructMineDataPipeline:179 spacy_np:397 textrank:413
+hispanic	econ:399 auto:243 kea:260 StructMineDataPipeline:471 textrank:242
+intima	econ:208 auto:950 kea:164 StructMineDataPipeline:636 spacy_np:924 textrank:737
+chemistry	econ:125 auto:567 kea:1007 StructMineDataPipeline:864 spacy_np:846 textrank:765
+cardiovascular disease cvd	econ:210 auto:88 rake:60 kea:733 StructMineDataPipeline:331 spacy_np:309
+injuries	econ:928 auto:721 kea:23 StructMineDataPipeline:68 spacy_np:73 textrank:71
+calcium channel blocker	econ:356 auto:36 rake:72 kea:740 StructMineDataPipeline:695 spacy_np:942
+luciferase	econ:320 auto:651 kea:749 StructMineDataPipeline:1050 spacy_np:925 textrank:564
+myopathies	econ:217 auto:529 kea:748 StructMineDataPipeline:993 spacy_np:978 textrank:576
+gme	econ:218 auto:520 kea:108 StructMineDataPipeline:614 spacy_np:509 textrank:287
+pharmacy	econ:1026 auto:286 kea:493 StructMineDataPipeline:656 spacy_np:849 textrank:556
+hiv-1 protease inhibitors	econ:782 kea:351 StructMineDataPipeline:920 spacy_np:897
+antiviral activity	econ:920 auto:195 rake:245 kea:484 StructMineDataPipeline:493 spacy_np:514
+dihydrotestosterone	econ:496 auto:746 kea:1037 StructMineDataPipeline:877 spacy_np:709 textrank:488
+amoxycillin	econ:411 auto:443 kea:588 StructMineDataPipeline:295 spacy_np:304 textrank:580
+bapwv	econ:724 auto:992 kea:467 StructMineDataPipeline:561 spacy_np:556 textrank:474
+cntf	econ:970 auto:854 kea:420 StructMineDataPipeline:861 spacy_np:770 textrank:583
+dehydroepiandrosterone	econ:224 auto:502 kea:398 StructMineDataPipeline:840 spacy_np:678 textrank:394
+total hip replacement	econ:790 auto:24 rake:34 kea:598 StructMineDataPipeline:351 spacy_np:293
+histologic type	econ:984 auto:261 rake:237 kea:1048 StructMineDataPipeline:777 spacy_np:800
+stools	econ:947 auto:634 kea:513 StructMineDataPipeline:247 spacy_np:358 textrank:9
+inhibition	econ:462 auto:851 kea:190 StructMineDataPipeline:30 spacy_np:17 textrank:393
+bcat1	econ:797 kea:230 StructMineDataPipeline:1030 spacy_np:965
+pdt efficacy	econ:839 rake:333 kea:1144 StructMineDataPipeline:1115 spacy_np:1100
+bis	econ:381 auto:474 kea:270 StructMineDataPipeline:716 spacy_np:744 textrank:330
+clindamycin	econ:562 auto:623 kea:457 StructMineDataPipeline:270 spacy_np:212 textrank:708
+bruit	econ:997 auto:980 kea:478 StructMineDataPipeline:1036 spacy_np:1052 textrank:585
+systemic circulation	econ:1004 auto:1053 rake:297 kea:999 StructMineDataPipeline:573 spacy_np:1053
+fibroblasts	econ:663 auto:658 kea:139 StructMineDataPipeline:279 spacy_np:258 textrank:492
+refugees	econ:728 auto:637 kea:111 StructMineDataPipeline:277 spacy_np:305 textrank:513
+homocystinuria	econ:1014 auto:431 kea:489 StructMineDataPipeline:515 spacy_np:492 textrank:604
+glycoprotein	econ:232 auto:712 kea:391 StructMineDataPipeline:549 spacy_np:692 textrank:608
+hypercoagulability	econ:976 auto:645 kea:392 StructMineDataPipeline:479 spacy_np:436 textrank:639
+hyperoxaluria	econ:600 auto:594 kea:567 StructMineDataPipeline:685 spacy_np:633 textrank:514
+ataxia	econ:433 auto:454 kea:296 StructMineDataPipeline:323 spacy_np:354 textrank:397
+oncology	econ:327 auto:257 kea:498 StructMineDataPipeline:312 spacy_np:261 textrank:517
+growth	econ:235 auto:753 kea:184 StructMineDataPipeline:37 spacy_np:33 textrank:53
+diclofenac	econ:236 auto:228 kea:654 StructMineDataPipeline:321 spacy_np:254 textrank:406
+vertebrae	econ:425 auto:940 kea:455 StructMineDataPipeline:590 spacy_np:786 textrank:433
+other patients	econ:1155 kea:677 StructMineDataPipeline:118 spacy_np:195
+rabies	econ:282 auto:371 kea:66 StructMineDataPipeline:289 spacy_np:297 textrank:190
+icl	econ:240 auto:886 kea:635 StructMineDataPipeline:1022 spacy_np:850 textrank:497
+vital role	econ:1131 auto:985 rake:342 kea:953 StructMineDataPipeline:641 textrank:482
+oswestry disability index 75 3	rake:13
+essential role	econ:960 auto:1088 rake:322 kea:916 StructMineDataPipeline:369 spacy_np:900
+peg	econ:1084 auto:547 kea:482 StructMineDataPipeline:886 spacy_np:686 textrank:195
+diethylstilbestrol des exposure	econ:1048 rake:125 kea:1090 StructMineDataPipeline:1142 spacy_np:1102
+lipid	econ:245 auto:668 kea:687 StructMineDataPipeline:589 spacy_np:476 textrank:228
+follicles	econ:1081 auto:910 kea:314 StructMineDataPipeline:717 spacy_np:809 textrank:324
+chronic renal failure glomerular filtration	rake:11
+tdf	econ:246 auto:605 kea:617 StructMineDataPipeline:1016 spacy_np:845 textrank:235
+sedimentation	econ:248 auto:998 kea:149 StructMineDataPipeline:1073 spacy_np:1007 textrank:557
+glycerol	econ:941 auto:974 kea:227 StructMineDataPipeline:739 spacy_np:634 textrank:454
+gammaglobulin	econ:455 auto:639 kea:642 StructMineDataPipeline:995 spacy_np:874 textrank:634
+crlm	econ:1103 auto:982 kea:518 StructMineDataPipeline:1007 spacy_np:917 textrank:686
+vasodilator	econ:252 auto:682 kea:511 StructMineDataPipeline:615 spacy_np:875 textrank:294
+e-selectin	econ:869 kea:336 StructMineDataPipeline:784 spacy_np:586
+western australia	econ:732 auto:31 rake:90 kea:491 StructMineDataPipeline:150 spacy_np:104
+predisposition	econ:650 auto:870 kea:430 StructMineDataPipeline:250 spacy_np:366 textrank:704
+months	econ:1086 auto:1001 kea:38 StructMineDataPipeline:1 spacy_np:242 textrank:6
+tertiary hospital	econ:988 auto:381 rake:246 kea:820 StructMineDataPipeline:486
+cmv infection	econ:79 auto:306 rake:208 kea:337 StructMineDataPipeline:418 spacy_np:364 textrank:601
+apomorphine	econ:962 auto:692 kea:741 StructMineDataPipeline:805 spacy_np:657 textrank:582
+sod	econ:308 auto:608 kea:387 StructMineDataPipeline:891 spacy_np:739 textrank:204
+hypercoagulable state	econ:697 auto:152 rake:306 kea:849 StructMineDataPipeline:544 spacy_np:1037
+exacerbations of chronic obstructive pulmonary disease	auto:695
+cefepime	econ:730 auto:558 kea:50 StructMineDataPipeline:409 spacy_np:344 textrank:261
+lhrh	econ:437 auto:562 kea:974 StructMineDataPipeline:979 spacy_np:876 textrank:575
+gallstone	econ:256 auto:374 kea:475 StructMineDataPipeline:1017 spacy_np:946 textrank:278
+qrs	econ:640 auto:394 kea:316 StructMineDataPipeline:1000 spacy_np:835 textrank:535
+cevd	econ:1146 auto:981 kea:832 StructMineDataPipeline:1038 spacy_np:877 textrank:465
+acute graft-versus-host disease	econ:601 kea:693 StructMineDataPipeline:548 spacy_np:506
+multimorbidity	econ:1144 auto:600 kea:346 StructMineDataPipeline:375 spacy_np:339 textrank:458
+mississippi	econ:884 auto:308 kea:564 StructMineDataPipeline:601 spacy_np:507 textrank:698
+outbreaks	econ:390 auto:872 kea:222 StructMineDataPipeline:143 spacy_np:146 textrank:265
+fraction	econ:1151 auto:958 kea:1087 StructMineDataPipeline:307 spacy_np:646 textrank:483
+bortezomib	econ:716 auto:609 kea:326 StructMineDataPipeline:397 spacy_np:372 textrank:289
+mammals	econ:572 auto:917 kea:933 StructMineDataPipeline:434 spacy_np:428 textrank:689
+acute lung injury	econ:799 auto:133 rake:47 kea:725 StructMineDataPipeline:373 spacy_np:330
+rituximab	econ:264 auto:251 kea:559 StructMineDataPipeline:202 spacy_np:244 textrank:313
+ca-125	econ:265 kea:590 StructMineDataPipeline:957 spacy_np:1010
+exclusion criteria	econ:784 auto:142 rake:220 kea:1072 StructMineDataPipeline:445 spacy_np:485
+myopia	econ:577 auto:214 kea:339 StructMineDataPipeline:362 spacy_np:323 textrank:485
+female gender	econ:987 auto:660 rake:124 kea:1022 StructMineDataPipeline:617 spacy_np:573
+our center	spacy_np:324
+doxorubicin	econ:636 auto:459 kea:329 StructMineDataPipeline:206 spacy_np:185 textrank:378
+glioblastomas	econ:908 auto:737 kea:817 StructMineDataPipeline:662 spacy_np:569 textrank:590
+cachexia	econ:626 auto:366 kea:347 StructMineDataPipeline:505 spacy_np:438 textrank:597
+menstruation	econ:796 auto:512 kea:473 StructMineDataPipeline:296 spacy_np:259 textrank:596
+cbd	econ:272 auto:564 kea:665 StructMineDataPipeline:1025 spacy_np:908 textrank:521
+deaths	econ:273 auto:844 kea:28 StructMineDataPipeline:15 spacy_np:20 textrank:58
+ticarcillin plus clavulanic acid	econ:653 auto:93 rake:6 spacy_np:1012
+physician visits	econ:686 auto:213 rake:114 kea:714 StructMineDataPipeline:719 spacy_np:683
+symptom onset	econ:1169 auto:144 rake:130 kea:808 StructMineDataPipeline:420 spacy_np:320
+hepatitis c virus	econ:445 auto:425 rake:9 StructMineDataPipeline:287 spacy_np:138
+anticancer drug	econ:1075 auto:151 rake:201 kea:1051 StructMineDataPipeline:980 spacy_np:1055
+diagnosed diabetes	auto:1042 rake:240 kea:837 StructMineDataPipeline:871 spacy_np:670 textrank:478
+titer	econ:275 auto:1011 kea:506 StructMineDataPipeline:394 spacy_np:604 textrank:447
+ctcs	econ:363 auto:385 kea:199 StructMineDataPipeline:599 spacy_np:524 textrank:363
+excretion	econ:291 auto:876 kea:135 StructMineDataPipeline:177 spacy_np:226 textrank:98
+oestrogen	econ:278 auto:337 kea:284 StructMineDataPipeline:221 spacy_np:188 textrank:230
+lean body	econ:279 rake:357 kea:679 StructMineDataPipeline:1120 textrank:752
+elderly subjects	econ:1051 auto:328 rake:161 kea:848 StructMineDataPipeline:448 spacy_np:481
+transgender	econ:350 auto:788 kea:2 StructMineDataPipeline:1103 spacy_np:1069 textrank:734
+immunity	econ:281 auto:722 kea:239 StructMineDataPipeline:135 spacy_np:109 textrank:171
+germline	econ:734 auto:197 kea:647 StructMineDataPipeline:959 spacy_np:947 textrank:616
+supine position	econ:921 auto:553 rake:248 kea:844 StructMineDataPipeline:446 spacy_np:948
+pathologist	econ:1001 auto:890 kea:615 StructMineDataPipeline:688 spacy_np:984 textrank:678
+back pain	econ:283 auto:892 rake:88 kea:603 StructMineDataPipeline:480 spacy_np:266
+diet	econ:284 auto:676 kea:310 StructMineDataPipeline:106 spacy_np:47 textrank:192
+ammonium	econ:345 auto:773 kea:608 StructMineDataPipeline:1018 spacy_np:982 textrank:701
+peritoneal cavity	econ:966 auto:681 rake:147 kea:915 StructMineDataPipeline:449 spacy_np:949
+neuropathology	econ:830 auto:621 kea:771 StructMineDataPipeline:518 spacy_np:508 textrank:75
+contacts	econ:333 auto:955 kea:526 StructMineDataPipeline:251 spacy_np:342 textrank:420
+depth	econ:634 auto:959 kea:966 StructMineDataPipeline:328 spacy_np:382 textrank:753
+ingestion	econ:596 auto:928 kea:202 StructMineDataPipeline:109 spacy_np:101 textrank:211
+amenorrhea	econ:292 auto:504 kea:572 StructMineDataPipeline:340 spacy_np:393 textrank:641
+intracerebral haemorrhage	econ:934 auto:0 rake:177 kea:395 StructMineDataPipeline:487 spacy_np:404
+ischaemia	econ:295 auto:964 kea:257 StructMineDataPipeline:281 spacy_np:269 textrank:266
+lower limb	econ:293 auto:49 rake:269 kea:650 spacy_np:902 textrank:757
+vldl	econ:103 auto:542 kea:505 StructMineDataPipeline:741 spacy_np:557 textrank:658
+alk	econ:0 auto:435 kea:189 StructMineDataPipeline:821 spacy_np:724 textrank:108
+cm h2o	econ:857 auto:41 kea:646 StructMineDataPipeline:546 spacy_np:1097
+mexican americans	econ:971 auto:10 rake:189 kea:256 StructMineDataPipeline:557 spacy_np:536
+muscle fatigue	econ:575 auto:818 rake:283 kea:258 StructMineDataPipeline:1046 spacy_np:936
+uva	econ:1017 auto:912 kea:127 StructMineDataPipeline:1121 spacy_np:1060 textrank:440
+roc curve analysis	econ:276 auto:192 rake:83 kea:949 StructMineDataPipeline:745 spacy_np:680
+positron emission	econ:101 auto:121 kea:410 StructMineDataPipeline:1113 spacy_np:738 textrank:739
+6 days	auto:1080 rake:142 spacy_np:443
+mcf-7	econ:855 kea:548 StructMineDataPipeline:1032 spacy_np:1044
+ger	econ:43 auto:453 kea:122 StructMineDataPipeline:441 spacy_np:445 textrank:346
+co2	econ:469 auto:277 kea:247 StructMineDataPipeline:542 spacy_np:590
+daiichi sankyo	econ:538 auto:17 rake:190 kea:1062 StructMineDataPipeline:875 spacy_np:766
+apoptosis	econ:690 auto:430 kea:60 StructMineDataPipeline:53 spacy_np:28 textrank:57
+hispanics	econ:310 auto:161 kea:409 StructMineDataPipeline:217 spacy_np:179 textrank:241
+lymphoma	econ:225 auto:614 kea:95 StructMineDataPipeline:112 spacy_np:81 textrank:232
+central america	econ:570 auto:64 rake:228 kea:715 StructMineDataPipeline:624 spacy_np:540
+ntds	econ:80 auto:341 kea:459 StructMineDataPipeline:528 spacy_np:448 textrank:618
+mdct	econ:517 auto:541 kea:605 StructMineDataPipeline:758 spacy_np:622 textrank:499
+dengue	econ:230 auto:406 kea:16 StructMineDataPipeline:284 spacy_np:240 textrank:113
+erythromycin	econ:466 auto:317 kea:571 StructMineDataPipeline:210 spacy_np:137 textrank:276
+sri lanka	econ:492 auto:16 rake:191 kea:920 StructMineDataPipeline:593 spacy_np:511
+left ventricular	econ:773 auto:6 rake:92 kea:768 StructMineDataPipeline:1009 textrank:298
+puerto ricans	econ:949 auto:1 rake:271 kea:1060 StructMineDataPipeline:878 spacy_np:824
+lns	econ:392 auto:230 kea:402 StructMineDataPipeline:424 spacy_np:486 textrank:500
+glaxosmithkline	econ:428 auto:224 kea:637 StructMineDataPipeline:370 spacy_np:795 textrank:79
+transportation	econ:953 auto:891 kea:756 StructMineDataPipeline:511 spacy_np:477 textrank:168
+homicide	econ:347 auto:266 kea:419 StructMineDataPipeline:405 spacy_np:348 textrank:320
+arthritis	econ:55 auto:579 kea:54 StructMineDataPipeline:110 spacy_np:76 textrank:180
+sarcoidosis	econ:383 auto:321 kea:140 StructMineDataPipeline:77 spacy_np:55 textrank:56
+ald	econ:1047 auto:622 kea:417 StructMineDataPipeline:747 spacy_np:613 textrank:468
+hypothyroidism	econ:3 auto:378 kea:3 StructMineDataPipeline:87 spacy_np:56 textrank:348
+gallbladder	econ:408 auto:415 kea:128 StructMineDataPipeline:267 spacy_np:610 textrank:376
+osa	econ:4 auto:449 kea:52 StructMineDataPipeline:213 spacy_np:213 textrank:252
+tumor suppressor gene	econ:434 auto:610 rake:77 kea:747 StructMineDataPipeline:905 spacy_np:997
+decisions	econ:341 auto:468 kea:212 StructMineDataPipeline:133 spacy_np:96 textrank:48
+lv systolic	econ:403 auto:299 rake:166 kea:1118 StructMineDataPipeline:1062 textrank:653
+homocysteine	econ:6 auto:204 kea:252 StructMineDataPipeline:283 spacy_np:250 textrank:416
+pretreatment	econ:710 auto:270 kea:460 StructMineDataPipeline:188 spacy_np:139 textrank:77
+tka	econ:135 auto:476 kea:529 StructMineDataPipeline:430 spacy_np:381 textrank:645
+histiocytes	econ:903 auto:1012 kea:757 StructMineDataPipeline:625 spacy_np:583 textrank:659
+telmisartan	econ:500 auto:521 kea:439 StructMineDataPipeline:367 spacy_np:363 textrank:183
+kwashiorkor	econ:972 auto:995 kea:383 StructMineDataPipeline:583 spacy_np:501 textrank:746
+confirmation	econ:439 auto:843 kea:944 StructMineDataPipeline:196 spacy_np:162 textrank:156
+f-fdg pet	econ:576 kea:206 StructMineDataPipeline:1044 spacy_np:912
+shorter hospital	econ:688 auto:1099 kea:995 spacy_np:756
+school	econ:630 auto:383 kea:796 StructMineDataPipeline:241 spacy_np:299 textrank:128
+progesterone	econ:11 auto:350 kea:56 StructMineDataPipeline:232 spacy_np:222 textrank:145
+great britain	econ:629 auto:60 rake:183 kea:692 StructMineDataPipeline:332 spacy_np:289
+cholesterol	econ:12 auto:640 kea:30 StructMineDataPipeline:65 spacy_np:42 textrank:100
+burkitt	econ:481 auto:550 kea:246 StructMineDataPipeline:621 spacy_np:913 textrank:51
+pregnancies	econ:749 auto:810 kea:163 StructMineDataPipeline:54 spacy_np:128 textrank:127
+open heart surgery	econ:940 auto:83 rake:32 kea:737 StructMineDataPipeline:539 spacy_np:462
+pmc	econ:1041 auto:840 kea:500 StructMineDataPipeline:869 spacy_np:760 textrank:470
+organisms	econ:592 auto:760 kea:151 StructMineDataPipeline:83 spacy_np:143 textrank:93
+oropharyngeal candidiasis	econ:906 auto:73 rake:186 kea:810 StructMineDataPipeline:646 spacy_np:537
+indian	econ:655 auto:233 kea:1080 StructMineDataPipeline:1096 textrank:392
+q waves	econ:880 auto:834 rake:128 StructMineDataPipeline:830 spacy_np:726 textrank:790
+hbv dna levels	econ:994 auto:815 rake:69 kea:745 StructMineDataPipeline:929 spacy_np:915
+the commonest cause	spacy_np:475
+median follow-up	econ:268 kea:791 StructMineDataPipeline:192 spacy_np:418
+reaction-restriction fragment length	econ:304 kea:1059
+hours	econ:1135 auto:987 kea:168 StructMineDataPipeline:5 spacy_np:296 textrank:30
+les	econ:19 auto:482 kea:213 StructMineDataPipeline:1004 spacy_np:960 textrank:434
+reason	econ:419 auto:997 kea:1142 StructMineDataPipeline:185 spacy_np:525 textrank:386
+neuroleptics	econ:701 auto:1026 kea:929 StructMineDataPipeline:799 spacy_np:669 textrank:70
+nf-kappab	econ:420 kea:426 StructMineDataPipeline:478 spacy_np:385
+ctl	econ:536 auto:391 kea:601 StructMineDataPipeline:866 spacy_np:857 textrank:318
+ipf	econ:213 auto:472 kea:146 StructMineDataPipeline:301 spacy_np:246 textrank:475
+sensitivity analysis	econ:899 auto:514 rake:234 kea:1018 StructMineDataPipeline:467 spacy_np:467
+either treatment	auto:1112 rake:160 spacy_np:572
+the same extent	auto:1091 spacy_np:532
+ureters	econ:814 auto:1024 kea:838 StructMineDataPipeline:728 spacy_np:916 textrank:649
+south asia	econ:646 auto:71 rake:174 kea:853 StructMineDataPipeline:574 spacy_np:505
+glucose and lipid metabolism	econ:895 auto:674 spacy_np:617
+hospital	econ:30 auto:560 kea:49 StructMineDataPipeline:12 spacy_np:10 textrank:15
+resident	econ:550 auto:544 kea:868 StructMineDataPipeline:577 spacy_np:883 textrank:221
+australian	econ:33 auto:322 kea:627 StructMineDataPipeline:751 spacy_np:961 textrank:184
+berlin	econ:551 auto:326 kea:842 StructMineDataPipeline:1059 spacy_np:954 textrank:699
+acute salpingitis	econ:1095 auto:290 rake:198 kea:486 StructMineDataPipeline:775 spacy_np:703
+penis	econ:739 auto:782 kea:754 StructMineDataPipeline:579 spacy_np:903 textrank:451
+lung adenocarcinomas	econ:925 auto:191 rake:235 kea:1054 StructMineDataPipeline:907 spacy_np:848
+polypeptide	econ:801 auto:648 kea:403 StructMineDataPipeline:823 spacy_np:928 textrank:609
+hormone-releasing factor	econ:491 kea:334 spacy_np:1035
+improved glycemic control	auto:922 rake:97 kea:877 StructMineDataPipeline:872 spacy_np:705 textrank:174
+lords	econ:742 auto:897 kea:540 StructMineDataPipeline:791 spacy_np:661 textrank:133
+single daily dose	econ:1002 auto:1051 rake:48 kea:672 StructMineDataPipeline:584 textrank:72
+hmgb1	econ:563 auto:667 kea:655 StructMineDataPipeline:853 spacy_np:863
+india	econ:457 auto:199 kea:396 StructMineDataPipeline:96 spacy_np:52 textrank:103
+autumn	econ:1021 auto:907 kea:1046 StructMineDataPipeline:644 spacy_np:743 textrank:33
+stroke	econ:44 auto:467 kea:5 StructMineDataPipeline:17 spacy_np:4 textrank:55
+schistosoma mansoni	econ:527 auto:40 rake:216 kea:1069 StructMineDataPipeline:852 spacy_np:704
+rods	econ:46 auto:771 kea:1106 StructMineDataPipeline:1078 textrank:656
+offspring	econ:808 auto:565 kea:327 StructMineDataPipeline:187 spacy_np:169 textrank:430
+carriers	econ:554 auto:796 kea:261 StructMineDataPipeline:126 spacy_np:112 textrank:166
+arthritis ra	econ:303 kea:712 StructMineDataPipeline:968 spacy_np:967
+regions	econ:48 auto:849 kea:333 StructMineDataPipeline:139 spacy_np:173 textrank:155
+hyperkalemia	econ:397 auto:236 kea:362 StructMineDataPipeline:248 spacy_np:224 textrank:494
+ketoconazole	econ:325 auto:174 kea:201 StructMineDataPipeline:288 spacy_np:322 textrank:255
+central australia	econ:665 auto:708 rake:244 kea:481 StructMineDataPipeline:592 spacy_np:499
+cd31	econ:331 auto:780 kea:313 StructMineDataPipeline:1066 spacy_np:837
+aom	econ:92 auto:743 kea:620 StructMineDataPipeline:692 spacy_np:576 textrank:545
+last menstrual period	econ:786 auto:1043 rake:38 kea:870 StructMineDataPipeline:766 spacy_np:958
+jellyfish	econ:296 auto:792 kea:797 StructMineDataPipeline:1019 spacy_np:929 textrank:581
+coal	econ:187 auto:916 kea:181 StructMineDataPipeline:984 spacy_np:854 textrank:364
+hfe	econ:587 auto:726 kea:477 StructMineDataPipeline:903 spacy_np:772 textrank:385
+first manifestation	econ:1115 rake:252 kea:801 StructMineDataPipeline:606 spacy_np:1080
+advanced parkinson s disease	econ:943 auto:1067 StructMineDataPipeline:691 spacy_np:596
+constituents	econ:1038 auto:1018 kea:909 StructMineDataPipeline:679 spacy_np:834 textrank:223
+entity	econ:63 auto:961 kea:722 StructMineDataPipeline:260 spacy_np:1120 textrank:38
+experiments	econ:464 auto:272 kea:342 StructMineDataPipeline:335 spacy_np:360 textrank:236
+ttc	econ:1046 auto:904 kea:691 StructMineDataPipeline:928 spacy_np:775 textrank:758
+central africa	econ:707 auto:106 rake:204 kea:867 StructMineDataPipeline:535 spacy_np:538
+acth	econ:65 auto:347 kea:115 StructMineDataPipeline:294 spacy_np:263 textrank:101
+h2o2	econ:67 auto:638 kea:279 StructMineDataPipeline:730 spacy_np:728
+the protective effects	spacy_np:539
+nineteen patients	auto:970 rake:265 kea:1008 StructMineDataPipeline:352 spacy_np:319 textrank:538
+weeks	econ:981 auto:824 kea:94 StructMineDataPipeline:3 spacy_np:209 textrank:29
+babies	econ:299 auto:735 kea:126 StructMineDataPipeline:63 spacy_np:97 textrank:220
+renal allograft rejection	econ:1060 auto:132 rake:81 kea:983 StructMineDataPipeline:860 spacy_np:753
+dkk1	econ:813 auto:836 kea:764 StructMineDataPipeline:894 spacy_np:820
+cmv retinitis	econ:647 auto:58 rake:233 kea:702 StructMineDataPipeline:706 spacy_np:650
+half	econ:385 auto:499 kea:1112 StructMineDataPipeline:38 spacy_np:108 textrank:18
+north queensland	econ:74 auto:67 rake:316 kea:568 StructMineDataPipeline:537 spacy_np:490
+normal value	econ:718 auto:1108 rake:170 kea:804 StructMineDataPipeline:793 textrank:759
+functional residual capacity	econ:856 auto:72 rake:87 kea:1032 StructMineDataPipeline:837 spacy_np:671
+older ages	econ:1148 auto:1038 rake:250 kea:1005 spacy_np:570
+gallstones	econ:775 auto:370 kea:172 StructMineDataPipeline:191 spacy_np:161 textrank:277
+hypertensive rat	econ:76 auto:1035 rake:287 kea:710 StructMineDataPipeline:969 textrank:623
+nervous system activity	econ:485 auto:1098 kea:829
+eikenella	econ:391 auto:643 kea:532 StructMineDataPipeline:934 spacy_np:618 textrank:706
+doses	econ:83 auto:965 kea:182 StructMineDataPipeline:28 spacy_np:44 textrank:10
+nucleic acids	econ:1106 auto:23 rake:317 kea:713 StructMineDataPipeline:943 spacy_np:909
+nma	econ:249 auto:700 kea:348 StructMineDataPipeline:523 spacy_np:701 textrank:710
+contrast material	econ:1011 auto:118 rake:184 kea:582 StructMineDataPipeline:801 spacy_np:749
+pi3k akt	econ:448 auto:114 rake:277 kea:701 StructMineDataPipeline:973 spacy_np:1088
+safety	econ:89 auto:536 kea:116 StructMineDataPipeline:8 spacy_np:6 textrank:179
+hcg	econ:90 auto:276 kea:444 StructMineDataPipeline:481 spacy_np:431 textrank:256
+emtricitabine	econ:447 auto:988 kea:554 StructMineDataPipeline:545 spacy_np:542 textrank:779
+adjusted hazard ratio	econ:338 auto:249 rake:44 kea:1061 StructMineDataPipeline:726 spacy_np:886
+cause	econ:91 auto:1041 kea:175 StructMineDataPipeline:11 spacy_np:202 textrank:45
+healthy blood	econ:779 rake:347 kea:967
+eswl	econ:635 auto:924 kea:720 StructMineDataPipeline:829 spacy_np:776 textrank:548
+ecd	econ:870 auto:742 kea:286 StructMineDataPipeline:602 spacy_np:512 textrank:331
+eosinophil	econ:96 auto:715 kea:539 StructMineDataPipeline:917 spacy_np:822 textrank:189
+schistosomiasis	econ:622 auto:240 kea:368 StructMineDataPipeline:272 spacy_np:265 textrank:504
+isi	econ:400 auto:783 kea:1103 StructMineDataPipeline:1126 spacy_np:1117 textrank:730
+odds ratios ors	econ:501 auto:104 rake:70 kea:890 StructMineDataPipeline:388 spacy_np:541
+t1dm	econ:451 auto:426 kea:658 StructMineDataPipeline:585 spacy_np:528
+pcbs	econ:1018 auto:826 kea:308 StructMineDataPipeline:888 spacy_np:788 textrank:680
+medical school graduates	econ:330 auto:439 rake:52 kea:744 StructMineDataPipeline:994 spacy_np:944
+interviews	econ:369 auto:247 kea:675 StructMineDataPipeline:238 spacy_np:262 textrank:584
+body-surface area	econ:1085 kea:782 StructMineDataPipeline:454 spacy_np:399
+pni	econ:1145 auto:799 kea:341 StructMineDataPipeline:826 spacy_np:764 textrank:546
+southern africa	econ:526 auto:27 rake:255 kea:767 StructMineDataPipeline:472 spacy_np:455
+niemann-pick	econ:668 kea:717
+granulopoiesis	econ:998 auto:979 kea:1109 StructMineDataPipeline:817 spacy_np:673 textrank:23
+chronic liver diseases	econ:771 auto:717 rake:35 kea:766 StructMineDataPipeline:708 spacy_np:584
+large intestine	econ:821 auto:905 rake:266 kea:684 StructMineDataPipeline:626 spacy_np:1085
+dexmedetomidine	econ:352 auto:263 kea:338 StructMineDataPipeline:326 spacy_np:280 textrank:453
+scientific community	econ:902 auto:1049 rake:289 kea:830 StructMineDataPipeline:526 textrank:67
+interferon-gamma ifn-gamma	econ:802 kea:1066 StructMineDataPipeline:899 spacy_np:940
+adaptive immune system	econ:968 auto:1082 rake:71 kea:1116 StructMineDataPipeline:733 spacy_np:1087
+cervical spondylotic myelopathy	econ:942 auto:61 rake:56 kea:931 StructMineDataPipeline:952 spacy_np:801
+idiopathic pulmonary fibrosis ipf	econ:605 auto:62 rake:19 StructMineDataPipeline:587 spacy_np:496
+other hospitals	econ:917 auto:1100 kea:882 StructMineDataPipeline:488 spacy_np:515
+aberdeen	econ:750 auto:311 kea:885 StructMineDataPipeline:865 spacy_np:723
+47 patients	auto:1111 rake:127 spacy_np:298
+timely manner	econ:1107 rake:339 kea:883 StructMineDataPipeline:724
+gleason	econ:616 auto:596 kea:299 StructMineDataPipeline:892 spacy_np:698 textrank:685
+glands	econ:123 auto:909 kea:431 StructMineDataPipeline:509 spacy_np:516 textrank:423
+falls	econ:620 auto:485 kea:425 StructMineDataPipeline:156 spacy_np:153 textrank:4
+between january	auto:1047 kea:1120 StructMineDataPipeline:898
+mace	econ:406 auto:733 kea:726 StructMineDataPipeline:516 spacy_np:439 textrank:654
+achievement	econ:1122 auto:568 kea:418 StructMineDataPipeline:240 spacy_np:285 textrank:729
+tpa	econ:126 auto:344 kea:323 StructMineDataPipeline:512 spacy_np:513 textrank:438
+monotherapy	econ:927 auto:694 kea:537 StructMineDataPipeline:155 spacy_np:113 textrank:59
+clinician	econ:637 auto:318 kea:904 StructMineDataPipeline:199 spacy_np:868 textrank:197
+cell disease	econ:136 auto:1094 rake:181 kea:210 StructMineDataPipeline:1033 textrank:529
+knowledge	econ:944 auto:806 kea:132 StructMineDataPipeline:27 spacy_np:27 textrank:95
+hrt	econ:141 auto:441 kea:98 StructMineDataPipeline:311 spacy_np:267 textrank:342
+hrv	econ:657 auto:534 kea:544 StructMineDataPipeline:551 spacy_np:533 textrank:244
+nfat	econ:483 auto:882 kea:718 StructMineDataPipeline:1008 spacy_np:864 textrank:154
+fda	econ:267 auto:438 kea:77 StructMineDataPipeline:447 spacy_np:856 textrank:83
+asians	econ:633 auto:162 kea:558 StructMineDataPipeline:275 spacy_np:257 textrank:247
+respiratory secretions	econ:828 auto:154 rake:319 kea:1091 StructMineDataPipeline:683 spacy_np:595
+lobe	econ:144 auto:723 kea:449 StructMineDataPipeline:652 spacy_np:953 textrank:408
+ophthalmology	econ:838 auto:683 kea:584 StructMineDataPipeline:720 spacy_np:625 textrank:655
+allergen	econ:146 auto:823 kea:471 StructMineDataPipeline:468 spacy_np:620 textrank:129
+years	econ:1124 auto:999 kea:53 StructMineDataPipeline:0 spacy_np:99 textrank:17
+okt3	econ:153 auto:274 kea:454 StructMineDataPipeline:711 spacy_np:599
+hypoxemia	econ:150 auto:281 kea:433 StructMineDataPipeline:263 spacy_np:282 textrank:555
+cochlea	econ:979 auto:1005 kea:32 StructMineDataPipeline:770 spacy_np:1112 textrank:732
+the patterns	spacy_np:312
+the achievement	spacy_np:407
+cdc	econ:7 auto:432 kea:574 StructMineDataPipeline:665 spacy_np:487 textrank:594
+fertility	econ:430 auto:402 kea:130 StructMineDataPipeline:181 spacy_np:151 textrank:317
+angioedema	econ:157 auto:183 kea:274 StructMineDataPipeline:359 spacy_np:335 textrank:425
+cell receptor	econ:158 auto:1077 rake:132 kea:738 StructMineDataPipeline:1140 textrank:570
+electrode	econ:648 auto:657 kea:566 StructMineDataPipeline:1003 spacy_np:1016 textrank:182
+comorbidity	econ:130 auto:395 kea:302 StructMineDataPipeline:183 spacy_np:164 textrank:338
+fluid analysis	econ:368 auto:1095 rake:346 kea:1004 spacy_np:1089
+identification	econ:589 auto:461 kea:445 StructMineDataPipeline:25 spacy_np:23 textrank:617
+lymphoma nhl	econ:336 rake:303 kea:1012 spacy_np:1090
+univariate and multivariate analyses	econ:864 auto:158 spacy_np:451
+eosin	econ:566 auto:976 kea:799 StructMineDataPipeline:887 spacy_np:663
+pheochromocytoma	econ:164 auto:362 kea:253 StructMineDataPipeline:190 spacy_np:204 textrank:135
+residency	econ:171 auto:580 kea:487 StructMineDataPipeline:456 spacy_np:464 textrank:169
+ondansetron	econ:313 auto:533 kea:240 StructMineDataPipeline:432 spacy_np:365 textrank:591
+placebo	econ:172 auto:919 kea:25 StructMineDataPipeline:9 spacy_np:3 textrank:210
+icus	econ:173 auto:288 kea:621 StructMineDataPipeline:632 spacy_np:478 textrank:778
+cd4 cell count	econ:612 auto:50 rake:25 kea:218 StructMineDataPipeline:419 spacy_np:544
+environments	econ:1092 auto:1004 kea:441 StructMineDataPipeline:631 spacy_np:681 textrank:588
+motor vehicle accidents	econ:996 auto:34 rake:49 kea:788 StructMineDataPipeline:712 spacy_np:601
+rhabdomyolysis	econ:407 auto:194 kea:355 StructMineDataPipeline:227 spacy_np:187 textrank:431
+duchenne s muscular dystrophy	econ:1074 auto:110 StructMineDataPipeline:1116 spacy_np:497
+rosiglitazone	econ:556 auto:519 kea:563 StructMineDataPipeline:360 spacy_np:326 textrank:632
+dyspnea	econ:176 auto:413 kea:312 StructMineDataPipeline:167 spacy_np:140 textrank:390
+decline	econ:177 auto:830 kea:180 StructMineDataPipeline:49 spacy_np:192 textrank:452
+seven days	auto:1056 rake:139 kea:1147 StructMineDataPipeline:1071 spacy_np:229 textrank:52
+current controlled trials	econ:574 auto:187 rake:107 kea:549 StructMineDataPipeline:1076 spacy_np:905
+photon	econ:185 auto:718 kea:784 StructMineDataPipeline:1100 spacy_np:1021 textrank:705
+determination	econ:757 auto:837 kea:517 StructMineDataPipeline:144 spacy_np:144 textrank:696
+fus	econ:964 auto:934 kea:466 StructMineDataPipeline:911 spacy_np:752 textrank:365
+transformation	econ:530 auto:754 kea:579 StructMineDataPipeline:302 spacy_np:311 textrank:369
+10 days	auto:1062 rake:110 spacy_np:149
+sc disease	econ:531 auto:1044 rake:113 kea:997 StructMineDataPipeline:1029 spacy_np:935
+sodium fluoride	econ:980 auto:113 rake:64 kea:1021 StructMineDataPipeline:838 spacy_np:826
+a20	econ:760 auto:738 kea:809 StructMineDataPipeline:848 spacy_np:741
+strait islander people	econ:31 kea:932 StructMineDataPipeline:1135 spacy_np:996
+dorsal horn	econ:326 auto:33 rake:157 kea:874 StructMineDataPipeline:1014 spacy_np:1094
+pathology	econ:460 auto:566 kea:397 StructMineDataPipeline:119 spacy_np:123 textrank:200
+recurrent genital herpes	econ:1028 auto:180 rake:53 kea:719 StructMineDataPipeline:635 spacy_np:543
+contraceptive pill	econ:461 auto:103 rake:337 kea:845 StructMineDataPipeline:939 textrank:682
+migraine	econ:348 auto:348 kea:87 StructMineDataPipeline:98 spacy_np:63 textrank:91
+carbohydrates	econ:726 auto:1003 kea:860 StructMineDataPipeline:450 spacy_np:420 textrank:187
+ivf	econ:26 auto:424 kea:170 StructMineDataPipeline:368 spacy_np:306 textrank:473
+mole	econ:542 auto:689 kea:297 StructMineDataPipeline:963 spacy_np:878 textrank:412
+paf	econ:700 auto:551 kea:343 StructMineDataPipeline:582 spacy_np:471 textrank:273
+torres strait islander	econ:200 auto:68 rake:66 kea:88 StructMineDataPipeline:1092
+fibrosis	econ:307 auto:811 kea:19 StructMineDataPipeline:138 spacy_np:93 textrank:96
+beta cell function	econ:798 auto:128 rake:42 kea:643 StructMineDataPipeline:738 spacy_np:655
+sauna	econ:426 auto:617 kea:413 StructMineDataPipeline:1054 spacy_np:1077 textrank:297
+antibody formation	econ:931 auto:719 rake:294 kea:1127 StructMineDataPipeline:835 spacy_np:768
+user	econ:1080 auto:847 kea:1138 StructMineDataPipeline:985 spacy_np:1067 textrank:448
+single course	econ:848 rake:295 kea:440 StructMineDataPipeline:671 spacy_np:1049
+ventilation perfusion	econ:894 auto:97 kea:664 StructMineDataPipeline:1049 spacy_np:1096 textrank:755
+hypopituitarism	econ:752 auto:278 kea:634 StructMineDataPipeline:339 spacy_np:301 textrank:631
+methylmalonic acid	econ:939 auto:81 rake:242 kea:833 StructMineDataPipeline:1015 spacy_np:896
+thought	econ:1127 auto:1008 kea:1130 StructMineDataPipeline:722 spacy_np:761 textrank:573
+exacerbations	econ:209 auto:433 kea:393 StructMineDataPipeline:169 spacy_np:134 textrank:224
+us army	econ:862 auto:971 rake:165 kea:698 StructMineDataPipeline:944 spacy_np:1059
+streptokinase	econ:300 auto:323 kea:254 StructMineDataPipeline:193 spacy_np:180 textrank:328
+ten days	auto:1073 rake:164 kea:998 StructMineDataPipeline:690 spacy_np:640
+gene encoding	econ:762 auto:463 rake:123 textrank:789
+asthma	econ:216 auto:403 kea:14 StructMineDataPipeline:19 spacy_np:5 textrank:130
+swedish research council	econ:811 auto:30 rake:62 kea:463 StructMineDataPipeline:427 spacy_np:523
+cmt1a	econ:1126 auto:832 kea:565 StructMineDataPipeline:874 spacy_np:799
+the developed world	auto:1078 spacy_np:376
+taxane	econ:394 auto:764 kea:781 StructMineDataPipeline:949 spacy_np:1004 textrank:684
+six weeks	auto:1048 rake:144 kea:1140 StructMineDataPipeline:1051 spacy_np:171
+precancerous lesions	econ:607 auto:130 rake:158 kea:957 StructMineDataPipeline:757 spacy_np:677
+gvhd	econ:222 auto:349 kea:276 StructMineDataPipeline:317 spacy_np:271 textrank:351
+survival	econ:223 auto:599 kea:68 StructMineDataPipeline:7 spacy_np:2 textrank:81
+utah	econ:703 auto:351 kea:1114 StructMineDataPipeline:925 spacy_np:814 textrank:664
+left ventricle	econ:579 auto:57 rake:212 kea:727 StructMineDataPipeline:308 spacy_np:952
+birth	econ:803 auto:704 kea:119 StructMineDataPipeline:34 spacy_np:16 textrank:65
+captopril	econ:593 auto:300 kea:147 StructMineDataPipeline:134 spacy_np:82 textrank:382
+prolactin secretion	econ:737 auto:102 rake:267 kea:910 StructMineDataPipeline:547 spacy_np:504
+analysis of patients	kea:903
+adiponectin	econ:229 auto:178 kea:407 StructMineDataPipeline:278 spacy_np:245 textrank:368
+consensus	econ:598 auto:452 kea:209 StructMineDataPipeline:160 spacy_np:221 textrank:253
+left ventricular hypertrophy lvh	econ:882 auto:79 rake:36 StructMineDataPipeline:803 spacy_np:656
+adaptation	econ:1156 auto:793 kea:551 StructMineDataPipeline:336 spacy_np:351 textrank:516
+indications	econ:233 auto:628 kea:148 StructMineDataPipeline:100 spacy_np:118 textrank:446
+severe form	econ:528 auto:1083 rake:232 kea:950 StructMineDataPipeline:495 textrank:793
+parasite	econ:238 auto:626 kea:560 StructMineDataPipeline:319 spacy_np:899 textrank:149
+genetics	econ:463 auto:206 kea:356 StructMineDataPipeline:146 spacy_np:141 textrank:118
+icd	econ:318 auto:302 kea:427 StructMineDataPipeline:676 spacy_np:759 textrank:543
+ultrasonography	econ:733 auto:284 kea:186 StructMineDataPipeline:152 spacy_np:105 textrank:605
+vzv	econ:1112 auto:496 kea:470 StructMineDataPipeline:904 spacy_np:734 textrank:275
+aids clinical trials group	econ:819 auto:116 rake:12 StructMineDataPipeline:844 spacy_np:945
+cochrane library	econ:247 auto:15 rake:259 kea:878 StructMineDataPipeline:237 spacy_np:343
+leadership	econ:831 auto:644 kea:382 StructMineDataPipeline:313 spacy_np:288 textrank:421
+ugandan	econ:362 auto:662 kea:928 spacy_np:1099 textrank:711
+peep	econ:250 auto:545 kea:469 StructMineDataPipeline:565 spacy_np:517 textrank:358
+present report	econ:1100 rake:309 kea:924 StructMineDataPipeline:618
+fenofibrate	econ:915 auto:528 kea:294 StructMineDataPipeline:402 spacy_np:400 textrank:164
+short arm	econ:851 auto:1054 rake:305 kea:898 StructMineDataPipeline:504 spacy_np:1104
+crpc	econ:323 auto:822 kea:660 StructMineDataPipeline:885 spacy_np:754 textrank:640
+united states	econ:506 auto:13 rake:82 kea:129 StructMineDataPipeline:10 spacy_np:615
+diabetics	econ:388 auto:839 kea:59 StructMineDataPipeline:124 spacy_np:127 textrank:69
+ppv	econ:257 auto:505 kea:925 StructMineDataPipeline:507 spacy_np:614 textrank:456
+subluxation	econ:827 auto:1017 kea:815 StructMineDataPipeline:970 spacy_np:918 textrank:782
+peripheral circulation	econ:1068 auto:1045 rake:145 kea:805 StructMineDataPipeline:696 spacy_np:1008
+bangladesh	econ:454 auto:169 kea:377 StructMineDataPipeline:225 spacy_np:201 textrank:723
+roc analysis	econ:459 auto:124 rake:143 kea:1084 StructMineDataPipeline:702 spacy_np:624
+type 2 diabetes mellitus	econ:427 auto:145 rake:5 spacy_np:120
+differences	econ:263 auto:741 kea:112 StructMineDataPipeline:13 spacy_np:12 textrank:82
+adjacent segment	econ:807 auto:129 rake:126 kea:562 StructMineDataPipeline:1093 spacy_np:1011
+cic	econ:402 auto:729 kea:145 StructMineDataPipeline:531 spacy_np:430 textrank:372
+scoliosis	econ:269 auto:171 kea:179 StructMineDataPipeline:356 spacy_np:333 textrank:436
+maintenance dose	econ:654 auto:850 rake:247 kea:1083 StructMineDataPipeline:806 spacy_np:1107
+neurology	econ:450 auto:239 kea:765 StructMineDataPipeline:390 spacy_np:355 textrank:407
+cancers	econ:270 auto:819 kea:89 StructMineDataPipeline:57 spacy_np:66 textrank:31
+adenosine	econ:509 auto:253 kea:495 StructMineDataPipeline:400 spacy_np:281 textrank:380
+beliefs	econ:606 auto:423 kea:295 StructMineDataPipeline:268 spacy_np:248 textrank:254
+published in bmc medicine	auto:223
+suspected myocardial infarction	auto:1061 rake:68 kea:798 StructMineDataPipeline:575 spacy_np:470
+neuritis	econ:493 auto:889 kea:545 StructMineDataPipeline:1053 spacy_np:545 textrank:676
+thrombosis	econ:289 auto:590 kea:47 StructMineDataPipeline:90 spacy_np:48 textrank:60
+enzyme-linked immunosorbent	econ:586 kea:703 StructMineDataPipeline:958
+autism	econ:197 auto:186 kea:242 StructMineDataPipeline:239 spacy_np:157 textrank:716
+premenopausal patients	econ:904 auto:1052 rake:178 kea:779 StructMineDataPipeline:616 spacy_np:578
+ulcerations	econ:850 auto:994 kea:721 StructMineDataPipeline:845 spacy_np:787 textrank:202
+tachypnea	econ:901 auto:984 kea:1137 StructMineDataPipeline:740 spacy_np:635 textrank:785
+clinical feature	econ:878 auto:1002 rake:332 kea:954 StructMineDataPipeline:981 spacy_np:1108
+kvp	econ:676 auto:993 kea:358 StructMineDataPipeline:940 textrank:675
+tnm stage	econ:510 auto:38 rake:136 kea:780 StructMineDataPipeline:576 spacy_np:588
+rankl	econ:559 auto:598 kea:214 StructMineDataPipeline:530 spacy_np:482 textrank:450
+influenza	econ:168 auto:353 kea:11 StructMineDataPipeline:108 spacy_np:71 textrank:2
+5-hydroxyindoleacetic acid	econ:1025 kea:1108 StructMineDataPipeline:933 spacy_np:821
+roc	econ:1 auto:372 kea:527 StructMineDataPipeline:764 spacy_np:721 textrank:615
+renin secretion	econ:836 auto:141 rake:137 kea:814 StructMineDataPipeline:774 spacy_np:628
+asian	econ:371 auto:242 kea:1063 StructMineDataPipeline:678 spacy_np:831 textrank:246
+adjustment	econ:319 auto:569 kea:640 StructMineDataPipeline:64 spacy_np:35 textrank:311
+issues	econ:583 auto:698 kea:173 StructMineDataPipeline:80 spacy_np:122 textrank:73
+aquaporin	econ:1071 auto:781 kea:731 StructMineDataPipeline:1067 spacy_np:823 textrank:237
+zika virus zikv	econ:490 auto:80 rake:84 kea:847 StructMineDataPipeline:946 spacy_np:963
+muscle cell proliferation	econ:440 kea:939 StructMineDataPipeline:1128 spacy_np:1070
+mcs	econ:1079 auto:671 kea:328 StructMineDataPipeline:645 spacy_np:626 textrank:690
+lenalidomide	econ:128 auto:398 kea:602 StructMineDataPipeline:571 spacy_np:398 textrank:636
+tail	econ:778 auto:894 kea:1132 StructMineDataPipeline:890 spacy_np:853 textrank:742
+west africa	econ:349 auto:3 rake:148 kea:523 StructMineDataPipeline:252 spacy_np:210
+heterogeneity	econ:754 auto:460 kea:244 StructMineDataPipeline:113 spacy_np:131 textrank:661
+tamoxifen	econ:151 auto:334 kea:161 StructMineDataPipeline:173 spacy_np:136 textrank:199
+g-csf	econ:244 kea:453 StructMineDataPipeline:425 spacy_np:338
+tampons	econ:885 auto:1020 kea:384 StructMineDataPipeline:856 spacy_np:689 textrank:332
+anemia	econ:227 auto:365 kea:15 StructMineDataPipeline:60 spacy_np:34 textrank:119
+ophthalmologist	econ:1061 auto:731 kea:1041 StructMineDataPipeline:773 textrank:525
+pbd	econ:1034 auto:812 kea:547 StructMineDataPipeline:794 spacy_np:685 textrank:426
+lung cancer patients	econ:965 auto:1065 rake:57 kea:577 StructMineDataPipeline:439 spacy_np:456
+pain severity	econ:1056 auto:1028 rake:276 kea:1126 StructMineDataPipeline:814 spacy_np:730
+the research	spacy_np:290
+management of depression	auto:1097 kea:761
+consumers	econ:954 auto:555 kea:211 StructMineDataPipeline:255 spacy_np:223 textrank:172
+ast	econ:93 auto:500 kea:678 StructMineDataPipeline:608 spacy_np:390 textrank:627
+clavulanic	econ:84 kea:1155 spacy_np:1039 textrank:432
+overload	econ:599 auto:962 kea:866 StructMineDataPipeline:605 spacy_np:791 textrank:624
+aldosteronism	econ:933 auto:900 kea:534 StructMineDataPipeline:851 spacy_np:746 textrank:305
+bdp	econ:314 auto:749 kea:373 StructMineDataPipeline:680 spacy_np:534 textrank:445
+hsct	econ:1070 auto:368 kea:251 StructMineDataPipeline:527 spacy_np:447 textrank:424
+relative lack	econ:1072 rake:343 kea:1104 StructMineDataPipeline:718 spacy_np:1110 textrank:308
+charlson comorbidity index	econ:656 auto:69 rake:78 kea:1038 StructMineDataPipeline:798 spacy_np:796
+niche	econ:16 auto:972 kea:345 StructMineDataPipeline:750 spacy_np:1056 textrank:611
+editorial	econ:231 auto:212 kea:528 StructMineDataPipeline:374 spacy_np:592 textrank:175
+seven children	auto:1105 rake:286 kea:1131 StructMineDataPipeline:1034 spacy_np:654
+sinuses	econ:478 auto:963 kea:827 StructMineDataPipeline:788 spacy_np:847 textrank:250
+hla-identical siblings	econ:946 kea:839 StructMineDataPipeline:755 spacy_np:653
+important aspect	econ:1134 auto:1072 rake:215 kea:930 StructMineDataPipeline:663
+implications for clinical practice	auto:1069 kea:786
+obstetricians	econ:789 auto:589 kea:306 StructMineDataPipeline:329 spacy_np:303 textrank:404
+models of care	auto:1071 kea:989
+the experiment	spacy_np:612
+craniopharyngioma	econ:812 auto:1030 kea:1082 StructMineDataPipeline:881 spacy_np:872 textrank:731
+compliance	econ:675 auto:360 kea:61 StructMineDataPipeline:94 spacy_np:68 textrank:203
+akt	econ:20 auto:209 kea:277 StructMineDataPipeline:385 spacy_np:391 textrank:157
+medicines agency	econ:342 auto:147 kea:1015
+cta	econ:132 auto:481 kea:282 StructMineDataPipeline:506 spacy_np:473 textrank:586
+cessation	econ:196 auto:858 kea:290 StructMineDataPipeline:58 spacy_np:79 textrank:539
+resonance	econ:203 auto:1019 kea:36 StructMineDataPipeline:1097 spacy_np:1064 textrank:400
+ventricular stroke	econ:22 kea:1049
+succinate	econ:346 auto:899 kea:264 StructMineDataPipeline:989 spacy_np:888 textrank:781
+clonidine	econ:396 auto:215 kea:102 StructMineDataPipeline:222 spacy_np:178 textrank:418
+shanghai	econ:745 auto:222 kea:856 StructMineDataPipeline:366 spacy_np:327 textrank:769
+classification	econ:380 auto:490 kea:120 StructMineDataPipeline:151 spacy_np:220 textrank:384
+cohb	econ:389 auto:693 kea:1076 StructMineDataPipeline:967 spacy_np:819 textrank:519
+aps	econ:662 auto:422 kea:581 StructMineDataPipeline:423 spacy_np:370 textrank:442
+global fund	econ:805 auto:625 rake:150 kea:671 StructMineDataPipeline:597 spacy_np:861
+vip	econ:504 auto:451 kea:456 StructMineDataPipeline:498 spacy_np:421 textrank:339
+sodium reabsorption	econ:624 auto:120 rake:179 kea:1028 StructMineDataPipeline:977 spacy_np:862
+career	econ:564 auto:448 kea:367 StructMineDataPipeline:466 spacy_np:858 textrank:185
+increased rates	auto:1092 rake:134 kea:1023 StructMineDataPipeline:503 spacy_np:369 textrank:788
+aiha	econ:898 auto:775 kea:697 StructMineDataPipeline:785 spacy_np:649 textrank:515
+examination	econ:32 auto:853 kea:200 StructMineDataPipeline:59 spacy_np:59 textrank:22
+sella turcica	econ:547 auto:42 rake:236 kea:793 StructMineDataPipeline:862
+december	econ:877 auto:179 kea:752 StructMineDataPipeline:46 spacy_np:19 textrank:776
+malawi	econ:508 auto:207 kea:289 StructMineDataPipeline:391 spacy_np:346 textrank:663
+psoriasis	econ:497 auto:287 kea:285 StructMineDataPipeline:132 spacy_np:86 textrank:350
+esr1	econ:695 auto:659 kea:399 StructMineDataPipeline:947 spacy_np:777
+s pneumoniae	econ:335 auto:1034 StructMineDataPipeline:363 spacy_np:331
+immunoglobulins	econ:743 auto:367 kea:388 StructMineDataPipeline:305 spacy_np:283 textrank:296
+infusion	econ:34 auto:954 kea:197 StructMineDataPipeline:86 spacy_np:100 textrank:279
+chimpanzee	econ:569 auto:790 kea:619 StructMineDataPipeline:912 spacy_np:959 textrank:578
+calcium balance	econ:604 auto:511 rake:251 kea:891 StructMineDataPipeline:996 spacy_np:879
+appendix	econ:639 auto:929 kea:1111 StructMineDataPipeline:703 spacy_np:1066 textrank:727
+iim	econ:651 auto:734 kea:476 StructMineDataPipeline:653 spacy_np:694 textrank:301
+autosomal dominant disorder	econ:1064 auto:983 rake:122 kea:889 StructMineDataPipeline:831
+puerperium	econ:922 auto:990 kea:813 StructMineDataPipeline:461 spacy_np:889 textrank:795
+ert	econ:367 auto:531 kea:71 StructMineDataPipeline:600 spacy_np:484 textrank:679
+diagnosis of lung	kea:899
+ibd	econ:40 auto:410 kea:520 StructMineDataPipeline:254 spacy_np:218 textrank:603
+cat	econ:736 auto:358 kea:462 StructMineDataPipeline:681 spacy_np:561 textrank:523
+chief scientist	econ:470 auto:576 rake:314 kea:680
+astrazeneca	econ:756 auto:304 kea:824 StructMineDataPipeline:436 spacy_np:383 textrank:518
+temperatures	econ:985 auto:879 kea:504 StructMineDataPipeline:519 spacy_np:560 textrank:158
+metastases	econ:41 auto:670 kea:91 StructMineDataPipeline:141 spacy_np:110 textrank:326
+rehabilitation	econ:999 auto:339 kea:141 StructMineDataPipeline:161 spacy_np:129 textrank:120
+red cross	econ:1142 auto:150 rake:353 kea:994 StructMineDataPipeline:1125
+staphylococcus epidermidis	econ:499 auto:9 rake:203 kea:1009 StructMineDataPipeline:572 spacy_np:530
+iodine	econ:42 auto:382 kea:51 StructMineDataPipeline:389 spacy_np:332 textrank:117
+immunization coverage	econ:1022 auto:193 rake:223 kea:437 StructMineDataPipeline:800 spacy_np:727
+radiotherapy	econ:38 auto:320 kea:34 StructMineDataPipeline:42 spacy_np:29 textrank:0
+atorvastatin	econ:45 auto:280 kea:92 StructMineDataPipeline:282 spacy_np:270 textrank:401
+glut4	econ:795 auto:845 kea:81 StructMineDataPipeline:1065 spacy_np:890
+tak	econ:822 auto:896 kea:913 StructMineDataPipeline:942 spacy_np:884 textrank:267
+csm	econ:977 auto:794 kea:552 StructMineDataPipeline:746 spacy_np:667 textrank:16
+fonds	econ:214 auto:841 kea:1026 StructMineDataPipeline:1124 spacy_np:1098 textrank:671
+monitoring	econ:683 auto:515 kea:177 StructMineDataPipeline:82 spacy_np:69 textrank:160
+recovery	econ:416 auto:561 kea:63 StructMineDataPipeline:50 spacy_np:36 textrank:134
+bacteremia	econ:49 auto:397 kea:158 StructMineDataPipeline:93 spacy_np:84 textrank:196
+lesions	econ:858 auto:883 kea:7 StructMineDataPipeline:36 spacy_np:57 textrank:116
+hazards regression	econ:51 auto:1058 rake:224 kea:1040 textrank:694
+ohca	econ:1094 auto:620 kea:652 StructMineDataPipeline:854 spacy_np:729 textrank:307
+fever	econ:54 auto:445 kea:37 StructMineDataPipeline:32 spacy_np:14 textrank:233
+felty s syndrome	econ:776 auto:612 StructMineDataPipeline:931 spacy_np:641
+sicca	econ:476 auto:789 kea:973 StructMineDataPipeline:1089
+leukemia	econ:94 auto:707 kea:48 StructMineDataPipeline:121 spacy_np:78 textrank:178
+culture techniques	econ:1037 auto:1013 rake:315 kea:975 StructMineDataPipeline:1021 spacy_np:968
+pigment	econ:387 auto:941 kea:597 StructMineDataPipeline:961 spacy_np:934 textrank:258
+man	econ:357 auto:800 kea:723 StructMineDataPipeline:40 spacy_np:25 textrank:343
+nagasaki	econ:610 auto:809 kea:1123 StructMineDataPipeline:873 spacy_np:748
+mucous membranes	econ:555 auto:146 rake:351 kea:502 StructMineDataPipeline:611 spacy_np:549
+liquid	econ:1003 auto:231 kea:580 StructMineDataPipeline:721 spacy_np:816 textrank:651
+ablation	econ:568 auto:654 kea:243 StructMineDataPipeline:264 spacy_np:273 textrank:194
+documentation	econ:1133 auto:392 kea:583 StructMineDataPipeline:258 spacy_np:272 textrank:484
+peritonitis	econ:59 auto:549 kea:275 StructMineDataPipeline:246 spacy_np:232 textrank:131
+the populations	spacy_np:442
+world health organisation	econ:1000 auto:127 rake:101 kea:794 StructMineDataPipeline:833 spacy_np:1078
+rna synthesis	econ:865 auto:352 rake:140 kea:595 StructMineDataPipeline:843 spacy_np:706
+gynecology	econ:62 auto:747 kea:1055 StructMineDataPipeline:496 spacy_np:469 textrank:697
+embryogenesis	econ:892 auto:895 kea:886 StructMineDataPipeline:603 spacy_np:518 textrank:787
+acids	econ:271 auto:933 kea:20 StructMineDataPipeline:849 spacy_np:855 textrank:215
+japan	econ:498 auto:245 kea:412 StructMineDataPipeline:115 spacy_np:74 textrank:352
+avenue	econ:405 auto:785 kea:902 StructMineDataPipeline:1005 textrank:771
+priming	econ:832 auto:686 kea:657 StructMineDataPipeline:769 spacy_np:987 textrank:612
+fibrosis transmembrane	econ:66 kea:985
+prognosis	econ:81 auto:573 kea:72 StructMineDataPipeline:16 spacy_np:13 textrank:347
+mellitus	econ:71 auto:1037 kea:324 StructMineDataPipeline:114 spacy_np:21 textrank:148
+abortion act	econ:823 auto:1031 rake:227 kea:569 StructMineDataPipeline:588 spacy_np:1093
+mbl	econ:1050 auto:884 kea:773 StructMineDataPipeline:915 spacy_np:763 textrank:693
+population-based retrospective cohort study	econ:561 StructMineDataPipeline:661 spacy_np:1082
+therapy	econ:366 auto:880 kea:12 StructMineDataPipeline:4 spacy_np:0 textrank:43
+occult	econ:138 auto:216 kea:769 StructMineDataPipeline:923 textrank:268
+liberia	econ:704 auto:846 kea:1031 StructMineDataPipeline:767 spacy_np:682 textrank:24
+february	econ:889 auto:172 kea:411 StructMineDataPipeline:158 spacy_np:103 textrank:772
+c57bl 6 mice	econ:815 auto:740 rake:50 spacy_np:813
+ifx	econ:989 auto:887 kea:311 StructMineDataPipeline:962 spacy_np:880 textrank:188
+detroit	econ:609 auto:411 kea:828 StructMineDataPipeline:910 spacy_np:745 textrank:733
+coagulation	econ:243 auto:710 kea:35 StructMineDataPipeline:208 spacy_np:166 textrank:399
+identifying patients	auto:1068 rake:217 kea:1095 StructMineDataPipeline:1084 spacy_np:1038 textrank:41
+cornerstones	econ:1119 auto:1000 kea:1119 StructMineDataPipeline:762 spacy_np:932
+investigators	econ:1062 auto:325 kea:8 StructMineDataPipeline:120 spacy_np:117 textrank:284
+series	econ:746 auto:642 kea:207 StructMineDataPipeline:35 spacy_np:495 textrank:35
+craniotomy	econ:967 auto:947 kea:958 StructMineDataPipeline:786 spacy_np:647 textrank:775
+nigerian	econ:1168 auto:254 kea:980 textrank:491
+cd147	econ:1078 auto:701 kea:232 StructMineDataPipeline:880 spacy_np:711
+edrf	econ:1010 auto:838 kea:536 StructMineDataPipeline:855 spacy_np:807 textrank:770
+showed improvement	auto:1029 rake:180 kea:1159 textrank:47
+pud	econ:1023 auto:563 kea:708 StructMineDataPipeline:707 spacy_np:651 textrank:579
+terminal ileum	econ:755 auto:480 rake:254 kea:977 StructMineDataPipeline:732 spacy_np:920
+paresthesias	econ:696 auto:1027 kea:852 StructMineDataPipeline:813 spacy_np:767 textrank:754
+calories	econ:453 auto:848 kea:349 StructMineDataPipeline:416 spacy_np:406 textrank:443
+days	econ:670 auto:945 kea:78 StructMineDataPipeline:2 spacy_np:72 textrank:68
+c3b	econ:689 auto:833 kea:760 StructMineDataPipeline:1068 spacy_np:999
+risk of hepatocellular carcinoma	auto:1087 kea:802
+chronic kidney disease ckd	econ:860 auto:96 rake:23 StructMineDataPipeline:358 spacy_np:316
+central nervous system cns	econ:475 auto:143 rake:21 StructMineDataPipeline:344 spacy_np:937
+rehydration therapy	econ:535 auto:1059 rake:241 kea:758 StructMineDataPipeline:1085 spacy_np:1000
+rt-pcr	econ:100 kea:1011 StructMineDataPipeline:701 spacy_np:662
+manuscript	econ:545 auto:779 kea:606 StructMineDataPipeline:595 spacy_np:1119 textrank:629
+dose regimen	econ:693 auto:167 rake:138 kea:1124 StructMineDataPipeline:778 textrank:762
+pituitary hormones	econ:854 auto:293 rake:301 kea:1085 StructMineDataPipeline:815 spacy_np:866
+cd4 cell	econ:321 auto:361 kea:250 StructMineDataPipeline:972 spacy_np:1001
+t-helper cells	econ:761 kea:964 StructMineDataPipeline:896 spacy_np:840
+dti	econ:514 auto:577 kea:1099 StructMineDataPipeline:655 spacy_np:547 textrank:674
+ciprofloxacin	econ:669 auto:258 kea:42 StructMineDataPipeline:69 spacy_np:38 textrank:206
+tourette s syndrome	econ:847 auto:603 StructMineDataPipeline:918 spacy_np:480
+holter	econ:543 auto:400 kea:622 StructMineDataPipeline:951 spacy_np:970 textrank:744
+patients with metastatic breast	kea:755
+myelomonocytic leukemia	econ:258 auto:105 rake:310 kea:591 StructMineDataPipeline:1118 spacy_np:1009
+rates	econ:104 auto:956 kea:40 StructMineDataPipeline:21 spacy_np:26 textrank:49
+observations	econ:36 auto:375 kea:542 StructMineDataPipeline:66 spacy_np:237 textrank:11
+past several years	econ:1143 rake:102 kea:927 StructMineDataPipeline:553
+3-year survival	econ:715 kea:1100 StructMineDataPipeline:1020 spacy_np:904
+glucose	econ:13 auto:732 kea:99 StructMineDataPipeline:88 spacy_np:45 textrank:62
+nutrition	econ:523 auto:343 kea:73 StructMineDataPipeline:163 spacy_np:130 textrank:36
+intestine	econ:436 auto:864 kea:103 StructMineDataPipeline:303 spacy_np:645 textrank:429
+relationship	econ:119 auto:937 kea:905 StructMineDataPipeline:20 spacy_np:91 textrank:63
+matching placebo	econ:948 auto:177 rake:167 kea:1024 StructMineDataPipeline:816 spacy_np:652
+serotonin	econ:417 auto:305 kea:219 StructMineDataPipeline:229 spacy_np:200 textrank:487
+danazol	econ:544 auto:583 kea:509 StructMineDataPipeline:408 spacy_np:419 textrank:354
+immunodeficiency virus	econ:137 auto:1050 kea:301 textrank:480
+ceftriaxone	econ:305 auto:219 kea:46 StructMineDataPipeline:171 spacy_np:154 textrank:329
+beh	econ:112 kea:319 StructMineDataPipeline:271 spacy_np:1062 textrank:703
+isolation	econ:421 auto:602 kea:666 StructMineDataPipeline:130 spacy_np:119 textrank:357
+war	econ:260 auto:275 kea:233 StructMineDataPipeline:228 spacy_np:256 textrank:259
+sera	econ:617 auto:283 kea:106 StructMineDataPipeline:72 spacy_np:88 textrank:300
+headache	econ:24 auto:399 kea:155 StructMineDataPipeline:104 spacy_np:70 textrank:107
+susceptibility loci	econ:875 auto:196 rake:355 kea:946 StructMineDataPipeline:991 spacy_np:923
+boston	econ:540 auto:246 kea:881 StructMineDataPipeline:457 spacy_np:429 textrank:707
+spectrum	econ:116 auto:756 kea:875 StructMineDataPipeline:107 spacy_np:359 textrank:568
+pubmed	econ:364 auto:296 kea:689 StructMineDataPipeline:129 spacy_np:94 textrank:274
+uganda	econ:344 auto:175 kea:516 StructMineDataPipeline:242 spacy_np:211 textrank:633
+bordetella pertussis	econ:840 auto:46 rake:291 kea:984 StructMineDataPipeline:779 spacy_np:674
+concentration	econ:110 auto:989 kea:104 StructMineDataPipeline:56 spacy_np:163 textrank:123
+minimal inhibitory concentration	econ:512 auto:91 rake:39 kea:742 StructMineDataPipeline:836 spacy_np:971
+demonstration	econ:557 auto:442 kea:379 StructMineDataPipeline:197 spacy_np:294 textrank:559
+gram-negative bacteria	econ:643 kea:375 StructMineDataPipeline:330 spacy_np:314
+administration fda	econ:159 kea:986
+relapse	econ:152 auto:497 kea:55 StructMineDataPipeline:47 spacy_np:31 textrank:76
+the first 6 months	auto:1102 spacy_np:379
+renal transplant patients	econ:951 auto:944 rake:76 kea:699 StructMineDataPipeline:570 spacy_np:555
+gravity	econ:1042 auto:914 kea:195 StructMineDataPipeline:700 spacy_np:740 textrank:643
+fibrils	econ:332 auto:948 kea:662 StructMineDataPipeline:699 spacy_np:806 textrank:598
+pressure values	econ:548 auto:1089 rake:302 kea:991 StructMineDataPipeline:1143 spacy_np:1114
+contact	econ:207 auto:716 kea:667 StructMineDataPipeline:159 spacy_np:126 textrank:498
+confidence limit	econ:109 auto:902 rake:354 kea:857 StructMineDataPipeline:768 textrank:766
+cameroon	econ:533 auto:829 kea:963 StructMineDataPipeline:715 spacy_np:637
+hamartoma	econ:872 auto:805 kea:704 StructMineDataPipeline:953 spacy_np:894 textrank:628
+amyotrophic lateral sclerosis als	econ:788 auto:44 rake:31 StructMineDataPipeline:541 spacy_np:472
+prednisone	econ:239 auto:498 kea:266 StructMineDataPipeline:91 spacy_np:239 textrank:8
+tim-3	econ:837 kea:514 StructMineDataPipeline:1010 spacy_np:1043
+virus	econ:106 auto:873 kea:70 StructMineDataPipeline:39 spacy_np:102 textrank:84
+carcinoma	econ:124 auto:856 kea:45 StructMineDataPipeline:73 spacy_np:46 textrank:115
+antrum	econ:449 auto:901 kea:942 StructMineDataPipeline:684 spacy_np:867 textrank:760
+aetiological role	econ:1073 auto:232 rake:192 kea:709 StructMineDataPipeline:802
+melbourne	econ:328 auto:188 kea:468 StructMineDataPipeline:226 spacy_np:249 textrank:503
+thalidomide	econ:395 auto:527 kea:241 StructMineDataPipeline:306 spacy_np:264 textrank:240
+thc	econ:738 auto:516 kea:272 StructMineDataPipeline:651 spacy_np:559 textrank:355
+factor viii	econ:129 auto:11 rake:99 kea:1 StructMineDataPipeline:218 spacy_np:598
+mri	econ:131 auto:437 kea:191 StructMineDataPipeline:76 spacy_np:32 textrank:153
+cd28	econ:684 auto:279 kea:416 StructMineDataPipeline:670 spacy_np:675
+candidosis	econ:398 auto:977 kea:641 StructMineDataPipeline:1088 spacy_np:1046 textrank:377
+beta chain	econ:1059 auto:99 rake:112 kea:633 StructMineDataPipeline:998
+b streptococci	econ:360 rake:262 StructMineDataPipeline:1138 textrank:728
+vaccines	econ:140 auto:479 kea:9 StructMineDataPipeline:67 spacy_np:64 textrank:64
+ngf	econ:18 auto:517 kea:361 StructMineDataPipeline:642 spacy_np:465 textrank:205
+b fragilis	econ:578 auto:936 rake:285 StructMineDataPipeline:735 spacy_np:676
+idh1	econ:780 auto:816 kea:429 StructMineDataPipeline:810 spacy_np:785
+screening	econ:142 auto:436 kea:39 StructMineDataPipeline:70 spacy_np:51 textrank:1
+patients with small cell	auto:1086 kea:941
+awareness	econ:644 auto:488 kea:278 StructMineDataPipeline:52 spacy_np:50 textrank:34
+spermicide	econ:386 auto:991 kea:685 StructMineDataPipeline:978 spacy_np:1054 textrank:402
+internists	econ:467 auto:202 kea:626 StructMineDataPipeline:299 spacy_np:278 textrank:662
+zambia	econ:580 auto:297 kea:960 StructMineDataPipeline:399 spacy_np:353 textrank:747
+coxiella burnetii	econ:708 auto:32 rake:219 kea:835 StructMineDataPipeline:780 spacy_np:691
+neuroimaging	econ:60 auto:168 kea:681 StructMineDataPipeline:525 spacy_np:411 textrank:74
+hifu	econ:534 auto:913 kea:711 StructMineDataPipeline:954 spacy_np:869 textrank:687
+tbi	econ:145 auto:407 kea:67 StructMineDataPipeline:309 spacy_np:241 textrank:234
+hemodialysis hd	econ:584 auto:139 rake:320 kea:1056 StructMineDataPipeline:935 spacy_np:842
+missense mutation	econ:881 auto:221 rake:263 kea:1102 StructMineDataPipeline:974
+cryptosporidium	econ:1083 auto:379 kea:589 StructMineDataPipeline:514 spacy_np:449 textrank:613
+latin america	econ:546 auto:8 rake:153 kea:625 StructMineDataPipeline:280 spacy_np:247
+emg	econ:748 auto:745 kea:600 StructMineDataPipeline:1060 spacy_np:962 textrank:602
+baroreflex	econ:473 auto:457 kea:911 StructMineDataPipeline:1145 textrank:422
+countries	econ:147 auto:893 kea:10 StructMineDataPipeline:18 spacy_np:39 textrank:288
+recent report	econ:1045 auto:1093 rake:321 kea:1073 StructMineDataPipeline:796 textrank:39
+shape	econ:1007 auto:817 kea:1068 StructMineDataPipeline:502 spacy_np:611 textrank:736
+stemi	econ:186 auto:464 kea:75 StructMineDataPipeline:291 spacy_np:295 textrank:25
+enema	econ:627 auto:646 kea:670 StructMineDataPipeline:1047 spacy_np:865 textrank:673
+tmp smx	econ:354 auto:19 rake:104 kea:271 StructMineDataPipeline:693 spacy_np:621
+sensitivity	econ:155 auto:673 kea:178 StructMineDataPipeline:26 spacy_np:41 textrank:222
+university college london	econ:829 auto:43 rake:20 kea:937 StructMineDataPipeline:1023 spacy_np:906
+moderate risk	econ:1114 auto:1036 rake:194 kea:1034 StructMineDataPipeline:674 spacy_np:659
+brazil	econ:431 auto:163 kea:578 StructMineDataPipeline:211 spacy_np:158 textrank:642
+antimony	econ:581 auto:874 kea:806 StructMineDataPipeline:1013 spacy_np:871 textrank:635
+starting point	econ:1113 auto:814 rake:293 kea:955 StructMineDataPipeline:966 textrank:794
+omeprazole	econ:691 auto:184 kea:153 StructMineDataPipeline:320 spacy_np:196 textrank:138
+ability	econ:744 auto:949 kea:144 StructMineDataPipeline:29 spacy_np:214 textrank:414
+124 patients	auto:1101 rake:282 spacy_np:600
+choroid	econ:645 auto:978 kea:673 StructMineDataPipeline:756 spacy_np:1003 textrank:54
+1-year mortality	econ:401 kea:908 StructMineDataPipeline:455 spacy_np:463
+american board	econ:825 rake:141 kea:1071 StructMineDataPipeline:697 spacy_np:1091
+splenic sequestration	econ:340 auto:131 rake:230 kea:501 StructMineDataPipeline:975 spacy_np:870
+life-threatening complication	econ:678 kea:947 StructMineDataPipeline:517 spacy_np:1051
+erythropoietin	econ:167 auto:235 kea:166 StructMineDataPipeline:244 spacy_np:198 textrank:99
+aminopyrine	econ:353 auto:808 kea:859 StructMineDataPipeline:990 spacy_np:922 textrank:396
+tsus	econ:1129 auto:696 kea:215 StructMineDataPipeline:628 spacy_np:803 textrank:291
+perceptions	econ:495 auto:714 kea:530 StructMineDataPipeline:205 spacy_np:227 textrank:622
+crohn s disease	econ:468 auto:663 StructMineDataPipeline:99 spacy_np:49
+hypoglycemia	econ:170 auto:330 kea:307 StructMineDataPipeline:116 spacy_np:75 textrank:214
+18 patients	auto:1103 rake:59 spacy_np:114
+strong predictor	econ:1102 rake:290 kea:938 StructMineDataPipeline:435
+strains	econ:334 auto:881 kea:65 StructMineDataPipeline:61 spacy_np:121 textrank:227
+misoprostol	econ:98 auto:200 kea:123 StructMineDataPipeline:223 spacy_np:174 textrank:466
+prevention in atrial fibrillation	kea:887
+e3 ubiquitin	econ:521 auto:138 kea:1098
+grounds	econ:721 auto:973 kea:840 StructMineDataPipeline:403 spacy_np:605 textrank:505
+pakistan	econ:482 auto:185 kea:143 StructMineDataPipeline:315 spacy_np:277 textrank:109
+comparison group	econ:1166 auto:1064 rake:202 kea:593 StructMineDataPipeline:380 spacy_np:980 textrank:665
+hepatotoxicity	econ:1009 auto:291 kea:653 StructMineDataPipeline:314 spacy_np:310 textrank:411
+wall	econ:174 auto:920 kea:451 StructMineDataPipeline:354 spacy_np:907 textrank:476
+aureus infections	econ:432 rake:210 kea:1014 textrank:544
+epcs	econ:505 auto:690 kea:371 StructMineDataPipeline:650 spacy_np:607 textrank:285
+reasonable alternative	econ:1109 rake:340 kea:1139 StructMineDataPipeline:828 textrank:20
+tgf	econ:134 auto:475 kea:694 StructMineDataPipeline:857 spacy_np:898 textrank:464
+pct	econ:641 auto:420 kea:309 StructMineDataPipeline:453 spacy_np:395 textrank:312
+nocturnal hypoglycemia	econ:849 auto:252 rake:211 kea:934 StructMineDataPipeline:841 spacy_np:751
+care environment	econ:649 rake:311 kea:1029 StructMineDataPipeline:1052
+contraception	econ:409 auto:220 kea:152 StructMineDataPipeline:164 spacy_np:124 textrank:80
+siv	econ:178 auto:429 kea:436 StructMineDataPipeline:594 spacy_np:521 textrank:231
+bevacizumab	econ:623 auto:268 kea:176 StructMineDataPipeline:219 spacy_np:176 textrank:379
+cent	econ:179 auto:1032 kea:33 StructMineDataPipeline:6 spacy_np:1 textrank:27
+earthquake	econ:1036 auto:416 kea:730 StructMineDataPipeline:748 spacy_np:1118 textrank:667
+veterans administration	econ:180 auto:52 rake:231 kea:854 StructMineDataPipeline:900
+other ethnic groups	econ:1160 auto:1084 kea:792 StructMineDataPipeline:694 spacy_np:643
+referral center	econ:621 auto:153 rake:275 kea:1000 StructMineDataPipeline:955
+ireland	econ:480 auto:173 kea:965 StructMineDataPipeline:406 spacy_np:350 textrank:669
+b therapy	econ:479 rake:356 StructMineDataPipeline:1074 spacy_np:1105 textrank:692
+capsid	econ:181 auto:798 kea:446 StructMineDataPipeline:1072 spacy_np:1048 textrank:388
+dmards	econ:182 auto:713 kea:360 StructMineDataPipeline:919 spacy_np:717 textrank:714
+spect ct	econ:963 auto:78 rake:116 kea:245 StructMineDataPipeline:1012 spacy_np:941
+iddm	econ:274 auto:462 kea:138 StructMineDataPipeline:165 spacy_np:156 textrank:209
+potential importance	econ:1163 auto:1055 rake:304 kea:996 StructMineDataPipeline:654 spacy_np:975
+meningitis	econ:255 auto:680 kea:105 StructMineDataPipeline:105 spacy_np:67 textrank:208
+bmd	econ:183 auto:419 kea:235 StructMineDataPipeline:220 spacy_np:206 textrank:243
+pancreatic juice	econ:1052 auto:109 rake:272 kea:700 StructMineDataPipeline:884 spacy_np:757
+pathogenetic role	econ:1093 auto:666 rake:341 kea:895 StructMineDataPipeline:783 spacy_np:1095
+declaration	econ:945 auto:618 kea:376 StructMineDataPipeline:484 spacy_np:990 textrank:599
+pthrp	econ:1006 auto:298 kea:159 StructMineDataPipeline:563 spacy_np:498 textrank:186
+lymphocytes	econ:220 auto:758 kea:288 StructMineDataPipeline:81 spacy_np:77 textrank:97
+hypotension	econ:190 auto:478 kea:422 StructMineDataPipeline:122 spacy_np:85 textrank:462
+gi tract	econ:488 auto:119 rake:238 kea:443 StructMineDataPipeline:698 textrank:606
+consultant	econ:513 auto:784 kea:803 StructMineDataPipeline:566 spacy_np:930 textrank:299
+pemphigus vulgaris	econ:1020 auto:86 rake:323 kea:873 StructMineDataPipeline:782 spacy_np:644
+vitro experiments	rake:324 kea:858 StructMineDataPipeline:749 spacy_np:697
+maces	econ:191 auto:684 kea:1097 StructMineDataPipeline:820 spacy_np:553 textrank:650
+policies	econ:806 auto:518 kea:322 StructMineDataPipeline:162 spacy_np:132 textrank:14
+west indies	econ:767 auto:51 rake:325 kea:884 StructMineDataPipeline:763 spacy_np:931
+adenomatous polyps	econ:991 auto:20 rake:156 kea:1039 StructMineDataPipeline:596 spacy_np:550
+chernobyl	econ:783 auto:388 kea:531 StructMineDataPipeline:824 spacy_np:695 textrank:700
+significant fall	econ:1058 auto:1090 rake:258 kea:1053 StructMineDataPipeline:387 textrank:21
+polymer	econ:194 auto:652 kea:84 StructMineDataPipeline:1001 spacy_np:1058 textrank:302
+gallbladder stones	econ:871 auto:117 rake:187 kea:945 StructMineDataPipeline:859 spacy_np:733
+anastomosis	econ:712 auto:776 kea:263 StructMineDataPipeline:489 spacy_np:491 textrank:646
+crrt	econ:393 auto:859 kea:935 StructMineDataPipeline:771 spacy_np:638 textrank:672
+raised levels	auto:1075 rake:206 kea:1146 StructMineDataPipeline:976 spacy_np:577
+significant proportion	econ:1137 rake:169 kea:696 StructMineDataPipeline:293 textrank:50
+vsmcs	econ:47 auto:877 kea:988 StructMineDataPipeline:948 spacy_np:747 textrank:763
+therapeutic advantage	econ:1149 auto:777 rake:279 kea:1033 StructMineDataPipeline:839 spacy_np:943
+intention-to-treat analysis	econ:1055 kea:906 StructMineDataPipeline:536 spacy_np:629
+motor impairment	econ:804 auto:309 rake:307 kea:592 StructMineDataPipeline:868 spacy_np:852
+cut-off point	econ:672 kea:821 StructMineDataPipeline:619 spacy_np:977
+gonadal dysgenesis	econ:1019 auto:45 rake:326 kea:841 StructMineDataPipeline:932 spacy_np:804
+penicillin g benzathine	econ:717 auto:554 rake:98 StructMineDataPipeline:956 spacy_np:828
+gastroenterology	econ:706 auto:469 kea:434 StructMineDataPipeline:640 spacy_np:558 textrank:745
+intervention trial	econ:887 auto:229 rake:260 kea:636 StructMineDataPipeline:971 spacy_np:1084
+dust	econ:143 auto:852 kea:900 StructMineDataPipeline:604 spacy_np:494 textrank:589
+mucosal surfaces	econ:852 auto:111 rake:327 kea:982 StructMineDataPipeline:760 spacy_np:735
+antibodies	econ:206 auto:923 kea:21 StructMineDataPipeline:24 spacy_np:11 textrank:88
+uncontrolled hypertension	econ:1096 auto:477 rake:133 kea:623 StructMineDataPipeline:629 spacy_np:554
+vascular occlusion	econ:982 auto:164 rake:296 kea:819 StructMineDataPipeline:705 spacy_np:708
+thr	econ:618 auto:831 kea:897 StructMineDataPipeline:999 spacy_np:885 textrank:644
+opg	econ:679 auto:552 kea:83 StructMineDataPipeline:687 spacy_np:639 textrank:439
+urinary symptoms	econ:770 auto:1040 rake:155 kea:1036 StructMineDataPipeline:858 spacy_np:750
+endometriosis	econ:781 auto:292 kea:69 StructMineDataPipeline:233 spacy_np:197 textrank:417
+researchers	econ:817 auto:327 kea:485 StructMineDataPipeline:127 spacy_np:98 textrank:61
+loracarbef	econ:522 auto:586 kea:82 StructMineDataPipeline:469 spacy_np:461 textrank:366
+anterior chamber	econ:537 auto:107 rake:278 kea:990 StructMineDataPipeline:901 spacy_np:1050
+hepatic glucose output	econ:890 auto:112 rake:91 kea:855 StructMineDataPipeline:882 spacy_np:805
+pressure bp	econ:489 rake:345 kea:978 StructMineDataPipeline:1136
+tcm	econ:211 auto:414 kea:13 StructMineDataPipeline:338 spacy_np:284 textrank:239
+end point	econ:212 auto:77 rake:162 kea:688 StructMineDataPipeline:926 textrank:713
+dopamine	econ:423 auto:332 kea:220 StructMineDataPipeline:230 spacy_np:181 textrank:282
+vertebral bodies	econ:955 auto:94 rake:292 kea:871 StructMineDataPipeline:897 spacy_np:893
+nausea	econ:215 auto:675 kea:510 StructMineDataPipeline:101 spacy_np:62 textrank:592
+extracellular matrix ecm	econ:765 auto:75 rake:51 kea:879 StructMineDataPipeline:863 spacy_np:927
+cvd	econ:193 auto:491 kea:137 StructMineDataPipeline:136 spacy_np:87 textrank:176
+metaplasia	econ:221 auto:931 kea:268 StructMineDataPipeline:883 spacy_np:844 textrank:652
+emergency	econ:315 auto:409 kea:90 StructMineDataPipeline:290 spacy_np:457 textrank:28
+government	econ:442 auto:314 kea:223 StructMineDataPipeline:148 spacy_np:236 textrank:32
+activated charcoal	auto:59 rake:146 kea:659 StructMineDataPipeline:704 spacy_np:606 textrank:520
+oct	econ:720 auto:471 kea:273 StructMineDataPipeline:552 spacy_np:453 textrank:341
+zimbabwe	econ:632 auto:574 kea:728 StructMineDataPipeline:490 spacy_np:426 textrank:738
+pseudomonas species	econ:444 auto:137 rake:173 kea:1107 StructMineDataPipeline:876 spacy_np:892
+bph	econ:226 auto:581 kea:107 StructMineDataPipeline:398 spacy_np:362 textrank:286
+extracellular fluid	econ:883 auto:190 rake:239 kea:724 StructMineDataPipeline:648 spacy_np:827
+mhc	econ:228 auto:307 kea:281 StructMineDataPipeline:723 spacy_np:833 textrank:283
+imatinib	econ:237 auto:210 kea:142 StructMineDataPipeline:262 spacy_np:167 textrank:319
+hosts	econ:866 auto:968 kea:624 StructMineDataPipeline:765 spacy_np:793 textrank:165
+parasitic infection	econ:910 auto:679 rake:280 kea:1001 StructMineDataPipeline:902 spacy_np:1006
+polymers	econ:1049 auto:996 kea:404 StructMineDataPipeline:1040 spacy_np:989 textrank:303
+rpe	econ:950 auto:915 kea:406 StructMineDataPipeline:964 spacy_np:810 textrank:398
+two methods	auto:1106 rake:163 spacy_np:535
+effusion	econ:824 auto:911 kea:110 StructMineDataPipeline:382 spacy_np:352 textrank:367
+fev1	econ:234 auto:225 kea:366 StructMineDataPipeline:201 spacy_np:207
+hrqol	econ:719 auto:363 kea:205 StructMineDataPipeline:393 spacy_np:337 textrank:304
+hydrocortisone	econ:735 auto:578 kea:776 StructMineDataPipeline:343 spacy_np:315 textrank:477
+important goal	econ:1136 auto:1085 rake:328 kea:1030 StructMineDataPipeline:797
+gene-related peptide	econ:241 kea:921 StructMineDataPipeline:1037 spacy_np:979
+markers	econ:242 auto:865 kea:283 StructMineDataPipeline:102 spacy_np:90 textrank:7
+ddh	econ:571 auto:885 kea:372 StructMineDataPipeline:914 spacy_np:762 textrank:722
+mutation	econ:9 auto:588 kea:114 StructMineDataPipeline:84 spacy_np:215 textrank:92
+organ system	econ:699 auto:1057 rake:207 kea:759 StructMineDataPipeline:714 spacy_np:994
+ufh	econ:365 auto:925 kea:499 StructMineDataPipeline:879 spacy_np:710 textrank:721
+diltiazem	econ:358 auto:285 kea:298 StructMineDataPipeline:355 spacy_np:334 textrank:441
+kaposi sarcoma	econ:992 auto:22 rake:159 kea:632 StructMineDataPipeline:637 spacy_np:603
+cgd	econ:53 auto:820 kea:816 StructMineDataPipeline:827 spacy_np:665 textrank:740
+mifepristone	econ:456 auto:380 kea:248 StructMineDataPipeline:482 spacy_np:375 textrank:510
+mefloquine	econ:487 auto:205 kea:217 StructMineDataPipeline:364 spacy_np:387 textrank:552
+ndi	econ:253 auto:582 kea:863 StructMineDataPipeline:792 spacy_np:818 textrank:562
+scientific knowledge	econ:731 auto:677 rake:330 kea:1047 StructMineDataPipeline:610 spacy_np:574
+transgenic mouse model	econ:613 auto:787 rake:95 kea:948 StructMineDataPipeline:804 textrank:796
+cect	econ:932 auto:888 kea:381 StructMineDataPipeline:832 spacy_np:716 textrank:777
+acyclovir	econ:254 auto:237 kea:31 StructMineDataPipeline:123 spacy_np:92 textrank:193
+pancreatitis	econ:441 auto:524 kea:62 StructMineDataPipeline:198 spacy_np:199 textrank:146
+broad range	econ:1118 auto:1046 rake:175 kea:969 StructMineDataPipeline:310 textrank:163
+hypothermia	econ:413 auto:301 kea:432 StructMineDataPipeline:236 spacy_np:225 textrank:460
+metastatic castration-resistant prostate cancer	econ:957 StructMineDataPipeline:734 spacy_np:597
+plethora	econ:975 auto:1033 kea:1043 StructMineDataPipeline:672 spacy_np:1115
+profession	econ:162 auto:943 kea:503 StructMineDataPipeline:327 spacy_np:933 textrank:683
+placebo patients	econ:1154 rake:85 kea:896 StructMineDataPipeline:613 spacy_np:712
+proteinuria	econ:266 auto:591 kea:236 StructMineDataPipeline:92 spacy_np:65 textrank:383
+cell cycle arrest	econ:766 auto:98 rake:86 kea:1093 StructMineDataPipeline:908 spacy_np:881
+edta	econ:677 auto:525 kea:414 StructMineDataPipeline:895 spacy_np:778 textrank:136
+epidemics	econ:666 auto:748 kea:390 StructMineDataPipeline:203 spacy_np:243 textrank:46
+tem	econ:1035 auto:801 kea:750 StructMineDataPipeline:1042 spacy_np:986 textrank:657
+poland	econ:585 auto:329 kea:442 StructMineDataPipeline:500 spacy_np:454 textrank:648
+colchicine	econ:661 auto:487 kea:630 StructMineDataPipeline:325 spacy_np:276 textrank:361
+transfer	econ:374 auto:898 kea:1017 StructMineDataPipeline:180 spacy_np:219 textrank:509
+ppar	econ:259 auto:312 kea:167 StructMineDataPipeline:630 spacy_np:580 textrank:340
+letter	econ:614 auto:226 kea:807 StructMineDataPipeline:276 spacy_np:328 textrank:177
+head	econ:261 auto:613 kea:464 StructMineDataPipeline:78 spacy_np:191 textrank:139
+insulin-dependent diabetics	econ:694 kea:472 StructMineDataPipeline:396 spacy_np:459
+cytoplasm	econ:900 auto:953 kea:862 StructMineDataPipeline:371 spacy_np:882 textrank:495
+carboxyhemoglobin	econ:306 auto:946 kea:822 StructMineDataPipeline:982 spacy_np:841 textrank:626
+potassium	econ:262 auto:572 kea:29 StructMineDataPipeline:154 spacy_np:106 textrank:85
+volume	econ:486 auto:857 kea:100 StructMineDataPipeline:157 spacy_np:160 textrank:334
+percentage points	econ:1153 auto:65 rake:358 kea:512 StructMineDataPipeline:564 spacy_np:1116
+the content	spacy_np:374
+count	econ:72 auto:868 kea:918 StructMineDataPipeline:713 spacy_np:1020 textrank:272
+nmol	econ:198 auto:1007 kea:1113 StructMineDataPipeline:744 spacy_np:1106 textrank:87
+arterial pressure map	econ:511 kea:576 StructMineDataPipeline:1109 spacy_np:836
+surgical margins	econ:983 auto:176 rake:108 kea:992 StructMineDataPipeline:936 spacy_np:895
+experimental autoimmune encephalomyelitis eae	econ:810 auto:54 rake:10 StructMineDataPipeline:737 spacy_np:713
+complications	econ:163 auto:778 kea:27 StructMineDataPipeline:14 spacy_np:8 textrank:132
+hydrochlorothiazide	econ:377 auto:685 kea:192 StructMineDataPipeline:172 spacy_np:116 textrank:345
+immunosorbent assays	econ:316 auto:434 kea:1081 spacy_np:981
+hdv	econ:189 auto:765 kea:287 StructMineDataPipeline:847 spacy_np:696 textrank:292
+medication	econ:608 auto:647 kea:255 StructMineDataPipeline:85 spacy_np:83 textrank:144
+rabbits	econ:1012 auto:412 kea:325 StructMineDataPipeline:178 spacy_np:165 textrank:512
+theophylline	econ:8 auto:354 kea:157 StructMineDataPipeline:174 spacy_np:133 textrank:19
+helper inducer	econ:484 auto:55 rake:274 kea:1035 StructMineDataPipeline:1119 spacy_np:1092
+ldl particles	econ:290 auto:203 rake:249 kea:1135 StructMineDataPipeline:997 spacy_np:901
+insulin	econ:219 auto:627 kea:22 StructMineDataPipeline:33 spacy_np:15 textrank:44
+red blood cell	econ:277 auto:12 rake:75 kea:638 StructMineDataPipeline:983 spacy_np:926
+cambodia	econ:446 auto:303 kea:772 StructMineDataPipeline:532 spacy_np:466 textrank:715
+application	econ:372 auto:678 kea:474 StructMineDataPipeline:74 spacy_np:107 textrank:26
+definitive evidence	econ:1120 auto:855 rake:300 kea:1045 StructMineDataPipeline:727 spacy_np:714
+hnpcc	econ:280 auto:709 kea:196 StructMineDataPipeline:761 spacy_np:658 textrank:280
+neuroblastoma	econ:794 auto:211 kea:305 StructMineDataPipeline:324 spacy_np:307 textrank:359
+the reduction	auto:1110 spacy_np:58
+cvd mortality	econ:1141 auto:324 rake:197 kea:613 StructMineDataPipeline:638 spacy_np:587
+deficiency anemia	econ:597 auto:1066 rake:176 kea:686 spacy_np:1109 textrank:756
+camkii	econ:930 auto:813 kea:378 StructMineDataPipeline:893 spacy_np:797 textrank:314
+scores	econ:285 auto:861 kea:169 StructMineDataPipeline:168 spacy_np:234 textrank:150
+upper respiratory tract infection	econ:414 auto:155 rake:8 StructMineDataPipeline:759 spacy_np:755
+the optimal duration	auto:1107 spacy_np:609
+exposure	econ:287 auto:766 kea:17 StructMineDataPipeline:23 spacy_np:9 textrank:86
+cpk	econ:288 auto:495 kea:204 StructMineDataPipeline:1002 spacy_np:811 textrank:295
+shunt	econ:615 auto:649 kea:80 StructMineDataPipeline:494 spacy_np:773 textrank:89
+cell loss	econ:713 auto:1025 rake:281 kea:956 StructMineDataPipeline:922 spacy_np:808
+positive reaction	econ:1147 auto:1074 rake:268 kea:1096 StructMineDataPipeline:742 spacy_np:1111
+novartis	econ:339 auto:260 kea:789 StructMineDataPipeline:499 spacy_np:432 textrank:780
+half years	econ:1157 auto:1063 rake:109 kea:961 StructMineDataPipeline:428
+amyloidosis	econ:286 auto:390 kea:121 StructMineDataPipeline:195 spacy_np:155 textrank:170
+mainland china	econ:843 auto:85 rake:221 kea:705 StructMineDataPipeline:451 spacy_np:394
+svr	econ:294 auto:751 kea:401 StructMineDataPipeline:664 spacy_np:684 textrank:712

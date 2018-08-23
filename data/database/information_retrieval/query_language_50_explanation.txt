@@ -1,0 +1,100 @@
+2 3 A Gestural Query Language	2123926	auto:0.7734631,textrank:0.0,kea:0.7340727,rake:0.7700423,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.733482
+2 Query Language	396791	auto:0.799323,textrank:0.78038627,kea:0.7840573,rake:0.72841203,spacy_np:0.0,StructMineDataPipeline:0.8021375,econ:1.0
+DATA MODEL AND QUERY LANGUAGE	1384486	auto:0.8745116,textrank:0.8607344,kea:0.86341155,rake:0.80527663,spacy_np:0.0,StructMineDataPipeline:0.87641126,econ:1.0
+2 2 3 Query Language Interface	1070814	auto:0.60044247,textrank:0.0,kea:0.57860047,rake:0.5570737,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.99369526
+Hive 22 and HadoopDB 3 are data warehouses that support SQL-like query language .	1737248	auto:0.0,textrank:0.611552,kea:0.7055176,rake:0.67873967,spacy_np:0.0,StructMineDataPipeline:0.6893767,econ:0.63683856
+The cql continuous query language .	1305411	auto:0.0,textrank:0.6773618,kea:0.6816611,rake:0.665646,spacy_np:0.0,StructMineDataPipeline:0.6803371,econ:0.7315185
+APPENDIX A QUERY LANGUAGE Here , we revisit the query language from our previous work 22 .	991762	auto:0.7771387,textrank:0.7578491,kea:0.0,rake:0.77146643,spacy_np:0.7904907,StructMineDataPipeline:0.74896985,econ:0.7185659
+API AND QUERY LANGUAGE	2184528	auto:0.0,textrank:0.31973094,kea:0.3371327,rake:0.0,spacy_np:0.3866784,StructMineDataPipeline:0.324751,econ:0.34694
+Thus , in this study , the query language	1186565	auto:0.0,textrank:0.0,kea:0.48762318,rake:0.0,spacy_np:0.5034346,StructMineDataPipeline:0.45221746,econ:0.56408113
+Graphs-at-a-time : Query Language and Access Methods for Graph Databases	363059	auto:0.0,textrank:0.36045036,kea:0.3628702,rake:0.34856752,spacy_np:0.43866414,StructMineDataPipeline:0.0,econ:0.3191344
+2 2 Query Language	1653255	auto:0.3740363,textrank:0.36266983,kea:0.37993062,rake:0.39787838,spacy_np:0.4127243,StructMineDataPipeline:0.3611495,econ:0.3984437
+ACQUISITIONAL QUERY LANGUAGE	17734	auto:0.64474374,textrank:0.6245955,kea:0.62305194,rake:0.5867588,spacy_np:0.0,StructMineDataPipeline:0.6112275,econ:0.69697577
+temporal query language .	1186608	auto:0.0,textrank:0.70577395,kea:0.0,rake:0.795668,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+Figure 10 : Grammar of Query Language L3	869290	auto:0.6455419,textrank:0.61586314,kea:0.61373705,rake:0.7378463,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Query Language with Functions .	1186835	auto:0.9982919,textrank:0.9980403,kea:0.998087,rake:0.9978696,spacy_np:0.9988655,StructMineDataPipeline:0.0,econ:1.0
+SCHEMA DESIGN , QUERY LANGUAGE	1737308	auto:0.67798257,textrank:0.674367,kea:0.0,rake:0.63301146,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+A QUERY LANGUAGE FOR PROVENANCE	934622	auto:0.40254644,textrank:0.37262338,kea:0.37574193,rake:0.38912094,spacy_np:0.45027158,StructMineDataPipeline:0.37745148,econ:0.35574892
+In this section we define our query language .	101951	auto:0.57524073,textrank:0.0,kea:0.55081385,rake:0.5459642,spacy_np:0.61819214,StructMineDataPipeline:0.5528889,econ:0.52881575
+XSCL QUERY LANGUAGE	698296	auto:0.46519274,textrank:0.4108796,kea:0.0,rake:0.42167795,spacy_np:0.45962322,StructMineDataPipeline:0.4248545,econ:0.40399176
+The schema design and query language in Cheetah is described in Section 4 .	1737276	auto:0.0,textrank:0.0,kea:0.0,rake:0.5357939,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+10 SPARQL 1 1 Query Language .	1281384	auto:0.6957086,textrank:0.66934335,kea:0.6742758,rake:0.63598317,spacy_np:0.0,StructMineDataPipeline:0.69470584,econ:0.65884125
+2 2 Query Language and API	1806372	auto:0.0,textrank:0.38710788,kea:0.0,rake:0.3968278,spacy_np:0.41345957,StructMineDataPipeline:0.34804252,econ:0.39569637
+We outlined the key aspects of Dremel , including its storage format , query language , and execution .	1699317	auto:0.46421677,textrank:0.43792614,kea:0.4432564,rake:0.43247625,spacy_np:0.48919958,StructMineDataPipeline:0.41913933,econ:0.4903666
+We presented the data model and query language of Dremel , a query engine used in Google .	1227794	auto:0.37302995,textrank:0.35058498,kea:0.34000182,rake:0.35484788,spacy_np:0.39217442,StructMineDataPipeline:0.34581125,econ:0.38426614
+The TSQL2 temporal query language .	955521	auto:1.0,textrank:1.0,kea:1.0,rake:1.0,spacy_np:0.0,StructMineDataPipeline:1.0,econ:1.0
+Query Language .	1492522	auto:0.6149394,textrank:0.59475094,kea:0.5975757,rake:0.69549245,spacy_np:0.0,StructMineDataPipeline:0.5995449,econ:0.57992274
+A QUERY LANGUAGE FOR PROVENANCE	934622	auto:0.6798283,textrank:0.0,kea:0.6568648,rake:0.6403309,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.72471327
+The data model and query language that we consider here were introduced in 2 , 3 .	1496351	auto:0.0,textrank:0.6577781,kea:0.0,rake:0.53996927,spacy_np:0.66331714,StructMineDataPipeline:0.66316575,econ:1.0
+A powerful SQL like query language has been designed .	23935	auto:0.0,textrank:0.3835371,kea:0.0,rake:0.3978591,spacy_np:0.43625763,StructMineDataPipeline:0.38962355,econ:0.39616802
+A powerful SQL like query language has been designed .	23935	auto:0.0,textrank:0.0,kea:0.0,rake:0.45239067,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.99369526
+As query language , we consider a subset of the standard RDFS query language SPARQL 41 .	910298	auto:0.44054595,textrank:0.43148306,kea:0.49149722,rake:0.46350706,spacy_np:0.46328202,StructMineDataPipeline:0.44361857,econ:0.4238538
+3 1 Data Model and Query Language	991144	auto:0.0,textrank:0.0,kea:0.0,rake:0.5587165,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.9784483
+A QUERY LANGUAGE FOR PACKAGES	1011627	auto:0.0,textrank:0.5993864,kea:0.0,rake:0.6460898,spacy_np:0.5389352,StructMineDataPipeline:0.41601986,econ:0.5432824
+the rest of this section , we describe NAGA s knowledge base , query language , and the scoring model .	327033	auto:0.7660249,textrank:0.7432798,kea:0.0,rake:0.73333985,spacy_np:0.0,StructMineDataPipeline:0.74360925,econ:1.0
+QUERY LANGUAGE DATA REPRESENTATION	1848241	auto:0.7749425,textrank:0.7544055,kea:0.7583191,rake:0.721873,spacy_np:0.0,StructMineDataPipeline:0.77767605,econ:1.0
+As query language , we consider a subset of the standard RDFS query language SPARQL 41 .	910298	auto:0.8745116,textrank:0.8607344,kea:0.86341155,rake:0.74628884,spacy_np:0.0,StructMineDataPipeline:0.87641126,econ:1.0
+Hive 22 and HadoopDB 3 are data warehouses that support SQL-like query language .	1737248	auto:0.5556226,textrank:0.5285027,kea:0.0,rake:0.5105543,spacy_np:0.4503487,StructMineDataPipeline:0.0,econ:0.7663584
+To our knowledge , MultiLog is the rst logic based query language for MLS databases .	698030	auto:0.0,textrank:0.0,kea:0.0,rake:0.5167056,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.9784483
+Query language .	1615108	auto:0.63616604,textrank:0.60871536,kea:0.6120222,rake:0.59949046,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+ITERATIVE QUERY LANGUAGE	1339650	auto:0.0,textrank:0.41402864,kea:0.0,rake:0.42130128,spacy_np:0.42078963,StructMineDataPipeline:0.36935604,econ:0.42617965
+facing query language and its tabular data model .	966734	auto:0.0,textrank:0.48318687,kea:0.0,rake:0.4428138,spacy_np:0.56060445,StructMineDataPipeline:0.47052813,econ:0.0
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	2162421	auto:0.0,textrank:0.7452865,kea:0.0,rake:0.77052444,spacy_np:0.0,StructMineDataPipeline:0.728891,econ:0.6996435
+2 2 Query Language	1653255	auto:0.0,textrank:0.40741614,kea:0.0,rake:0.41144115,spacy_np:0.48120278,StructMineDataPipeline:0.41947863,econ:0.42665535
+access the data query language ,	396803	auto:0.4326793,textrank:0.44415477,kea:0.4251429,rake:0.44018108,spacy_np:0.4889352,StructMineDataPipeline:0.41183463,econ:0.4475373
+The query language	1004797	auto:0.40284756,textrank:0.38130963,kea:0.38316885,rake:0.38495606,spacy_np:0.40638497,StructMineDataPipeline:0.38153523,econ:0.35966396
+Following 12 we employ a simplified data model and query language where we do not consider node attributes .	2041184	auto:0.5560961,textrank:0.0,kea:0.53305286,rake:0.51261586,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+A simple SQL like query language is also proposed .	23983	auto:0.0,textrank:0.25095615,kea:0.0,rake:0.24656875,spacy_np:0.37293157,StructMineDataPipeline:0.3057333,econ:0.36974496
+GRAPH MODEL QUERY LANGUAGE	2155911	auto:0.8591131,textrank:0.8439027,kea:0.84681964,rake:0.71951765,spacy_np:0.0,StructMineDataPipeline:0.86102706,econ:1.0
+QUERY LANGUAGE DATA REPRESENTATION	1848241	auto:0.57322556,textrank:0.5446206,kea:0.54831916,rake:0.5337654,spacy_np:0.5946588,StructMineDataPipeline:0.56906915,econ:0.53194743
+4 3 Query Language	1433303	auto:0.5645141,textrank:0.0,kea:0.0,rake:0.4876287,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.99369526
+We outlined the key aspects of Dremel , including its storage format , query language , and execution .	1699317	auto:0.0,textrank:0.7154529,kea:0.7142716,rake:0.71976525,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.67689127
+2 2 3 Query Language Interface	1070814	auto:0.8799898,textrank:0.86632216,kea:0.86891586,rake:0.81620944,spacy_np:0.0,StructMineDataPipeline:0.8814977,econ:1.0
+In this section we present our data model , query language , and probability model .	617294	auto:0.0,textrank:0.7452865,kea:0.0,rake:0.77052444,spacy_np:0.0,StructMineDataPipeline:0.728891,econ:0.6996435
+temporal query language .	1186608	auto:0.6175622,textrank:0.59264725,kea:0.0,rake:0.5765298,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+The Cymbal Query Language	441868	auto:0.0,textrank:0.41441196,kea:0.0,rake:0.4012239,spacy_np:0.47675878,StructMineDataPipeline:0.4234821,econ:0.41979554
+It generates code that implements the mapping , typically in a programming language or query language , depending on the scenario .	80173	auto:0.67103773,textrank:0.6458287,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+An overview of the deco system : Data model and query language ; query processing and optimization .	1255460	auto:0.74853206,textrank:0.72787267,kea:0.0,rake:0.7174586,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 1 The Meteor query language	454863	auto:0.35928485,textrank:0.33671233,kea:0.32876828,rake:0.3406116,spacy_np:0.38174197,StructMineDataPipeline:0.3352567,econ:0.36679026
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	2162421	auto:0.0,textrank:0.0,kea:0.0,rake:0.8605467,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+The Cymbal Query Language	441868	auto:0.6672415,textrank:0.0,kea:0.0,rake:0.6132547,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6863379
+The data model and query language that we consider here were introduced in 2 , 3 .	1496351	auto:0.0,textrank:0.9941607,kea:0.9942892,rake:0.99365526,spacy_np:0.0,StructMineDataPipeline:0.99495095,econ:0.99369526
+QUERY LANGUAGE	714843	auto:0.7396953,textrank:0.7069029,kea:0.0,rake:0.72499967,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+FunctionDB s query language is similar to traditional SQL .	700603	auto:0.6369805,textrank:0.0,kea:0.0,rake:0.602577,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+ACQUISITIONAL QUERY LANGUAGE	17734	auto:0.9982919,textrank:0.9980403,kea:0.998087,rake:0.9978696,spacy_np:0.9988655,StructMineDataPipeline:0.0,econ:1.0
+The associated query language is extended	238173	auto:0.0,textrank:0.68093103,kea:0.68614477,rake:0.674705,spacy_np:0.0,StructMineDataPipeline:0.6684453,econ:0.6363592
+A query language for XML .	922848	auto:0.0,textrank:0.4089686,kea:0.0,rake:0.41440815,spacy_np:0.48796496,StructMineDataPipeline:0.42313966,econ:0.43378103
+Discovery Board Application Programming Interface and Query Language for Database Mining .	219479	auto:0.40432006,textrank:0.3841035,kea:0.38819423,rake:0.41479918,spacy_np:0.38187626,StructMineDataPipeline:0.353667,econ:0.34334463
+Figure 10 : Grammar of Query Language L3	869290	auto:0.4194702,textrank:0.39774126,kea:0.0,rake:0.39975953,spacy_np:0.4197969,StructMineDataPipeline:0.40759197,econ:0.38022068
+A Query Language for XML .	570549	auto:0.0,textrank:0.46544224,kea:0.0,rake:0.4679392,spacy_np:0.53899294,StructMineDataPipeline:0.48493716,econ:0.54559845
+query language commands	87395	auto:0.88863635,textrank:0.87582654,kea:0.8782739,rake:0.73132455,spacy_np:0.0,StructMineDataPipeline:0.8901256,econ:1.0
+Relational algebra query language .	353841	auto:0.3475392,textrank:0.33072284,kea:0.3502668,rake:0.33911952,spacy_np:0.39196184,StructMineDataPipeline:0.3466544,econ:0.32715577
+Thus , in this study , the query language	1186565	auto:0.0,textrank:0.0,kea:0.0,rake:0.7559086,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+The data model and query language that we consider here were introduced in 2 , 3 .	1496351	auto:0.65573496,textrank:0.6279061,kea:0.6308907,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+SCHEMA DESIGN , QUERY LANGUAGE	1737308	auto:0.86955136,textrank:0.0,kea:0.0,rake:0.85192955,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+A query language for xml .	1080240	auto:0.0,textrank:0.35433957,kea:0.0,rake:0.35088626,spacy_np:0.42763296,StructMineDataPipeline:0.35106763,econ:0.42915255
+A powerful SQL like query language has been designed .	23935	auto:0.0,textrank:0.0,kea:0.0,rake:0.5241731,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.99369526
+To our knowledge , MultiLog is the rst logic based query language for MLS databases .	698030	auto:0.59215313,textrank:0.5666032,kea:0.5781671,rake:0.5566035,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+The associated query language is extended	238173	auto:0.6956169,textrank:0.0,kea:0.0,rake:0.6876423,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.7598228
+SCHEMA DESIGN , QUERY LANGUAGE	1737308	auto:0.0,textrank:0.55874,kea:0.566971,rake:0.5683854,spacy_np:0.59313846,StructMineDataPipeline:0.54424787,econ:0.5076876
+4 Query Language	592341	auto:0.73711663,textrank:0.7214459,kea:0.0,rake:0.7036241,spacy_np:0.0,StructMineDataPipeline:0.68640107,econ:0.69697577
+facing query language and its tabular data model .	966734	auto:0.35679397,textrank:0.3501909,kea:0.0,rake:0.4026513,spacy_np:0.46085352,StructMineDataPipeline:0.39122298,econ:0.4133621
+Hive 22 and HadoopDB 3 are data warehouses that support SQL-like query language .	1737248	auto:0.0,textrank:0.33429003,kea:0.0,rake:0.3749795,spacy_np:0.39506492,StructMineDataPipeline:0.32901913,econ:0.3994186
+We conclude with a remark regarding our choice of query language and data model .	1496348	auto:0.68454427,textrank:0.6626315,kea:0.6687051,rake:0.6463457,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 2 The MayBMS Query Language	920522	auto:0.682865,textrank:0.0,kea:0.0,rake:0.62824625,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Query Language and Semantics : A Deco query Q is a SQL query over the conceptual relations .	1384535	auto:0.59526026,textrank:0.5622461,kea:0.5683826,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.5742292,econ:1.0
+Query language supports predicates on time values .	353865	auto:0.6393319,textrank:0.61538124,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 1 Data Model and Query Language	1386343	auto:0.3605327,textrank:0.34619638,kea:0.35643533,rake:0.34363002,spacy_np:0.39749837,StructMineDataPipeline:0.34961548,econ:0.38537234
+2 3 A Gestural Query Language	2123926	auto:0.0,textrank:0.0,kea:0.47731152,rake:0.0,spacy_np:0.48796883,StructMineDataPipeline:0.41497055,econ:0.52039766
+Query Language and Semantics : A Deco query Q is simply a SQL query over the conceptual relations .	2162421	auto:0.6051804,textrank:0.598168,kea:0.59629923,rake:0.7604572,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+2 2 Event Query Language	617316	auto:0.623395,textrank:0.59481156,kea:0.0,rake:0.5824907,spacy_np:0.0,StructMineDataPipeline:0.62037563,econ:0.58130985
+User STORM Query Language	769688	auto:0.0,textrank:0.7776016,kea:0.78129566,rake:0.72594887,spacy_np:0.0,StructMineDataPipeline:0.79952455,econ:0.99369526
+A simple SQL like query language is also proposed .	23983	auto:0.0,textrank:0.9028932,kea:0.90488565,rake:0.86058146,spacy_np:0.0,StructMineDataPipeline:0.9145261,econ:0.99369526
+S L , A Data Model and Query Language	471689	auto:0.0,textrank:0.3856863,kea:0.43563712,rake:0.44578856,spacy_np:0.4580325,StructMineDataPipeline:0.397761,econ:0.3699109
+3 3 Query Language	997008	auto:0.61584795,textrank:0.6021344,kea:0.0,rake:0.58603364,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Languages , Performance , Algorithms Keywords Data provenance , annotation , query language , query processing	934434	auto:0.0,textrank:0.6537231,kea:0.0,rake:0.6932726,spacy_np:0.63806915,StructMineDataPipeline:0.6595746,econ:1.0
+Query Language and Semantics : A Deco query Q is a SQL query over the conceptual relations .	1384535	auto:0.62462276,textrank:0.0,kea:0.0,rake:0.5812312,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6264076
+Relational algebra query language .	353841	auto:0.0,textrank:0.6633584,kea:0.66741174,rake:0.6540847,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.62643874
+A powerful SQL like query language has been designed .	23935	auto:0.6961108,textrank:0.67339814,kea:0.6771704,rake:0.64671063,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+SCHEMA DESIGN , QUERY LANGUAGE	1737308	auto:0.0,textrank:0.7452865,kea:0.0,rake:0.77052444,spacy_np:0.0,StructMineDataPipeline:0.728891,econ:0.6996435
+temporal query language .	1186608	auto:0.40411055,textrank:0.6664418,kea:0.66981125,rake:0.65043885,spacy_np:0.0,StructMineDataPipeline:0.4199409,econ:0.8310299

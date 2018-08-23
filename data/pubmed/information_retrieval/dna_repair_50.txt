@@ -1,0 +1,92 @@
+
+This circadian clock-dependent control of cell proliferation , together with other known physiological functions of the circadian clock such as the control of metabolism , oxidative and genotoxic stress response , and DNA repair , opens new horizons for understanding the mechanisms behind aging and carcinogenesis .	1
+
+Defects in cloned DNA repair genes are now associated with particular human disorders in which an important feature is a predisposition to cancer .	0
+Clearer understanding of the pathogenetic mechanisms leading to inflammation and demyelination in MS is suggesting new strategies for intervention .	0
+Both antigen-specific and non-antigen-specific immunomodulation can be achieved in animal models , and human clinical trials of several new agents can be expected shortly .	0
+Finally , WES of the germinal DNA displayed several single nucleotide polymorphisms in DNA repair genes likely conferring higher cancer susceptibility Overall , WES did not disclose any somatic genetic variant shared across the 3 tumors , suggesting their clonal independency ; however , the carcinogenic effect of smoke combined with a deficiency in DNA repair genes and the patient advanced age might have been responsible for the MPT development .	0
+Genetic polymorphisms of xeroderma pigmentosum group D XPD in the nucleotide excision repair pathway may influence cancer susceptibility by affecting the capacity for DNA repair .	1
+Analyses of SNPs revealed that the patient presented GSTT1 deletion , variant MSH3 1045ThrThr , wild GSTP1 105IleIle , and wild BAX -248GG genotypes , which were previously described in association with abnormal detoxification , DNA repair , and damaged cell apoptosis , respectively .	1
+The CDDP level in urine collected after CDDP infusion in the reported patient was lower than the median value obtained in controls , suggesting a higher amount of intracellular CDDP in the reported case The data suggest , for the first time , that inherited abnormalities in intracellular detoxification of CDDP , DNA repair of lesions induced by CDDP and RT , and damaged cell apoptosis may alter treatment response and toxicity in LSCC , but should be confirmed by large pharmacogenomic studies .	1
+
+
+He developed profound bradycardia and hypotension , requiring treatment with calcium salts , dobutamine , isoprenaline and cardiac pacing .	0
+As calcium channel blockers are more widely used , self-poisoning will become more common .	0
+The effects , although serious , are self-limiting and recovery within 48 hours is the rule provided adequate support is given .	0
+Beneficial effects of hyperbaric oxygen therapy in Nocardia brasiliensis soft-tissue infection .	0
+In this case of N brasiliensis mycetoma involving the lower extremity , the conventional management of surgery and antibiotic therapy was unsuccessful , and only with the addition of hyperbaric oxygen therapy did clinical recovery occur .	0
+Frequent hospital admissions for bacterial infections among aboriginal people with diabetes in central Australia .	0
+The frequency , type and severity of infections in the relatively young patients result in high personal costs to the community and financial costs to the health care system .	0
+Standard preventive measures must be implemented to control severe bacterial infections among subjects with diabetes in this socially and economically marginalised population group .	0
+Continuing medical education undertaken by general practitioners using the rural registrar scheme .	0
+The provision of a satisfactory locum service has enabled rural GPs to participate in a wide range of CME activities , which reflect the diversity of general practice .	0
+Most participants preferred individual , experiential study programmes to more structured CME programmes .	0
+Thromboembolism and its management in pregnancy .	0
+Many questions are still not completely resolved , but the information gathered should provide firm guidelines to practitioners in the areas of diagnosis , the choice of anticoagulant drugs , methods of administration of the drugs , and measurement of therapeutic endpoints .	0
+Isospora belli infection .	0
+A report of two cases in patients with AIDS .	0
+Although Isospora belli is an uncommon cause of gastroenteritis in Australia , it is increasingly recognised as a cause of diarrhoea in travellers , immigrants from endemic areas and immunocompromised people .	0
+It has also been reported in the Aboriginal community ; this article reports the first case of AIDS-related isosporiasis in an Aborigine .	0
+It is likely that both patients acquired Isospora belli before they become HIV seropositive .	0
+Principles behind practice .	0
+6 .	0
+Disease causation .	0
+The role of epidemiological evidence .	0
+How can epidemiology contribute to understanding the cause of clinical disease ?	0
+We discuss the nature of causality and the intrinsic limitations of all empirical science , including epidemiology , in establishing proof of causality .	0
+Our examples relate to eye disease : How the cause of blindness from retrolental fibroplasia was unravelled .	0
+How the congenital rubella syndrome was discovered as a cause of congenital cataract .	0
+How allopurinol was cleared from suspicion as a cause of cataract .	0
+Urticarial contact dermatitis in food handlers .	0
+We devised and validated a method of identifying patients with colorectal cancer who are carriers of mutations in DNA repair genes .	0
+Prick testing is the appropriate investigation in selected cases for the diagnosis of urticarial contact dermatitis in food handlers .	0
+Bacterial meningitis in children under five years of age in Western Australia .	0
+Any conjugate H influenzae type b vaccine should be effective when administered to non-Aboriginal children in the first six months of life , but only the most immunogenic vaccines for example , the vaccine known as PRP-OMP are likely to be effective in Aboriginal infants .	0
+The topical application of DNA repair enzymes to sun-damaged skin of patients with xeroderma pigmentosum lowered the rate of development of two forms of these lesions during a year of treatment .	0
+7 .	0
+Case-control studies .	0
+Several mechanisms have been described including multidrug resistance , glutathione transferases and DNA repair .	1
+The DNA repair protein , O6-alkylguanine-DNA alkyltransferase ATase is an important cellular resistance mechanism to one class of alkylating agents .	0
+Thiopurines , DNA damage , DNA repair and therapy-related cancer .	1
+Third , products of genes that are silenced by DNA methylation can be used as biomarkers of response to chemotherapy or hormone therapy -- eg , the DNA repair O6-methylguanine-DNA methyltransferase and the oestrogen receptor .	0
+This process results in impaired tumour-suppressor-gene function , involving DNA repair , decreased apoptosis , and eventual cell immortalisation .	1
+Depending on the number of ubiquitin moieties and the linkages made , ubiquitin also plays an important role in DNA repair , protein sorting and virus budding .	1
+Identification of mutations in FAN1 gene underscores recent insights linking inadequate DNA repair and susceptibility to chronic kidney disease .	1
+Molecular pathogenesis also ranges from disorders of mitochondrial or cellular metabolism to impairments of DNA repair or RNA processing functions .	1
+Evidence suggests that the effect of alcohol is modulated by polymorphisms in genes encoding enzymes for ethanol metabolism eg , alcohol dehydrogenases , aldehyde dehydrogenases , and cytochrome P450 2E1 , folate metabolism , and DNA repair .	1
+H2A histone family member X H2AX , encoded by H2AFX and its C-terminal phosphorylation gamma-H2AX participates in the DNA damage response and mediates DNA repair .	1
+There is substantial evidence that DNA is the ultimate cellular target of carcinogens and that DNA repair is an important cellular defence against the effects of carcinogen exposure .	1
+Our findings establish that H2AX , and hence activation of the DNA repair response , is needed for endothelial cells to maintain their proliferation under hypoxic conditions and is crucial for hypoxia-driven neovascularization .	0
+
+This compound is the linkage group in ADP-ribosylation of proteins , an important regulatory process in gene expression and DNA repair .	1
+All cells are equipped with DNA damage response pathways that trigger DNA repair , cell cycle arrest , and , if need be , apoptosis , to eliminate DNA damage or damaged cells .	1
+Furthermore , a number of DNA repair abnormalities are linked to premature aging syndromes , and these are associated with defects in the stem cell population .	0
+In this review , we provide evidence for a link between DNA repair systems and the maintenance and longevity of stem cells .	0
+The ability of cells to repair DNA ICLs is a critical determinant of sensitivity , and recent dinical studies indicate that DNA repair capacity is strongly implicated in both inherent tumour sensitivity and acquired drug resistance .	0
+
+It is now clear that cells from bacteria and yeast to mammals eliminate interstrand ICLs through the coordinated action of several DNA repair pathways .	0
+This new knowledge may permit the development of screens for tumour response to crosslinking agents , and should also aid the design of more effective crosslinking agents that evade DNA repair .	1
+Sustained induction of the inducible form of NOS iNOS in chronic inflammation may be mutagenic , through NO-mediated DNA damage or hindrance to DNA repair , and thus potentially carcinogenic .	1
+These results lead MTA1 exploration to an in-depth investigation in different directions , such as Wnt , Notch , and DNA repair .	1
+The hypersensitivity , which may reflect an inherited defect in DNA repair , provides the basis for a presymptomatic diagnostic test for the disease .	1
+DNA repair and cell-cycle control genes , such as the ataxia-telangiectasia gene , could be plausible candidates for investigation .	1
+We identified two subsets of luminal progenitors RANK and RANK - in histologically normal tissue of BRCA1-mutation carriers and showed that RANK cells are highly proliferative , have grossly aberrant DNA repair and bear a molecular signature similar to that of basal-like breast cancer .	1
+DNA repair in the trinucleotide repeat disorders .	1
+Genetic defects in DNA repair underlie other neurodegenerative disorders eg , ataxia-telangiectasia , and DNA double-strand breaks are crucial to the modulation of early gene expression , which provides a mechanistic link between DNA repair and neurodegeneration .	1
+DNA repair by ERCC1 in non-small-cell lung cancer and cisplatin-based adjuvant chemotherapy .	1
+If the damage is manageable , the DNA damage response arrests cell cycle progression and induces DNA repair to prevent replication of damaged DNA .	1
+They have also provided important insights into some aspects of DNA repair FA BRCA pathway and telomere maintenance DC-related genes , two pathways critical in the maintenance of genomic stability .	0
+Despite being implicated in many important cellular pathways , including DNA repair and regulation of transcription , the exact mechanism by which inactivation of BRCA1 might lead to malignant transformation of cells remains unknown .	1
+Molecular epidemiology also explores host cancer susceptibilities , such as carcinogen metabolic activation , DNA repair , endogenous mutation rates , and inheritance of mutated tumor suppressor genes .	1
+ERCC1 isoform expression and DNA repair in non-small-cell lung cancer .	1
+p53 is a master regulatory protein that is involved in diverse cellular metabolic processes such as apoptosis , DNA repair , and cell cycle arrest .	1
+In addition , differences in the biology of lung cancer exist between the 2 sexes with higher levels of DNA adduct formation , increased CYP1A1 expression , decreased DNA repair capacity , and increased incidence of K-ras gene mutations in women .	0
+X-ray repair complementing defective repair in Chinese hamster cells 2 XRCC2 and poly ADP-ribose polymerase 1 PARP1 both play important roles in homologous recombination DNA repair .	1
+Furthermore , statins increase the mRNA expression of DNA repair factors in vivo .	1
+Epidemiological studies have shown that folate deficiency increases the risk of cancer by affecting DNA repair and methylation .	1
+The poly ADP-ribose polymerase PARP family of enzymes plays a critical role in the maintenance of DNA integrity as part of the base excision pathway of DNA repair .	1
+
+Identification of molecular pathways governing DNA damage signaling and DNA repair in response to different types of DNA lesions allows for a better understanding of the effects of radiation and chemotherapy on normal and tumor cells .	1
+Recruitment of p53 binding protein 1 53BP1 and Rad51 to sites of DNA lesion is impaired in Zmpste24- - MEFs and in HGPS fibroblasts , resulting in delayed checkpoint response and defective DNA repair .	1
+Wild-type MEFs ectopically expressing unprocessible prelamin A show similar defects in checkpoint response and DNA repair .	1
+These pathways include dysfunction in global protein homoeostasis resulting from abnormal protein aggregation or a defect in the protein clearance pathway , mitochondrial dysfunction , altered RNA metabolism , impaired cytoskeletal integrity , altered axonal transport dynamics , and DNA damage accumulation due to defective DNA repair .	1

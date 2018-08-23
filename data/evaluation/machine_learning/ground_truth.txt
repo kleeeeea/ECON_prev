@@ -1,0 +1,793 @@
+thesis	1
+seoul national university	1
+national academy of science	1
+conjugate transpose	1
+telecommunication	1
+nicta	1
+polynomials	1
+translations	1
+episodes figure	0
+ois-lavet qiu	0
+sequence into disjoint epochs	0
+selection of class	0
+regularisation parameter	1
+striatum	1
+psychology	1
+regressors	1
+pathway discovery	1
+priors	1
+lse	1
+cache	1
+computational intelligence	1
+nanjing university	1
+feedback setting	0
+matrix	1
+sampling interval	1
+spherenet	1
+convergence rate	1
+additive	1
+each outer iteration	0
+original datasets	0
+loh	1
+moralized graph	1
+reinforcement signal	1
+ghent university	1
+incorrect label	1
+north pole	1
+tze leung lai and herbert robbins	0
+tomography	1
+protein	1
+positive-definite matrix	1
+lgn neurons	1
+divergences	1
+torino	1
+dependent crp	1
+halfspaces	1
+queen square	1
+erch npp	1
+rhns	1
+biologist	1
+high-dimensional data	1
+rafal jozefowicz	1
+relevancy	1
+boaz nadler	1
+finance	1
+sgns	1
+taiwan university	1
+uriel feige	1
+cover tree	1
+dual appa	1
+bijective mapping	1
+acm-siam symposium	1
+adobe research	1
+minimum point	1
+diameter	1
+move-making algorithm	1
+regularization terms	1
+test rmse	1
+law degree	1
+linear decision boundaries	1
+sections	1
+linear function approximator	1
+primal graph	1
+nmse	1
+consider settings	0
+hong kong special administrative region	1
+james bailey	1
+icnns	1
+fisher kernel	1
+preference	1
+automation icra	1
+iowa state university	1
+ebm	1
+restricted strong convexity rsc	1
+intractability	1
+psas	1
+male speaker	1
+sensors	1
+salah rifai	1
+pseudocode	1
+lower dimension	1
+fab bmf	1
+higher dimension	1
+ens cachan	1
+saddle river	1
+vhem	1
+disjoint subset	1
+boldface	1
+rbf	1
+berlin heidelberg	1
+decoding algorithm	1
+minneapolis	1
+macbook pro	1
+nonnegative matrix factorization nmf	1
+compressive strength	1
+nonlinearity	1
+leiden university	1
+the new example	0
+ffac	1
+hochreiter schmidhuber	1
+spml	1
+vex	1
+control laws	1
+equilibrium	1
+convex until proven guilty	0
+small perturbation	0
+affine transform	1
+parametric family	1
+econometrica	1
+national science foundation graduate research fellowship	1
+asic	1
+continuous latent variables	1
+excitatory	1
+robust regbayes	1
+sift flow	1
+wsdm	1
+congestion game	1
+survey	1
+critical point	1
+sub-gaussian distribution	1
+ucbwr	1
+specific query	0
+borja balle	1
+king	1
+hidden_variable	1
+nisan	1
+the total contribution	0
+international world wide web conference	1
+cue permutation	1
+stimuli	1
+supernode	1
+red arrows	0
+avrim blum	1
+contextual mab problem	1
+decomposition scheme	1
+magnetoencephalography	1
+informative feature	1
+descriptive attributes	1
+relational databases	1
+decision-making problem	1
+cliques	1
+hadronic tau	1
+minimum solution	1
+manifolds	1
+monarch	1
+thalamus	1
+partial occlusion	1
+ensemble member	0
+transpose	1
+political science	1
+cell phone	1
+autocorrelation	1
+eigenvalue	1
+cyclic graph	1
+invertible transformations	1
+convolution	1
+maximization	1
+bias	1
+transportability	1
+chorales	1
+antees	1
+geodesics	1
+high-dimensional feature space	1
+hazard ratio	1
+nonparametric test	1
+microcircuit models	1
+inhibitor	1
+vaccine	1
+over-fitting	1
+smaller ones	0
+decision query	1
+dopamine	1
+matlab	1
+fat shattering	1
+c11	1
+full conditionals	1
+adaptor	1
+graph ensemble	1
+divergence	1
+kaggle	1
+readout	1
+appendix	1
+irreducibles	1
+gauge function	1
+locally optimal solutions	1
+maxent	1
+crowdsourcing platform	1
+correct posterior	1
+conjugacy	1
+anarchy	1
+ratings	1
+parametric complexity	1
+auctioneer	1
+hashing	1
+key property	0
+input and output spaces	1
+manufacturing	1
+chunk tag	1
+edge	1
+state action pairs	1
+optimality	1
+autoregressive distribution	1
+forecast horizon	1
+gradient	1
+domain-invariant features	1
+strides	1
+valid kernel	1
+likelihood	1
+soft labeling	1
+presynaptic firing	1
+proteins	1
+rigid objects	1
+coordinate frame	1
+radiance	1
+recall phase	1
+entropy	1
+bad local optima	1
+acoustic feature	1
+html	1
+value injection experiment	1
+primary contribution	0
+fingerprinting code	1
+quantizers	1
+convergence	1
+non-convex function	1
+cumulative coherence	1
+input feature space	1
+upward pass	1
+convex relaxation	1
+concave relaxation	0
+eigendecomposition	1
+validation risk	0
+response mechanisms	1
+mean field variational inference	1
+membership community models	1
+nonnegative function	1
+intersection matrix	1
+dot product kernels	1
+causal mechanism	1
+agent s policy	0
+particular cluster	0
+idiosyncrasies	1
+such experiments	0
+synthetic and real datasets	1
+tweet	1
+excitatory and inhibitory neurons	1
+same guarantee	0
+upper triangular matrix	1
+thermostats	1
+arguments	1
+tuple	1
+computer simulation	1
+simple representation	0
+identity	1
+body mass index	1
+stereo	1
+different hash	0
+explanations	1
+proof	1
+isometry	1
+substring	1
+texture	1
+risk minimization problems	1
+emails	1
+second lemma	0
+first pair	0
+considerable success	0
+gmax	1
+maximal ancestral graph	1
+clusters	1
+econometrics	1
+simplices	1
+appropriate notion	0
+spam	1
+motion	1
+stimulus disparity	1
+indices	1
+orthogonal projector	1
+species	1
+connected regions	1
+millisecond	1
+horse	1
+specific disease	0
+ellipse	1
+such transformations	0
+twitter	1
+interest point	1
+appearance variation	1
+arbitrary units	1
+accuracy	1
+business	1
+tridiagonal matrix	1
+vector classifier	0
+deterministic gradient	1
+attractors	1
+princeton	1
+azimuth angle	1
+independence statements	1
+workloads	1
+organism	1
+cutoff frequency	1
+whose marginal contribution	0
+structure learning problem	1
+robustness	1
+bandit instance	0
+regular graph	1
+eigenwords	1
+octaves	1
+rescaling	0
+dependence relationships	1
+wrong predictions	0
+extensive empirical studies	0
+microarray	1
+sparse corruptions	1
+largest eigenvector	1
+average log likelihood	1
+cooperative game	1
+infinite dimensional space	1
+synaptic current	1
+primate retina	1
+exp-concave loss	1
+real-time	1
+independent distribution	0
+intensive care unit	1
+prostate	1
+standard normal density	1
+only a single pass	0
+countable state	1
+1-norm minimization	0
+most probable explanation	1
+clusterings	1
+simulator	1
+second-order derivatives	1
+wc1e	1
+marco zaffalon	1
+manfred warmuth	1
+obvious advantage	0
+psf	1
+bap	1
+unseen test	1
+epochs	1
+expected log likelihood	1
+optic tectum	1
+danilo jimenez	1
+recommendation algorithm	1
+taiji	1
+camera viewpoint	1
+amherst	1
+noma	1
+gigabytes	1
+oregon state university	1
+independent rademacher random variables	1
+bounds	1
+neuron	1
+pose variations	1
+mfccs	1
+singular value projection	1
+systematic bias	1
+covariate matrix	1
+numerical value	1
+european commission	1
+other pair	0
+asymptotic model selection for naive bayesian	0
+causation	1
+median	1
+tomas mikolov	1
+similar line	0
+sensitivity	1
+lyngby	1
+chmc	1
+inequalities	1
+zonotope hit-and-run	1
+worst-case complexity	1
+damien ernst	1
+nmda	1
+economics	1
+search scheme	1
+fourier	1
+topological structure	1
+m13	1
+shlomo zilberstein	1
+asian conference on machine learning acml	1
+radiology	1
+physical memory	1
+traction	1
+hotelling	1
+post-synaptic neurons	1
+daphne koller	1
+physiological state	1
+autoencoders	1
+the johnson-lindenstrauss lemma	0
+trace	1
+sinop	1
+san jose	1
+msll	1
+madison	1
+crms	1
+alan turing	1
+ncrp	1
+iccv	1
+michael littman	1
+embeddings	1
+scientific research	1
+cnjgl	1
+log predictive density	1
+first convolutional layer	1
+universe	1
+balcan	1
+large percentage	0
+the idea	0
+online learning of eigenvectors	0
+nec laboratories america	1
+proccedings	1
+feature	1
+lmkl sigmoid	1
+greater power	0
+unsupervised grammar induction	1
+variable	1
+finite-armed bandits	1
+wife	1
+neighbors	1
+factorial distributions	1
+tree-like graphs	1
+ulsif	1
+supervision signal	1
+aalto university	1
+lmkl softmax	1
+solver	1
+signal level	1
+semi-supervised learning problem	1
+kernel	1
+sociology	1
+maxendnet	1
+shane legg	1
+new mexico	1
+ontology	1
+montreal	1
+bundle methods for regularized risk minimization	0
+crucial aspect	0
+primary variables	1
+male speakers	1
+surrogates	1
+exploration in relational domains	0
+values	1
+larger dimensions	0
+biclustering	1
+sentiment	1
+transducer	1
+grigorios tsoumakas	1
+melbourne	1
+transfer	1
+percy liang	1
+vertices	1
+invertible matrix	1
+madrid	1
+exphmc	1
+national defense science and engineering graduate	1
+wei wang	1
+the following simple lemma	0
+long beach	1
+hmm cluster	1
+pronouns	1
+sigcomm	1
+determiners	1
+pooling	1
+mvm	1
+washington university	1
+cluster	1
+elsevier	1
+symposium	1
+future state	1
+tradeoff	1
+oracle	1
+heidelberg	1
+beam	1
+icpr	1
+advertisers	1
+qpfs	1
+array	1
+olbfgs	1
+tibe	1
+specific configuration	0
+lateral excitation	1
+onno zoeter	1
+hsvm	1
+cumulants	1
+fewer edges	1
+perturbation matrix	1
+rcc network	1
+code book vectors	1
+yoram singer	1
+latent semantic	1
+kbsf	1
+factorial hmms	1
+conference on learning theory colt	1
+reconstruction	1
+nogd	1
+kinetic energy	0
+european conference on machine learning ecml	1
+disagreement-based active learning	1
+cvb	1
+von neumann divergence	1
+taipei	1
+eugene brevdo	1
+independence constraint	1
+twf	1
+large-scale settings	0
+matthias hein	1
+monte carlo sampling	1
+skewness	1
+radford neal	1
+acid sequence	1
+fwer	1
+distillation	1
+laurent dinh	1
+graph property	1
+endpoint	1
+reviews	1
+hemoglobin	1
+icm algorithm	1
+intelligence advanced research projects activity iarpa	1
+composing robust features	0
+neural computing research group	1
+aston university	1
+answer	1
+submodularity	1
+evaluations	1
+cuhk	1
+ricardo silva	1
+mini-batch	1
+dawid skene	1
+ladm	1
+boston university	1
+mjp	1
+yung-kyun noh	1
+sivan sabato	1
+rescaled version	0
+ariel jaffe	1
+industries	1
+gtc	1
+laguna	1
+null set	1
+mehryar mohri	1
+possible contexts	0
+single subset	0
+decades	1
+jian sun	1
+squares	1
+umar syed	1
+entity pair	0
+several differences	0
+nicolas boumal	1
+investor	1
+the present time	0
+learning overcomplete lvms through tensor methods	0
+arrows	1
+alexey chervonenkis	1
+simplesvm	1
+gui	1
+online choice of active learning algorithms	0
+constraints	1
+yahoo labs	1
+low-pass	1
+emnlp	1
+laval	1
+adaptivity	1
+preconditioning	1
+lin bilmes	1
+alcohol	1
+giesen	1
+deft	1
+second hypothesis	0
+mnar	1
+dependent dps	1
+preconditioning approach	1
+seppo virtanen	1
+anders krogh	1
+hokkaido university	1
+ehr	1
+positioning	1
+total gain	1
+mvl	1
+natural method	1
+info	1
+three different settings	0
+isabelle guyon	1
+peter prettenhofer	1
+vitro	1
+cybernetics	1
+ganin lempitsky	1
+lower curve	0
+theoretical advantage	1
+eqs	1
+nonstationary policy	1
+compromise	1
+rutgers university	1
+particular variable	0
+man	1
+classrbm	1
+science technology	1
+jun zhu	1
+the corresponding edges	0
+map solver	1
+david forsyth	1
+steel	1
+shixiang gu	1
+mcem algorithm	1
+acquisition	1
+sulq	1
+same flavor	1
+angle	1
+algorithmic learning theory alt	1
+jia deng	1
+the second part	0
+instance	1
+additive constant	1
+last state	0
+fisher linear discriminant	1
+inverter	1
+larry wasserman	1
+autoregressive connections	1
+wee sun lee	1
+pennsylvania state university	1
+dbh	1
+cmim	1
+yiming yang	1
+john lafferty	1
+subsections	1
+oco	1
+particular set	0
+lemma	1
+acm sigir conference	1
+black	1
+recursive call	1
+ranking	1
+hungarian	1
+neuroimaging	1
+ecpm	1
+ssk	1
+muri grant	1
+rectified linear units improve restricted boltzmann	0
+anoop korattikara	1
+forbes avenue	1
+convex approximate	1
+bag	1
+approximate inference technique	1
+tic gradient	1
+bptt	1
+lisboa	1
+electrode	1
+pmrf	1
+intelligence advanced research projects activity	1
+reading	1
+finite sequence	1
+comp	1
+sufficient condition	1
+true null hypotheses	1
+omp	1
+data limit	1
+stuttgart	1
+huan liu	1
+christof koch	1
+arizona state university	1
+uct algorithm	1
+grants	1
+poi	1
+mstd	1
+logistic regressor	1
+royal holloway	1
+adf	1
+mnih gregor	1
+proposal	1
+false negative error	1
+hilbert-schmidt	1
+gms	1
+jaggi sulovsky	1
+binary mechanism	1
+ece department	1
+feasible descent methods	1
+sln	1
+www csie ntu	1
+explicitly control	1
+logvars	1
+soft margin svm	1
+input function	1
+experts	1
+epitopes	1
+whose label	1
+few hundreds	0
+doctor	1
+marius kloft	1
+linear prp	1
+bp-knng	1
+burer monteiro	1
+qcqp	1
+markov random field mrf	1
+inderjit dhillon	1
+tracking	1
+performance	1
+mutual information	1
+ampa	1
+the second smallest eigenvalue	1
+receiver operator characteristic	1
+los altos	1
+mfa	1
+storage	1
+kinks	1
+sources	1
+rooms	1
+generative adversarial network gan	1
+coordination	1
+laurenz wiskott	1
+psrf	1
+affinity	1
+descendant	1
+william stafford noble	1
+quin onero candela	1
+success	1
+value function estimate	1
+rmgpc	1
+army research office	1
+ucrl	1
+mht	1
+sems	1
+waltham	1
+bayesian pca	1
+titan	1
+streaming	1
+itcs	1
+transport	1
+dino sejdinovic	1
+borel probability measure	1
+ics	1
+lspd	1
+sergey karayev	1
+core	1
+right children	1
+recurrent weight	1
+bangalore	1
+panel	1
+regret bounds under partial monitoring	0
+dialog	1
+software	1
+news items	1
+gower street	1
+bold signal	1
+ontario	1
+iokr	1
+tao qin	1
+david saad	1
+menno van zaanen	1
+zohar karnin	1
+omer reingold	1
+7 results	0
+particle	1
+ilias diakonikolas	1
+infinite sample size	1
+display	1
+plackett	1
+milano	1
+laplace exponent	1
+recording session	1
+diagonalization	1
+ten data sets	0
+accumulation point	1
+dirichlet parameters	1
+zhiheng huang	1
+gru	1
+graphs	1
+reality	1
+time dimension	1
+department	1
+bousquet elisseeff	1
+siemens corporation	1
+symbol	1
+shallow parser	1
+drift	1
+romma	1
+reber grammar	1
+optimal statistical rate	1
+curve	1
+depth	1
+floyd	1
+delft	1

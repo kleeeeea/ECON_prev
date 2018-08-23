@@ -1,0 +1,84 @@
+Randomized local search RLS .	4395008	auto:0.6196633,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 3 Best-Response Dynamics and Local Search	2659331	auto:0.5854003,textrank:0.5585541,kea:0.5643943,rake:0.5522177,spacy_np:0.54155976,StructMineDataPipeline:0.5736606,econ:0.5481113
+Constructing combinatorial designs by local search .	3440132	auto:0.556317,textrank:0.5269082,kea:0.53377175,rake:0.5364248,spacy_np:0.7870933,StructMineDataPipeline:0.51153344,econ:0.50111765
+2 1 Local Search Algorithms	2986501	auto:0.0,textrank:0.8187716,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Finding such a partition optimally is hard , so we resort to local search .	5025798	auto:0.46871302,textrank:0.44102126,kea:0.45636663,rake:0.5487902,spacy_np:0.4421737,StructMineDataPipeline:0.46468297,econ:0.46853107
+Example of the most representative elements found by local search for constraints l 5 and k 3 .	4956679	auto:0.49268475,textrank:0.46036777,kea:0.43148178,rake:0.46130922,spacy_np:0.57527405,StructMineDataPipeline:0.5222093,econ:0.4748197
+Deterministic local search DLS .	4395019	auto:0.5765093,textrank:0.5477311,kea:0.55553293,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+local search EM learning respectively .	4657165	auto:0.5737218,textrank:0.49931213,kea:0.5793329,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Here we describe the local search procedure used for training .	2789390	auto:0.0,textrank:0.58854187,kea:0.57989573,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+A local search approximation algorithm for k-means clustering .	3148306	auto:0.0,textrank:0.55731,kea:0.5767301,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+We suppose that local search for empirical PB empirical MAP looks for this solution .	3730967	auto:0.39626536,textrank:0.3735889,kea:0.39483565,rake:0.6895995,spacy_np:0.42083272,StructMineDataPipeline:0.573337,econ:0.4656663
+2009a provided a 1 5 - -approximation based on local search .	3236376	auto:0.0,textrank:0.4743044,kea:0.49106845,rake:0.55600864,spacy_np:0.45540813,StructMineDataPipeline:0.5009564,econ:0.49044657
+5 Local search on the fourth order cumulant	1020962	auto:0.5556968,textrank:0.49586153,kea:0.554519,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.5584119,econ:0.6546542
+2 2 Local Search Using a Redundancy Filter	2986533	auto:0.58806604,textrank:0.5595433,kea:0.518926,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.52447665,econ:0.54280204
+4 2 Local Search Procedures	5769774	auto:0.0,textrank:0.7113806,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Moreover , unlike for local search , the 1 3 approximation holds already after the first iteration .	4395058	auto:0.48567432,textrank:0.4085006,kea:0.0,rake:0.5582228,spacy_np:0.40637058,StructMineDataPipeline:0.46344334,econ:0.4655179
+A similar local search	4060211	auto:0.87347746,textrank:0.8457,kea:0.8562043,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.98472965
+A local search approximation algorithm for K-means clustering .	5232693	auto:0.0,textrank:0.55731,kea:0.5767301,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Iterative clustering of high dimensional text data augmented by local search .	2633279	auto:0.46584016,textrank:0.40691757,kea:0.4316075,rake:0.56945753,spacy_np:0.40375972,StructMineDataPipeline:0.40188274,econ:0.43804434
+Local search based floating search SFFS1 .	5769796	auto:0.0,textrank:0.4079294,kea:0.42261016,rake:0.0,spacy_np:0.5681369,StructMineDataPipeline:0.46297443,econ:0.45174915
+Grammar Induction : Beyond Local Search	4597325	auto:0.59102327,textrank:0.5735833,kea:0.58103186,rake:0.0,spacy_np:0.5922837,StructMineDataPipeline:0.0,econ:0.6690666
+Nevertheless , we experimentally show in Section 5 that local search for empirical PB and empirical MAP behaves like local search for empirical VB .	3731022	auto:0.60594696,textrank:0.5081897,kea:0.54969484,rake:0.37966034,spacy_np:0.58459353,StructMineDataPipeline:0.5715862,econ:0.61509514
+4 Structure learning using local search	586321	auto:0.7482308,textrank:0.6704823,kea:0.0,rake:0.0,spacy_np:0.7004395,StructMineDataPipeline:0.72779405,econ:0.7447265
+hybrid local search	471635	auto:0.7762764,textrank:0.7543535,kea:0.0,rake:0.7400583,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Learning evaluation functions to improve optimization by local search .	1686618	auto:0.53074825,textrank:0.49188918,kea:0.0,rake:0.46369743,spacy_np:0.521991,StructMineDataPipeline:0.5169213,econ:0.52088606
+Improved Local Search in Bayesian Networks Structure Learning	5483611	auto:0.56559134,textrank:0.5571363,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.74003154
+As shown in 6 , local search with sum product initialization empirically performs better than with max product , so later on , we only compare the results with local search using sum product initialization LS .	471644	auto:0.44164133,textrank:0.44031683,kea:0.4361275,rake:0.50481814,spacy_np:0.62713426,StructMineDataPipeline:0.5083433,econ:0.50186497
+Global optimality of local search for low rank matrix recovery .	143632	auto:0.0,textrank:0.4843386,kea:0.4937486,rake:0.51471865,spacy_np:0.51675403,StructMineDataPipeline:0.5100317,econ:0.5422465
+Even worse , local search for empirical MAP tends to result in 2 0 .	3731056	auto:0.45664307,textrank:0.4676695,kea:0.45293316,rake:0.54815835,spacy_np:0.4663715,StructMineDataPipeline:0.45505244,econ:0.45793754
+5 2 Local search enhancement	5769843	auto:0.65425676,textrank:0.63314444,kea:0.6497157,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+We also report the results of random permutation 3 and random local search 3 .	5071480	auto:0.4882835,textrank:0.47762716,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.49208158,econ:0.56415576
+Continuous local search .	197243	auto:0.83944774,textrank:0.80308354,kea:0.8073625,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Local Search Solver	2986630	auto:0.7695102,textrank:0.7529232,kea:0.7562681,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Cuts Local is running local search from the structure found by the Cut algorithm .	5819674	auto:0.4764271,textrank:0.40694115,kea:0.40498728,rake:0.0,spacy_np:0.52467155,StructMineDataPipeline:0.3708889,econ:0.43326133
+In this section we consider variants of stochastic local search algorithms .	5209251	auto:0.0,textrank:0.56546396,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Noise strategies for improving local search .	2979494	auto:0.62711763,textrank:0.59549344,kea:0.6084666,rake:0.0,spacy_np:0.52295065,StructMineDataPipeline:0.5137448,econ:0.50338733
+2011 apply multi-start local search .	3706544	auto:0.5502838,textrank:0.5234337,kea:0.5409661,rake:0.5591711,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.85207117
+when interleaved with local search achieves fast con-	1844403	auto:0.502447,textrank:0.43272167,kea:0.48947516,rake:0.5747818,spacy_np:0.5039167,StructMineDataPipeline:0.0,econ:0.47690782
+Stochastic local search .	5209271	auto:0.0,textrank:0.8078508,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Thus it can be used efficiently in heuristic local search .	5839033	auto:0.60136825,textrank:0.5668747,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6745466
+These approaches are known as global and local search , respectively Park and Darwiche , 2001 .	4649163	auto:0.0,textrank:0.4145334,kea:0.42300558,rake:0.38317403,spacy_np:0.0,StructMineDataPipeline:0.41806254,econ:0.5541825
+Inapproximability of stochastic local search .	5209303	auto:0.0,textrank:0.5778279,kea:0.5561247,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.635144
+2Contrast with local search , e g .	5844091	auto:0.4968918,textrank:0.47336864,kea:0.48802495,rake:0.832716,spacy_np:0.82660127,StructMineDataPipeline:0.82275987,econ:0.48341012
+Otherwise , local search chooses an-1 .	5209317	auto:0.5144481,textrank:0.48667037,kea:0.50580925,rake:0.0,spacy_np:0.53093404,StructMineDataPipeline:0.51059335,econ:0.5015246
+3 2 Local Search for ETPs	2986727	auto:0.56593543,textrank:0.5398075,kea:0.5565964,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.55228204,econ:0.5653133
+a Random local search	5071592	auto:0.8749289,textrank:0.824508,kea:0.0,rake:0.8223688,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.98472965
+Stochastic local search : Foundations applications .	3690732	auto:0.0,textrank:0.6001004,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+If one allows the stochastic local search to randomly	5209327	auto:0.0,textrank:0.5665196,kea:0.59964436,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6726374
+This allows an explicit efficient local search over ordered partitions .	2787575	auto:0.0,textrank:0.0,kea:0.46897733,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.56850296
+The same distributions were used for local search .	5209339	auto:0.698913,textrank:0.6689468,kea:0.0,rake:0.6877325,spacy_np:0.5910403,StructMineDataPipeline:0.58092684,econ:0.57006603
+Since local search is a sequential decision process .	1892095	auto:0.5659762,textrank:0.56091857,kea:0.5568902,rake:0.0,spacy_np:0.56278014,StructMineDataPipeline:0.5646568,econ:0.63969666
+The counter approach to local search is to use global search of the free parameter space .	3131143	auto:0.42444986,textrank:0.3875853,kea:0.41196778,rake:0.4081331,spacy_np:0.43243843,StructMineDataPipeline:0.5876471,econ:0.40470153
+Greedy Local Search given true k )	4060936	auto:0.0,textrank:0.5858624,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.5752111
+2 ENHANCING LOCAL SEARCH	1892112	auto:0.6750324,textrank:0.65001225,kea:0.6662188,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+method and the local search .	4060954	auto:0.0,textrank:0.8708591,kea:0.87559545,rake:0.875929,spacy_np:0.0,StructMineDataPipeline:0.8786392,econ:0.8735456
+Profile-Hidden Markov Model to the sequences through a local search .	4780834	auto:0.0,textrank:0.40516654,kea:0.4153875,rake:0.4313492,spacy_np:0.0,StructMineDataPipeline:0.4745172,econ:0.58585477
+Local search for balanced submodular clusterings .	4933923	auto:0.5639086,textrank:0.5296166,kea:0.5407917,rake:0.9797402,spacy_np:0.9798464,StructMineDataPipeline:0.5301032,econ:0.5194623
+4 1 Algorithms : Agglomerative clustering and local search	707877	auto:0.59121346,textrank:0.57778937,kea:0.58143365,rake:0.48315805,spacy_np:0.48565257,StructMineDataPipeline:0.57983154,econ:0.6209943
+The factorization yields accurate approximate solutions which can be further refined by local search .	771905	auto:0.44596112,textrank:0.39099026,kea:0.4003063,rake:0.6281154,spacy_np:0.42726552,StructMineDataPipeline:0.62847626,econ:0.5190308
+function over the data , using a local search procedure such as stochastic gradient descent .	4857666	auto:0.0,textrank:0.53852713,kea:0.54561275,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Local search consistently found lower-error factorizations .	707916	auto:0.42990783,textrank:0.40579805,kea:0.42485476,rake:0.4102603,spacy_np:0.73306364,StructMineDataPipeline:0.4759973,econ:0.46519125
+At the first iteration , local search chooses an .	5209315	auto:0.6379518,textrank:0.6045217,kea:0.5790887,rake:0.0,spacy_np:0.58079827,StructMineDataPipeline:0.59581786,econ:0.587305
+Policy search methods rely on local search in a restricted policy space .	1676633	auto:0.458301,textrank:0.43930316,kea:0.4491502,rake:0.94413203,spacy_np:0.44106776,StructMineDataPipeline:0.4320814,econ:0.5106931
+Global Optimality of Local Search for Low Rank Matrix Recovery	1306973	auto:0.0,textrank:0.48451418,kea:0.4939186,rake:0.51488686,spacy_np:0.5169231,StructMineDataPipeline:0.51020306,econ:0.5422465
+Iterated local search .	2618233	auto:0.72880185,textrank:0.7014017,kea:0.7154798,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2011b showed , via a different analysis , that the same local search	5499775	auto:0.5254639,textrank:0.43740776,kea:0.4495619,rake:0.54508007,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.449965
+600 Concave relaxation Local search	4956795	auto:0.5289352,textrank:0.53381485,kea:0.52921754,rake:0.53184545,spacy_np:0.532755,StructMineDataPipeline:0.0,econ:0.0
+4 Stochastic Local Search	1629062	auto:0.0,textrank:0.76724714,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Fine-tuning of algorithms using fractional experimental design and local search .	4237705	auto:0.4879109,textrank:0.47262248,kea:0.47648296,rake:0.7389717,spacy_np:0.0,StructMineDataPipeline:0.4568661,econ:0.6380356
+We have presented an extension to local search that uses RL to enhance the local search cost function for a particular optimization problem .	1892239	auto:0.39021894,textrank:0.6519101,kea:0.31923202,rake:0.36541864,spacy_np:0.3391744,StructMineDataPipeline:0.39110944,econ:0.42251244
+Finally , a natural alternative to greedy is local search .	5209002	auto:0.5990296,textrank:0.50476134,kea:0.51785827,rake:0.5304852,spacy_np:0.53358144,StructMineDataPipeline:0.5199858,econ:0.50799626
+0 00268 Best hyperplane rounding of Fiedler Vector 0 00232 Best improvement with local search	1388464	auto:0.29047278,textrank:0.272199,kea:0.27681857,rake:0.4007833,spacy_np:0.5584958,StructMineDataPipeline:0.27597308,econ:0.3660217
+A New Extension to Local Search Applied to the Dial-ARide Problem .	1892273	auto:0.44479382,textrank:0.38275912,kea:0.39750978,rake:0.0,spacy_np:0.5720244,StructMineDataPipeline:0.0,econ:0.41072205
+-interchange Procedures for Local Search in a PrecedenceConstrained Routing Problem .	1892276	auto:0.33870935,textrank:0.3302601,kea:0.0,rake:0.48582384,spacy_np:0.41381449,StructMineDataPipeline:0.52588886,econ:0.45757812
+Local search for multiobjective function optimization : pareto descent method .	51129	auto:0.38818368,textrank:0.38456213,kea:0.38315612,rake:0.5328559,spacy_np:0.5339757,StructMineDataPipeline:0.5240517,econ:0.6496976
+A local search approach is usually used in these problems .	5770685	auto:0.0,textrank:0.6048901,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+and a local search .	3156422	auto:0.0,textrank:0.9694792,kea:0.9710949,rake:0.9754106,spacy_np:0.0,StructMineDataPipeline:0.97344005,econ:0.971489
+Approximating MAP using local search .	4649420	auto:0.6800084,textrank:0.6459129,kea:0.0,rake:0.0,spacy_np:0.5327459,StructMineDataPipeline:0.6571101,econ:0.7464743
+We then proposed the window operator for local search , already known as block insertion BenDaya and Al-Fawzan , 1998 in the literature of local search .	5483470	auto:0.53685325,textrank:0.50638694,kea:0.27609462,rake:0.6067601,spacy_np:0.5602259,StructMineDataPipeline:0.6144328,econ:0.5506439
+Local search for hamiltonian path with applications to clustering visitation paths .	2333651	auto:0.41025937,textrank:0.4051247,kea:0.3824531,rake:0.54261327,spacy_np:0.49425644,StructMineDataPipeline:0.39780578,econ:0.39018586
+For estimating 0 , they propose a local search starting at 0 .	5842398	auto:0.0,textrank:0.5109945,kea:0.5294124,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.5495675,econ:0.59472823
+the search space for the local search of a directed model .	586153	auto:0.0,textrank:0.5175935,kea:0.5311149,rake:0.54530793,spacy_np:0.0,StructMineDataPipeline:0.5387921,econ:0.6116207
+Operators for Local Search in the Space of the Orderings	5483514	auto:0.5814353,textrank:0.5420105,kea:0.0,rake:0.54654145,spacy_np:0.5139918,StructMineDataPipeline:0.53986996,econ:0.5338178
+local search 3 , or integer programming methods 2 .	2096042	auto:0.5827584,textrank:0.5672641,kea:0.5780455,rake:0.0,spacy_np:0.52805954,StructMineDataPipeline:0.56327885,econ:0.6067332

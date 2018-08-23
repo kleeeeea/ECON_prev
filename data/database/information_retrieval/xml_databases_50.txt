@@ -1,0 +1,91 @@
+NK queries can serve as the building brick to tackle some important problems in XML databases , as elaborated below .	1
+Until this point , our query answering model considered only confirmed matches .	0
+It exercises all aspects of XML databases , including storage , indexing , logging , transaction processing , and concurrency control .	1
+
+Relational-style XML query allows structural variations in XML databases .	1
+We also demonstrated , both theoretically and experimentally , the usefulness of the NK operator in supporting several important tasks in XML databases .	1
+Finding all occurrences of a twig pattern in a database is a core operation in XML query processing , both in relational implementations of XML databases , and in native XML databases .	1
+The results of our experiments with real-life and synthetic DTDs demonstrate the effectiveness of XTRACT s approach in inferring concise and semantically meaningful DTD schemas for XML databases .	1
+For all experiments with the histogram approach , we use a bucket size of 0 01 .	0
+13 N Polyzotis , M Garofalakis , Statistical Synopses for Graph-Structured XML Databases , SIGMOD , 2002 .	1
+Other XML databases may not be as homogeneous .	1
+
+However , it is easy to see that our vision can be adopted for a variety of complex database management systems such as JSON 25 and XML databases , etc .	1
+
+Efficient Keyword Search for Smallest LCAs in XML Databases	1
+relational and XML databases , filesystems , as well as proprietary platforms such as IBM Websphere Front Office , and IBM DB2 Data Stream Engine , etc .	1
+With these capabilities , we can utilize heterogeneous XML structures to design and integrate several XML databases .	1
+Note that these results illustrate the potential benefit of employing an intelligent ordering strategy in environments such as Web search where some queries are orders of magnitude more frequent than others .	0
+A parallel thread of research examines keyword search in XML databases .	1
+Many users of XML databases are not familiar with concepts such as schemas and query languages .	1
+We use both benchmark and real-life XML databases in our experiments .	1
+Our experiments reveal that in cases where there is a wide range or high skew in the values for a particular parameter , the benefit provided by the V P I strategy is greater : it is able to effectively determine the matches that provide the most benefit and confirm them first .	0
+2 , 3 , 7 , 8 use link structures in the relational or XML databases .	1
+The improvement is small because the conversion is very coarse-grained : all Google Base matches have no input confidence and thus get assigned to the same histogram bucket resulting in all Google Base matches getting the same output probability .	0
+Another different but related research topic is keyword search in XML databases 6 , 8 , 13 .	1
+
+QUERY ANSWERING USING THRESHOLDING	0
+Traditional databases , including XML databases , can efficiently compute answers to very complex queries precisely stated in terms of logic statements , but are not good at dealing with this fuzziness .	1
+However , they are also applicable to non-relational systems such as XML databases .	1
+Similarly , DTDs can be used to devise efficient plans for queries and thus speed up query evaluation in XML databases by restricting the search to only relevant portions of the data see , for example , 8 , 13 .	1
+A parallel thread of research examines keyword search in XML databases .	1
+Statistical synopses for graph-structured XML databases .	1
+
+
+
+
+
+Regardless of	0
+We varied other parameters of the dataspace and ran similar experiments ; all experiments produced results similar to the first experiment .	0
+Here , the histogram approach is able to map input confidences to probabilities	0
+His current research interests include data streaming , approximate query processing , network-data management , and XML databases .	1
+5 .	0
+We also demonstrated , both theoretically and experimentally , the usefulness of the NK operator in supporting several important tasks in XML databases .	1
+
+In this paper , we initiate a study of approximate query answering techniques for large XML databases .	1
+With the capability to query variously structured XML data , schema evolution of XML databases can be managed with a simple join operation of several XML data .	1
+
+As we have mentioned , XML databases such as DBLP 15 and IMDB 22 are composed of records of small structures .	1
+XML database systems are expected to handle increasingly complex queries over increasingly large and highly structured XML databases .	1
+Statistical Synopses for GraphStructured XML Databases .	1
+Looking forward in XML databases , we see a need for more support for versioned schemas , especially in the query languages .	1
+First , observe that the curve for VPI with 0 5 for GB provides the least benefit for ordering confirmations .	0
+Reachability queries are very important for many XML databases .	1
+Random VPI with 0 5 for GB VPI with SStr histogram	0
+His current research interests include data streaming , approximate query processing , network-data management , and XML databases .	1
+To account for these incorrect results as well as the missed results due to correct but unused matches as	0
+Several systems 11 , 8 , 5 , 2 have been proposed to solve the problem of full-text search in XML databases .	1
+QUERY ANSWERING USING THRESHOLDING	0
+Strategies for Query Unnesting in XML Databases .	1
+
+In this approach , the elements e1 and e2 in match m e1 , e2 , c are considered equivalent if the confidence c is greater than a threshold T .	0
+
+Unlike path-based definitions , our definition of FD allows various XML data expressions , and therefore makes the design of XML databases much easier .	1
+For instance , in XML databases , the reachability query is the basic building block for the typical path query format P1 P2 Pm , where is the ancestor-descendant search and Pi is the tag .	1
+XML databases and XQuery processors , including Galax , MonetDB , eXist , Saxon and Timber 6 15 .	1
+16 proposes a solution in the context of XML databases where the user does not have any knowledge of the schema using the idea of a meaningful lowest common ancestor .	1
+As we have mentioned , XML databases such as DBLP 15 and IMDB 22 are composed of records of small structures .	1
+Unlike path-based definitions , our definition of FD allows various XML data expressions , and therefore makes the design of XML databases much easier .	1
+Statistical synopses for graph-structured XML databases .	1
+Top-k processing in XML databases has recently gained more attention since XML has become the preferred medium for formatting and exchanging data in many domains 1 , 7 , 20 .	1
+Here , the query answering module may use an incorrect match if its confidence is above the threshold ; thus , some answers in Q D may not be correct w r t .	0
+Query caching and view selection for XML databases .	1
+However , it is easy to see that our vision can be adopted for a variety of complex database management systems such as JSON 25 and XML databases , etc .	1
+XML databases often contain documents comprising structured text .	1
+While modeling relational databases is a well understood subject , modeling XML databases has yet to have a standard , well accepted methodology .	1
+The results of this experiment are presented in Figure 6 .	0
+Efficient Keyword Search for Smallest LCAs in XML Databases	1
+To account for these incorrect results as well as the missed results due to correct but unused matches as	0
+yet appear to be available in standard XML databases .	1
+This performance is due to the inaccurate confidences produced by SecondString and the lack of confidences for Google Base matches .	0
+Many XML databases , such as DBLP 15 and the Internet movie database IMDB 22 , contain a large set of records of the same structure .	1
+
+Statistical synopses for graph-structured XML databases .	1
+Note that these results illustrate the potential benefit of employing an intelligent ordering strategy in environments such as Web search where some queries are orders of magnitude more frequent than others .	0
+We follow a similar process as in Section 3 to derive an equation for the value of perfect information for confirming match mj when the query answering module uses thresholding .	0
+Parameter exploration tests .	0
+
+
+XML databases often contain documents comprising structured text .	1
+Note that these results illustrate the potential benefit of employing an intelligent ordering strategy in environments such as Web search where some queries are orders of magnitude more frequent than others .	0
+On the other hand , in environments with more homogeneous queries , the selection method is less important .	0

@@ -1,0 +1,87 @@
+Global convergence of genetic algorithms : A Markov chain analysis .	3131906	auto:0.0,textrank:0.54297096,kea:0.55231005,rake:0.46784893,spacy_np:0.6763329,StructMineDataPipeline:0.45002145,econ:0.4495675
+Global Convergence of Stochastic Gradient Descent for Some Non-convex Matrix Problems	3833753	auto:0.0,textrank:0.4906211,kea:0.0,rake:0.5076811,spacy_np:0.5627729,StructMineDataPipeline:0.5336714,econ:0.53806686
+Stochastic Convex Optimization : Faster Local Growth Implies Global Convergence	5393929	auto:0.0,textrank:0.438615,kea:0.45464817,rake:0.0,spacy_np:0.46231684,StructMineDataPipeline:0.0,econ:0.63551587
+The proof of global convergence of ADMM can be found in 13 , 4 .	1952778	auto:0.0,textrank:0.5442159,kea:0.53975236,rake:0.53167593,spacy_np:0.56158423,StructMineDataPipeline:0.5528279,econ:0.6024451
+A modified bfgs method and its global convergence in nonconvex minimization .	2695204	auto:0.46218842,textrank:0.44225183,kea:0.43414095,rake:0.5698282,spacy_np:0.0,StructMineDataPipeline:0.5722672,econ:0.45745522
+Our work focuses on global convergence but only in the fully sampled case ; we will extend the global convergence results to the undersampled case in future work .	5032998	auto:0.32211393,textrank:0.5810122,kea:0.3130358,rake:0.31504232,spacy_np:0.31653386,StructMineDataPipeline:0.30766198,econ:0.36534056
+5 2 Proof of the theorem about global convergence .	4814387	auto:0.7092506,textrank:0.66875863,kea:0.64353263,rake:0.54445153,spacy_np:0.5411144,StructMineDataPipeline:0.6793859,econ:0.7248684
+4 Global Convergence Results	21045	auto:0.0,textrank:0.84114826,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+We first characterize global convergence in this case .	21048	auto:0.69624674,textrank:0.6534573,kea:0.6668471,rake:0.0,spacy_np:0.6612397,StructMineDataPipeline:0.6614289,econ:0.6540882
+Global convergence is guaranteed 12 .	526909	auto:0.74347734,textrank:0.70753336,kea:0.72861594,rake:0.53053796,spacy_np:0.7309921,StructMineDataPipeline:0.72573024,econ:0.7962344
+The question of global convergence is currently open 30 , 25 .	4120130	auto:0.5474902,textrank:0.49313518,kea:0.51703876,rake:0.6787533,spacy_np:0.507857,StructMineDataPipeline:0.50890666,econ:0.57129717
+Theorem 6 1 Global convergence guarantees .	5407824	auto:0.0,textrank:0.6875139,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Global Convergence of Online Limited Memory BFGS	2694738	auto:0.0,textrank:0.50994426,kea:0.0,rake:0.6146676,spacy_np:0.0,StructMineDataPipeline:0.5983799,econ:0.5908761
+As a result , we have the following theorem on global convergence of Algorithm 2 .	5671512	auto:0.0,textrank:0.5959755,kea:0.0,rake:0.5836088,spacy_np:0.60667294,StructMineDataPipeline:0.61067307,econ:0.61589783
+Theorem 1 Global Convergence .	5671513	auto:0.8867503,textrank:0.86208135,kea:0.8624975,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8212364,econ:0.0
+Nevertheless , global convergence to the optimal solution is guaranteed via our proofs .	844048	auto:0.53578275,textrank:0.4946639,kea:0.5080851,rake:0.5831587,spacy_np:0.4975832,StructMineDataPipeline:0.5112617,econ:0.5097237
+be a proof guaranteeing global convergence .	4514915	auto:0.6697975,textrank:0.62862456,kea:0.64439994,rake:0.0,spacy_np:0.6063624,StructMineDataPipeline:0.64738715,econ:0.6432627
+This also guarantees global convergence to the optimal design .	5064806	auto:0.6578131,textrank:0.5670869,kea:0.6201562,rake:0.0,spacy_np:0.5504603,StructMineDataPipeline:0.55871,econ:0.5629149
+4 is convex and can be solved by various methods with guaranteed global convergence .	699501	auto:0.55032533,textrank:0.49956083,kea:0.5012998,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.50370365
+The global convergence of FGM has been verified .	2474624	auto:0.0,textrank:0.5266066,kea:0.5506043,rake:0.5394212,spacy_np:0.0,StructMineDataPipeline:0.5437138,econ:0.5395925
+Figure 7 : Verifying the global convergence	168583	auto:0.0,textrank:0.60938376,kea:0.6302965,rake:0.5980997,spacy_np:0.0,StructMineDataPipeline:0.6270982,econ:0.66252226
+Theorem 3 5 Global convergence for adaptive- variant over D .	1438351	auto:0.5069148,textrank:0.44879466,kea:0.4682744,rake:0.0,spacy_np:0.71099216,StructMineDataPipeline:0.48265055,econ:0.4925734
+We further prove the global convergence of our algorithm .	1006741	auto:0.0,textrank:0.6749741,kea:0.68575513,rake:0.68564075,spacy_np:0.0,StructMineDataPipeline:0.6810656,econ:0.68338925
+Theorem 4 1 Global convergence , with lim supi t i t , for some 0 t 1 .	5204127	auto:0.41580877,textrank:0.38177347,kea:0.41248107,rake:0.0,spacy_np:0.38522768,StructMineDataPipeline:0.62077004,econ:0.46784568
+Theorem 4 2 Global convergence , with lim supi t i 0 .	5204130	auto:0.48735815,textrank:0.45070785,kea:0.4908565,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.48927712,econ:0.7372865
+Theorem 1 Global Convergence of GROUSE .	5024423	auto:0.0,textrank:0.5896595,kea:0.6079914,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.5834165,econ:0.63363665
+In contrast , Theorem 1 gives a global convergence guarantee .	4775592	auto:0.0,textrank:0.5858703,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+FIRST ORDER GLOBAL CONVERGENCE	5366444	auto:0.84245026,textrank:0.8095051,kea:0.7340776,rake:0.6969092,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+3 Global convergence theory of iterative algorithms	1641133	auto:0.63543016,textrank:0.5971271,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Note that the word global convergence is a misnomer .	1641136	auto:0.53270704,textrank:0.4905069,kea:0.51027364,rake:0.0,spacy_np:0.50288343,StructMineDataPipeline:0.0,econ:0.5391245
+Learning automata algorithms for connectionist systems - local and global convergence .	1092791	auto:0.0,textrank:0.42366067,kea:0.42275748,rake:0.539148,spacy_np:0.0,StructMineDataPipeline:0.41281536,econ:0.8024166
+3 1 Global convergence	1033409	auto:0.9194611,textrank:0.90330255,kea:0.9127288,rake:0.80372953,spacy_np:0.0,StructMineDataPipeline:0.9116402,econ:1.0
+The sufficient and necessary conditions for global convergence and the convergence rate of this algorithm are discussed .	4537026	auto:0.5297703,textrank:0.47105995,kea:0.46201104,rake:0.482626,spacy_np:0.46047089,StructMineDataPipeline:0.45557073,econ:0.53095084
+Global convergence of splitting methods for nonconvex composite optimization .	5637316	auto:0.0,textrank:0.4369403,kea:0.45063773,rake:0.61819077,spacy_np:0.47839648,StructMineDataPipeline:0.4752437,econ:0.58415174
+We also prove the global convergence of GAEM theoretically .	4657353	auto:0.0,textrank:0.49327937,kea:0.51984996,rake:0.68481916,spacy_np:0.0,StructMineDataPipeline:0.511672,econ:0.5031899
+Theorem 3 2 Global convergence .	1033423	auto:0.84292436,textrank:0.812969,kea:0.8183953,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8164151,econ:1.0
+Global Convergence Theorem .	4078294	auto:0.9114593,textrank:0.89026594,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Global convergence of online limited memory BFGS .	1266554	auto:0.0,textrank:0.5097441,kea:0.0,rake:0.6143678,spacy_np:0.9903584,StructMineDataPipeline:0.5980886,econ:0.5908761
+2 3 New Optimization Algorithm and Its Global Convergence	1006816	auto:0.62833774,textrank:0.5663393,kea:0.5266249,rake:0.90545654,spacy_np:0.0,StructMineDataPipeline:0.5384849,econ:0.692701
+, 8 and was the smallest value enough to achieve global convergence .	529122	auto:0.5792468,textrank:0.5063495,kea:0.5288622,rake:0.0,spacy_np:0.5343437,StructMineDataPipeline:0.5488303,econ:0.6246678
+performance , but their global convergence guarantees are	5236972	auto:0.0,textrank:0.641797,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Global Convergence To prove the global convergence of LADMPSAP , we first have the following propositions6 .	4537070	auto:0.39703423,textrank:0.6353738,kea:0.6558272,rake:0.7829897,spacy_np:0.37768382,StructMineDataPipeline:0.6620302,econ:0.647988
+2 2 Fixed points and a condition for global convergence .	280305	auto:0.6098779,textrank:0.5795618,kea:0.5982249,rake:0.5075368,spacy_np:0.4835595,StructMineDataPipeline:0.57911164,econ:0.6611307
+that the global convergence rate is sufficiently	5393363	auto:0.0,textrank:0.65314704,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+stochastic gradient descent achieves global convergence at a sublinear rate .	4601588	auto:0.54222786,textrank:0.49505082,kea:0.5113752,rake:0.0,spacy_np:0.5127816,StructMineDataPipeline:0.50476813,econ:0.5137242
+When applied to general smooth and strongly-convex functions , one can not guarantee global convergence .	3199234	auto:0.46663123,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.63537806,StructMineDataPipeline:0.4067958,econ:0.48258188
+Moreover , we can further prove the sufficient and necessary condition for global convergence .	4537093	auto:0.5497326,textrank:0.49415982,kea:0.5118424,rake:0.514816,spacy_np:0.49651486,StructMineDataPipeline:0.47307363,econ:0.54469395
+B 2 4 Global Convergence Finally , we can use Xu and Yin , 2012 , Lemma 2 6 to establish global convergence of SPARFA-M .	2439435	auto:0.38066608,textrank:0.33203158,kea:0.6374564,rake:0.0,spacy_np:0.4020924,StructMineDataPipeline:0.37977815,econ:0.6626989
+Theorem 8 Global convergence of CCCP-II .	1641231	auto:0.0,textrank:0.4712154,kea:0.49047962,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.7719276,econ:0.5164731
+Global convergence can be proved in a similar way to Theorem 3 .	2548496	auto:0.620337,textrank:0.5429876,kea:0.5629776,rake:0.5465751,spacy_np:0.5752642,StructMineDataPipeline:0.54880077,econ:0.5685161
+We prove GAEM s global convergence theoretically .	4656917	auto:0.5379094,textrank:0.49725872,kea:0.52456504,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.6859983
+Fast global convergence of online PCA .	5451046	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.79509544
+To ensure global convergence , one can incorporate an existing globally convergent method , e g .	1187112	auto:0.46945336,textrank:0.43002015,kea:0.4522249,rake:0.0,spacy_np:0.5961288,StructMineDataPipeline:0.40516493,econ:0.42441526
+The global convergence Conjecture 2 in Section 4 implies that s 0 :	3376937	auto:0.0,textrank:0.55309904,kea:0.5739213,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+On the global convergence of stochastic fictitious play .	228143	auto:0.0,textrank:0.57230943,kea:0.0,rake:0.56018674,spacy_np:0.0,StructMineDataPipeline:0.95195436,econ:0.6357105
+In particular , there is no known global convergence rate .	2670905	auto:0.0,textrank:0.60153073,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Theorem 10 Global convergence of constrained CCP .	1641277	auto:0.0,textrank:0.5196767,kea:0.5359482,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.7725126,econ:0.0
+Theorem 4 shows the global convergence of our PALM algorithm .	5083468	auto:0.0,textrank:0.5349478,kea:0.5259786,rake:0.47218493,spacy_np:0.0,StructMineDataPipeline:0.5129699,econ:0.7329994
+5 2 Proof of the theorem about global convergence	4814685	auto:0.7096866,textrank:0.6692107,kea:0.64389044,rake:0.54466015,spacy_np:0.5413152,StructMineDataPipeline:0.6798129,econ:0.7248684
+Theorem 1 is a global convergence result .	4775776	auto:0.0,textrank:0.75385165,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+In this work , we analyze its global convergence behavior by using results from the global convergence theory of iterative algorithms .	1641320	auto:0.45267674,textrank:0.7043458,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+To achieve the faster global convergence ,	5393383	auto:0.7406834,textrank:0.6893614,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.829681
+until the global convergence of the algorithm .	1168957	auto:0.0,textrank:0.7514704,kea:0.7631911,rake:0.761721,spacy_np:0.0,StructMineDataPipeline:0.76072437,econ:0.76740354
+ary point , and by definition of the global convergence	4775796	auto:0.0,textrank:0.47291324,kea:0.5427292,rake:0.80508107,spacy_np:0.0,StructMineDataPipeline:0.8183529,econ:0.48543218
+analogously to the 1 case , for which global convergence	4211574	auto:0.6703773,textrank:0.6294579,kea:0.6500667,rake:0.5345402,spacy_np:0.0,StructMineDataPipeline:0.64684683,econ:0.6525053
+in the global convergence phase .	4775802	auto:0.0,textrank:0.781934,kea:0.791473,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+GLOBAL CONVERGENCE TO FIRST-ORDER	5192581	auto:0.7931507,textrank:0.7639063,kea:0.7408291,rake:0.7879811,spacy_np:0.7102255,StructMineDataPipeline:0.0,econ:0.6499271
+the first to establish global convergence for	4769004	auto:0.75732064,textrank:0.0,kea:0.7316322,rake:0.0,spacy_np:0.72045135,StructMineDataPipeline:0.72829527,econ:0.7202627
+GLOBAL CONVERGENCE TO SECOND-ORDER	5192591	auto:0.7831157,textrank:0.7518656,kea:0.72815096,rake:0.77665126,spacy_np:0.6973712,StructMineDataPipeline:0.0,econ:0.0
+Theorem 15 Second-order global convergence .	5192595	auto:0.68647903,textrank:0.6473401,kea:0.63615805,rake:0.61100084,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Here , global convergence means that the algorithm always converges to a local optimum .	2380526	auto:0.5393853,textrank:0.49514675,kea:0.5171001,rake:0.0,spacy_np:0.513415,StructMineDataPipeline:0.50197506,econ:0.50164664
+A method that guarantees global convergence is the trust region method Conn et al , 1993 .	1087899	auto:0.4152081,textrank:0.39142963,kea:0.41950545,rake:0.0,spacy_np:0.4635118,StructMineDataPipeline:0.57444596,econ:0.66642314
+2 2 Global Convergence Analysis	727465	auto:0.7887513,textrank:0.7484829,kea:0.75087696,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Unfortunately , when f FL but f F2 , these theoretical results on the global convergence and the global convergence rates are no longer applicable .	2671024	auto:0.0,textrank:0.59558755,kea:0.34218612,rake:0.31175417,spacy_np:0.0,StructMineDataPipeline:0.31794593,econ:0.351641
+This augmented Lagrangian method has provable global convergence .	2290620	auto:0.53510815,textrank:0.52444917,kea:0.5196063,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.5417339
+2 Global convergence of MiFB	1223112	auto:0.0,textrank:0.56450605,kea:0.5865707,rake:0.5746283,spacy_np:0.0,StructMineDataPipeline:0.573322,econ:0.57715416
+Stochastic Convex Optimization : Faster Local Growth Implies Faster Global Convergence	5393356	auto:0.45957708,textrank:0.38062608,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.63551587
+2 2 Global convergence	1223118	auto:0.8589411,textrank:0.8337683,kea:0.8483293,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8466324,econ:1.0
+3 3 Global Convergence Algorithm	1108947	auto:0.7934946,textrank:0.7557533,kea:0.7705926,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Accelerated Global Convergence	4962261	auto:0.76769304,textrank:0.72723204,kea:0.74374354,rake:0.7177016,spacy_np:0.0,StructMineDataPipeline:0.7476581,econ:0.0
+Theorem 2 1 of Lin and More 1999 implies the global convergence .	2503143	auto:0.0,textrank:0.54996854,kea:0.5335467,rake:0.4426254,spacy_np:0.0,StructMineDataPipeline:0.55118626,econ:0.6013252
+Thus one would expect to achieve global convergence for the problem of 8 provided	3250154	auto:0.5509315,textrank:0.5056502,kea:0.5283138,rake:0.0,spacy_np:0.5287684,StructMineDataPipeline:0.5252064,econ:0.53847593
+This property sometimes referred to as global convergence Nocedal and Wright , 2006 : Theorem 2 Global convergence .	4991467	auto:0.73118037,textrank:0.672671,kea:0.68806195,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.45715022,econ:0.46015745
+4 1 Monotonicity and global convergence	2815981	auto:0.7160982,textrank:0.6763161,kea:0.693551,rake:0.5315546,spacy_np:0.53509426,StructMineDataPipeline:0.683299,econ:0.7172331
+Global convergence and empirical consistency of the generalized lloyd algorithm .	3594736	auto:0.5549741,textrank:0.5044575,kea:0.48443547,rake:0.5464384,spacy_np:0.44942856,StructMineDataPipeline:0.41650936,econ:0.50274783
+4 Global Convergence for ASD	1024511	auto:0.65306187,textrank:0.6129926,kea:0.63464063,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.61360824,econ:0.62771416
+hardly works to show the global convergence .	1127935	auto:0.0,textrank:0.580674,kea:0.6043537,rake:0.56451046,spacy_np:0.0,StructMineDataPipeline:0.5951957,econ:0.5895931

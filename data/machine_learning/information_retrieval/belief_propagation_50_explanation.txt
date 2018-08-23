@@ -1,0 +1,159 @@
+Counting belief propagation .	4924418	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Non-Linear Energy Belief Propagation	3934211	auto:0.6678916,textrank:0.6301144,kea:0.61242425,rake:0.63040876,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 BELIEF PROPAGATION	5805061	auto:0.94675463,textrank:0.93922794,kea:0.94350463,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.944528,econ:1.0
+1 : procedure BELIEF PROPAGATION )	1189382	auto:0.7159437,textrank:0.6833497,kea:0.6951841,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Belief propagation on partially ordered sets .	2092551	auto:0.0,textrank:0.5288023,kea:0.518891,rake:0.54595137,spacy_np:0.53946805,StructMineDataPipeline:0.5585617,econ:0.75523853
+BP - Belief Propagation , sequential updates 7 .	5655052	auto:0.48408058,textrank:0.5057184,kea:0.46990144,rake:0.67813605,spacy_np:0.0,StructMineDataPipeline:0.4675211,econ:0.5487697
+2 2 Relation to Belief Propagation	1369613	auto:0.689003,textrank:0.65877914,kea:0.629492,rake:0.5598684,spacy_np:0.55069816,StructMineDataPipeline:0.6637582,econ:0.7286844
+LCBP - Loop Corrected Belief Propagation 11 .	5655055	auto:0.0,textrank:0.41880327,kea:0.4327535,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+Counting belief propagation .	5394960	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Robust max-product belief propagation .	2312209	auto:0.0,textrank:0.59502935,kea:0.0,rake:0.6071164,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 2 Parameter Estimation Using Belief Propagation	850962	auto:0.64545316,textrank:0.60710174,kea:0.0,rake:0.0,spacy_np:0.5119151,StructMineDataPipeline:0.0,econ:1.0
+Negative tree reweighted belief propagation .	1011819	auto:0.0,textrank:0.5053604,kea:0.5162057,rake:0.0,spacy_np:0.4328881,StructMineDataPipeline:0.45418638,econ:1.0
+Generalized belief propagation .	2097173	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Belief propagation and statistical physics .	1945110	auto:0.6578068,textrank:0.65234303,kea:0.65731335,rake:0.6647966,spacy_np:0.65868443,StructMineDataPipeline:0.66320574,econ:0.6368124
+Dependency parsing by belief propagation .	444676	auto:0.6290497,textrank:0.60786027,kea:0.6204649,rake:0.6174422,spacy_np:0.5662413,StructMineDataPipeline:0.59090865,econ:0.5526039
+2 1 Belief Propagation	3791901	auto:0.9112904,textrank:0.89955914,kea:0.9062186,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.9078205,econ:1.0
+It is well-known that belief propagation a k a .	335391	auto:0.6626817,textrank:0.6286796,kea:0.6424483,rake:0.6420084,spacy_np:0.0,StructMineDataPipeline:0.6029181,econ:0.5778705
+Message Errors in Belief Propagation .	1393696	auto:0.57738405,textrank:0.5708706,kea:0.5784736,rake:0.5918064,spacy_np:0.5801648,StructMineDataPipeline:0.571984,econ:0.5653107
+Tensor Belief Propagation	5324806	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Adaptive Belief Propagation	3824682	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Tensor Belief Propagation	5298733	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+3 Decoding by belief propagation	1890350	auto:0.69361204,textrank:0.6718956,kea:0.6860473,rake:0.503744,spacy_np:0.51211745,StructMineDataPipeline:0.6784778,econ:0.610326
+Tensor Belief Propagation	5324851	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Negative tree reweighted belief propagation .	42036	auto:0.0,textrank:0.5053604,kea:0.5162057,rake:0.0,spacy_np:0.4328881,StructMineDataPipeline:0.45418638,econ:1.0
+0 8 Gibbs Belief Propagation	1742392	auto:0.67060524,textrank:0.63315547,kea:0.63012093,rake:0.5744905,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Counting belief propagation .	977977	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+0 8 Gibbs Belief Propagation	1742394	auto:0.67060524,textrank:0.63315547,kea:0.63012093,rake:0.5744905,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Constraints Based Convex Belief Propagation	1257020	auto:0.0,textrank:0.49965638,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.78201836
+Generalized belief propagation .	2087487	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+5 1 Belief Propagation	4655173	auto:0.88220495,textrank:0.8675434,kea:0.8758979,rake:0.7404992,spacy_np:0.0,StructMineDataPipeline:0.87791586,econ:1.0
+Generalized belief propagation .	3035210	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Max-Product Belief Propagation	3830861	auto:0.0,textrank:0.6749858,kea:0.0,rake:0.7001806,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+2 BELIEF PROPAGATION	5822031	auto:0.94675463,textrank:0.93922794,kea:0.94350463,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.944528,econ:1.0
+Tensor Belief Propagation	5298769	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+A Topic Modeling Toolbox Using Belief Propagation	3499875	auto:0.53487206,textrank:0.5266432,kea:0.0,rake:0.45744762,spacy_np:0.47369888,StructMineDataPipeline:0.0,econ:0.978916
+Tensor Belief Propagation	5298784	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Negative tree reweighted belief propagation .	1808841	auto:0.0,textrank:0.5053604,kea:0.5162057,rake:0.0,spacy_np:0.4328881,StructMineDataPipeline:0.45418638,econ:1.0
+Loop corrected belief propagation .	5833147	auto:0.0,textrank:0.5620305,kea:0.57451516,rake:0.0,spacy_np:0.5377648,StructMineDataPipeline:0.5637219,econ:1.0
+Counting belief propagation .	4038247	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Generalized belief propagation .	4959338	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Belief propagation was used on both the x and y derivative images	595559	auto:0.54704756,textrank:0.50829965,kea:0.5204635,rake:0.64251447,spacy_np:0.40919346,StructMineDataPipeline:0.4293369,econ:0.4083319
+BP Belief propagation .	2159724	auto:0.7507409,textrank:0.738042,kea:0.73694676,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+We perform posterior inference using belief propagation 21 .	5106288	auto:0.0,textrank:0.4703962,kea:0.0,rake:0.0,spacy_np:0.5346629,StructMineDataPipeline:0.54113036,econ:0.7979876
+Tensor Belief Propagation	5324913	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+4 Cutting-Plane Algorithm using Belief Propagation	1800306	auto:0.514605,textrank:0.5565575,kea:0.0,rake:0.49776596,spacy_np:0.91856545,StructMineDataPipeline:0.5503702,econ:0.5148591
+Tensor Belief Propagation	5324920	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	327686	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+3 Nonparanormal Belief Propagation	999803	auto:0.6468498,textrank:0.6282497,kea:0.6243736,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+belief propagation , in time linear in the number of edges .	4606076	auto:0.6428168,textrank:0.52107227,kea:0.51559573,rake:0.53876317,spacy_np:0.57947755,StructMineDataPipeline:0.5291221,econ:0.51546943
+2 Graphical Models and Belief Propagation	823939	auto:0.7219578,textrank:0.71593744,kea:0.7190352,rake:0.5509649,spacy_np:0.54161274,StructMineDataPipeline:0.72166383,econ:0.7510251
+Continuous-time belief propagation .	4161161	auto:0.7059222,textrank:0.68721247,kea:0.66521364,rake:0.7120358,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	5077130	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+belief propagation and local computations .	984206	auto:0.60669184,textrank:0.59416306,kea:0.597516,rake:0.6128641,spacy_np:0.597658,StructMineDataPipeline:0.6125346,econ:0.58951765
+5 3 LP Relaxations for Belief Propagation	2369679	auto:0.5675412,textrank:0.589385,kea:0.5890079,rake:0.54259866,spacy_np:0.9742203,StructMineDataPipeline:0.6042915,econ:0.6249552
+2 1 Belief Propagation	2616465	auto:0.9112904,textrank:0.89955914,kea:0.9062186,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.9078205,econ:1.0
+2 2 BELIEF PROPAGATION	5832853	auto:0.8268782,textrank:0.8072972,kea:0.8183078,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8209871,econ:1.0
+Counting belief propagation .	1236631	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Generalized belief propagation .	1000089	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Focusing generalizations of belief propagation on targeted queries .	5716635	auto:0.0,textrank:0.43480143,kea:0.40644497,rake:0.94883144,spacy_np:0.55008245,StructMineDataPipeline:0.56066316,econ:0.42017984
+Generalized belief propagation .	2954396	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Adaptive Belief Propagation	3824802	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	440485	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+A cluster-cumulant expansion at the fixed points of belief propagation .	2239143	auto:0.41571322,textrank:0.37908992,kea:0.39055154,rake:0.54557776,spacy_np:0.61136216,StructMineDataPipeline:0.41813308,econ:0.40998876
+Solving Linear Programs Using Tree-Reweighted Belief Propagation	2349340	auto:0.0,textrank:0.44686788,kea:0.0,rake:0.46393353,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.8037733
+Accuracy bounds for belief propagation .	5716651	auto:0.56870836,textrank:0.5436486,kea:0.55547714,rake:0.54882,spacy_np:0.6736559,StructMineDataPipeline:0.67135674,econ:0.6636922
+Counting belief propagation .	3618994	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Tensor Belief Propagation	5324979	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	471732	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Generalized belief propagation .	335543	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+2 1 Graphical models and belief propagation	1307834	auto:0.70585716,textrank:0.69789433,kea:0.70211613,rake:0.55369335,spacy_np:0.5443315,StructMineDataPipeline:0.7048886,econ:0.7510251
+Fast memory-efficient generalized belief propagation .	3619006	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+2 2 Linear Memory b-Matching Belief Propagation	5663429	auto:0.43986574,textrank:0.42767543,kea:0.43044573,rake:0.42513397,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+Counting belief propagation .	3749066	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Approximate Lifted Belief Propagation .	3749070	auto:0.63556254,textrank:0.5317592,kea:0.6067715,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Counting belief propagation .	1838804	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Robust max-product belief propagation .	4249818	auto:0.0,textrank:0.59502935,kea:0.0,rake:0.6071164,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+We run up to 10,000 iterations of Gibbs sampling and Belief Propagation on	3931173	auto:0.0,textrank:0.45870185,kea:0.43283272,rake:0.46388808,spacy_np:0.5846515,StructMineDataPipeline:0.44783804,econ:0.47665292
+Generalized belief propagation .	329324	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+by applying the belief propagation	612067	auto:0.0,textrank:0.7622813,kea:0.77318347,rake:0.7618453,spacy_np:0.0,StructMineDataPipeline:0.7794036,econ:0.7587686
+Convex Belief Propagation	3760357	auto:0.0,textrank:0.7874538,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Tensor Belief Propagation	5325030	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	5833169	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Adaptive Belief Propagation	3824873	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+convex belief propagation , MPLP and tree-reweighted belief propagation .	3760362	auto:0.0,textrank:0.72794014,kea:0.0,rake:0.4143434,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.84050757
+Counting Belief Propagation .	3782891	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Generalized belief propagation .	4900818	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Just as EP reduces to belief propagation on Bayesian networks or MRFs , REP becomes a relaxed version of belief propagation on these models .	4463854	auto:0.0,textrank:0.55183834,kea:0.5547673,rake:0.6491888,spacy_np:0.2817365,StructMineDataPipeline:0.2774859,econ:0.5013844
+Generalized belief propagation .	2874097	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Adaptive Belief Propagation	3824374	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+belief propagation algorithm .	4606202	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.9015312,StructMineDataPipeline:0.0,econ:0.0
+Continuous-time belief propagation .	3040000	auto:0.7059222,textrank:0.68721247,kea:0.66521364,rake:0.7120358,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	77257	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Belief Propagation Mean Field	703748	auto:0.66226953,textrank:0.68130434,kea:0.6718484,rake:0.6427496,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Belief Propagation Mean Field	703750	auto:0.66226953,textrank:0.68130434,kea:0.6718484,rake:0.6427496,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+3 Review of Belief Propagation	5838600	auto:0.73810023,textrank:0.70887065,kea:0.0,rake:0.56130594,spacy_np:0.55214447,StructMineDataPipeline:0.68942946,econ:0.69300824
+2 2 Belief Propagation	2305802	auto:0.8268782,textrank:0.8072972,kea:0.8183078,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8209871,econ:1.0
+4 A family of algorithms for belief propagation	323346	auto:0.69614893,textrank:0.6579629,kea:0.619826,rake:0.6340754,spacy_np:0.49552402,StructMineDataPipeline:0.6581621,econ:0.66715753
+Belief propagation in graphs with cycles .	1707054	auto:0.63453573,textrank:0.60772306,kea:0.0,rake:0.60028464,spacy_np:0.5893182,StructMineDataPipeline:0.6056729,econ:0.5851763
+Generalized belief propagation .	5844356	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Counting belief propagation .	5177628	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+For inference , we used either loopy belief propagation , or tree-reweighted belief propagation .	390106	auto:0.0,textrank:0.43056014,kea:0.0,rake:0.56095314,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.8339733
+Adaptive Belief Propagation	3824926	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	5400867	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Adaptive Belief Propagation	3824420	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+In the approach c however , the belief propagation is simulated with only 0 1 independent samples .	608646	auto:0.0,textrank:0.44981652,kea:0.46524802,rake:0.6572843,spacy_np:0.0,StructMineDataPipeline:0.3888335,econ:0.4629201
+belief propagation belief propagation EM update )	3978022	auto:0.79084975,textrank:0.79436725,kea:0.79561293,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Counting belief propagation .	1754408	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Generalized belief propagation .	444713	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+The update equations resemble those of Belief Propagation .	920876	auto:0.5276328,textrank:0.49065325,kea:0.50577825,rake:0.8349461,spacy_np:0.49194986,StructMineDataPipeline:0.5022534,econ:0.4858339
+2009 devise an efficient concurrent implementation of belief propagation .	5675309	auto:0.4661484,textrank:0.4312599,kea:0.43532073,rake:0.9331963,spacy_np:0.41630593,StructMineDataPipeline:0.38788837,econ:0.42727014
+This underlies loopy belief propagation , as well as tree-reweighted belief propagation .	389937	auto:0.0,textrank:0.3795977,kea:0.0,rake:0.40009528,spacy_np:0.34966525,StructMineDataPipeline:0.0,econ:0.90245366
+Tensor Belief Propagation	5325106	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Loop corrected belief propagation .	2817335	auto:0.0,textrank:0.5620305,kea:0.57451516,rake:0.0,spacy_np:0.5377648,StructMineDataPipeline:0.5637219,econ:1.0
+5 Belief Propagation Inference for Clusters	898367	auto:0.6853561,textrank:0.6473263,kea:0.0,rake:0.6200206,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Since A has no sparse graphical structure , we can not use belief propagation either .	914243	auto:0.45607668,textrank:0.0,kea:0.44787154,rake:0.0,spacy_np:0.5942444,StructMineDataPipeline:0.39988017,econ:0.45723835
+BP is for Belief Propagation .	4880198	auto:0.7315925,textrank:0.71741635,kea:0.7167801,rake:0.7073907,spacy_np:0.7105568,StructMineDataPipeline:0.7055425,econ:0.6950416
+Non-parametric belief propagation .	863559	auto:0.0,textrank:0.7285129,kea:0.7001013,rake:0.7517713,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	3934543	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Quantum graphical models and belief propagation .	5578065	auto:0.58522433,textrank:0.5734902,kea:0.57186127,rake:0.9845269,spacy_np:0.9825117,StructMineDataPipeline:0.9837391,econ:0.7510251
+Adaptive Belief Propagation	3824980	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	5109390	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+Generalized Belief Propagation .	5806309	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+3 Non-parametric Belief Propagation	2058595	auto:0.0,textrank:0.69788444,kea:0.6747724,rake:0.69145745,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Fourier VE algorithms outperform Belief Propagation , MCMC and Minibucket Algorithm .	4880228	auto:0.35212028,textrank:0.33143252,kea:0.33961916,rake:0.0,spacy_np:0.6123287,StructMineDataPipeline:0.0,econ:0.43096152
+Perturbed Belief Propagation	2665319	auto:0.7257123,textrank:0.69646215,kea:0.70425063,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+5 1 Convergence of Loopy Belief Propagation	2616680	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.4567236,StructMineDataPipeline:0.0,econ:0.80206877
+2 2 Mean-field and belief propagation	41834	auto:0.0,textrank:0.6223067,kea:0.6025994,rake:0.61597276,spacy_np:0.0,StructMineDataPipeline:0.55012536,econ:0.0
+Dependency parsing by belief propagation .	4964497	auto:0.6290497,textrank:0.60786027,kea:0.6204649,rake:0.6174422,spacy_np:0.5662413,StructMineDataPipeline:0.59090865,econ:0.5526039
+Dependency parsing by belief propagation .	2741616	auto:0.6290497,textrank:0.60786027,kea:0.6204649,rake:0.6174422,spacy_np:0.5662413,StructMineDataPipeline:0.59090865,econ:0.5526039
+Adaptive Belief Propagation	3824497	auto:0.0,textrank:0.7727054,kea:0.7609525,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Tensor Belief Propagation	5325172	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Generalized belief propagation .	2637686	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+The method is based on belief propagation 6 .	302911	auto:0.0,textrank:0.6849866,kea:0.7080197,rake:0.0,spacy_np:0.6573775,StructMineDataPipeline:0.7049773,econ:0.7318716
+Algorithm 2 : Perturbed Belief Propagation	2665340	auto:0.6617079,textrank:0.6277982,kea:0.63538915,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.59301186,econ:0.9085694
+Loop corrected belief propagation .	5655189	auto:0.0,textrank:0.5620305,kea:0.57451516,rake:0.0,spacy_np:0.5377648,StructMineDataPipeline:0.5637219,econ:1.0
+3 Properties of Belief Propagation	5694338	auto:0.7917722,textrank:0.75519615,kea:0.0,rake:0.56130594,spacy_np:0.55214447,StructMineDataPipeline:0.75206226,econ:0.77256674
+Belief Propagation for Topic Modeling	3499907	auto:0.0,textrank:0.6698548,kea:0.6763969,rake:0.673247,spacy_np:0.66459274,StructMineDataPipeline:0.66586524,econ:0.6469512
+2 2 Belief propagation	5731204	auto:0.8268782,textrank:0.8072972,kea:0.8183078,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.8209871,econ:1.0
+Counting belief propagation .	2839942	auto:0.0,textrank:0.0,kea:0.7164641,rake:0.0,spacy_np:0.7099472,StructMineDataPipeline:0.71561134,econ:0.6947755
+Message errors in belief propagation .	1384328	auto:0.57738405,textrank:0.5708706,kea:0.5784736,rake:0.5918064,spacy_np:0.5801648,StructMineDataPipeline:0.571984,econ:0.5653107
+Generalized Belief Propagation .	952715	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0
+In fact , unlike belief propagation ,	2643340	auto:0.6950042,textrank:0.666736,kea:0.68312615,rake:0.0,spacy_np:0.66563046,StructMineDataPipeline:0.68699175,econ:0.67142874
+Right : the last maxmessage computed during belief propagation .	827280	auto:0.41007787,textrank:0.38295072,kea:0.3909118,rake:0.6823623,spacy_np:0.6198426,StructMineDataPipeline:0.41147184,econ:0.3931983
+proximate inference techniques such as belief propagation , which can perform inference in	320913	auto:0.0,textrank:0.39140317,kea:0.4011242,rake:0.5949944,spacy_np:0.61117536,StructMineDataPipeline:0.41210398,econ:0.48021874
+Reduced complexity iterative decoding of lowdensity parity check codes based on belief propagation .	3726742	auto:0.0,textrank:0.29851604,kea:0.30678818,rake:0.94883144,spacy_np:0.46252993,StructMineDataPipeline:0.34293273,econ:0.38241982
+of standard loopy belief propagation to results obtained by fractional belief propagation	612259	auto:0.0,textrank:0.3839086,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.90212446
+A TOPIC MODELING TOOLBOX USING BELIEF PROPAGATION	3499945	auto:0.0,textrank:0.5266432,kea:0.0,rake:0.45744762,spacy_np:0.650216,StructMineDataPipeline:0.0,econ:0.978916
+Tensor Belief Propagation	5325226	auto:0.0,textrank:0.75141627,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+3 Privacy-Preserving Belief Propagation	743854	auto:0.63875276,textrank:0.61918044,kea:0.6117499,rake:0.62322205,spacy_np:0.0,StructMineDataPipeline:0.0,econ:0.0
+Loop corrected belief propagation .	2958256	auto:0.0,textrank:0.5620305,kea:0.57451516,rake:0.0,spacy_np:0.5377648,StructMineDataPipeline:0.5637219,econ:1.0
+Belief propagation and statistical physics .	4911537	auto:0.6578068,textrank:0.65234303,kea:0.65731335,rake:0.6647966,spacy_np:0.65868443,StructMineDataPipeline:0.66320574,econ:0.6368124
+2 A Quick Review on Belief Propagation in Markov Random Fields	783889	auto:0.45724025,textrank:0.46825567,kea:0.45046848,rake:0.45518208,spacy_np:0.6588646,StructMineDataPipeline:0.41940078,econ:0.4475281
+2 Learning in Belief Propagation	486840	auto:0.8555947,textrank:0.82080543,kea:0.0,rake:0.6190288,spacy_np:0.55671453,StructMineDataPipeline:0.7733862,econ:0.7863929
+2 1 Belief propagation	486841	auto:0.9112904,textrank:0.89955914,kea:0.9062186,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.9078205,econ:1.0
+Loop corrected belief propagation .	2189754	auto:0.0,textrank:0.5620305,kea:0.57451516,rake:0.0,spacy_np:0.5377648,StructMineDataPipeline:0.5637219,econ:1.0
+Understanding belief propagation and its generaliza tions .	2372027	auto:0.0,textrank:0.0,kea:0.40234149,rake:0.0,spacy_np:0.73403853,StructMineDataPipeline:0.6890005,econ:0.40821594
+Improved dynamic schedules for belief propagation .	1956798	auto:0.5402521,textrank:0.505519,kea:0.0,rake:0.97391903,spacy_np:0.97267115,StructMineDataPipeline:0.48291302,econ:0.49731603
+Wiegerinck , W and Heskes , T Fractional belief propagation .	4464117	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.0,econ:1.0
+Generalized belief propagation .	1680320	auto:0.0,textrank:0.0,kea:0.0,rake:0.0,spacy_np:0.0,StructMineDataPipeline:0.77428854,econ:0.0

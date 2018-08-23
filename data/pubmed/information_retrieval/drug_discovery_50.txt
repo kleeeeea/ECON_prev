@@ -1,0 +1,76 @@
+A better understanding of disease mechanisms has enabled drug discovery - three new urate-lowering drugs have been approved in the last decade , with several more in the pipeline .	1
+The resulting data suggest that MIBI can provide new insights into disease pathogenesis that will be valuable for basic research , drug discovery and clinical diagnostics .	1
+However , the intrinsically flexible CTT poses serious problems in in silico drug discovery .	1
+Modern imaging techniques are increasingly applied to drug discovery and development .	1
+The present review focuses on translational research of novel DES , including drug discovery , creation of preclinical research models , planning and conducting of first-in-man studies , and developing next-generation DES systems .	1
+Directions of drug discovery in osteoporosis .	1
+There are a number of obstacles to effective drug discovery for neurodegeneration , but by considering these problems it is possible to identify lessons for the future .	1
+
+A 53-year-old man presented to hospital after an overdose 4 8 g of verapamil .	0
+He developed profound bradycardia and hypotension , requiring treatment with calcium salts , dobutamine , isoprenaline and cardiac pacing .	0
+As calcium channel blockers are more widely used , self-poisoning will become more common .	0
+The effects , although serious , are self-limiting and recovery within 48 hours is the rule provided adequate support is given .	0
+Beneficial effects of hyperbaric oxygen therapy in Nocardia brasiliensis soft-tissue infection .	0
+In this case of N brasiliensis mycetoma involving the lower extremity , the conventional management of surgery and antibiotic therapy was unsuccessful , and only with the addition of hyperbaric oxygen therapy did clinical recovery occur .	0
+Frequent hospital admissions for bacterial infections among aboriginal people with diabetes in central Australia .	0
+The frequency , type and severity of infections in the relatively young patients result in high personal costs to the community and financial costs to the health care system .	0
+Standard preventive measures must be implemented to control severe bacterial infections among subjects with diabetes in this socially and economically marginalised population group .	0
+Continuing medical education undertaken by general practitioners using the rural registrar scheme .	0
+The provision of a satisfactory locum service has enabled rural GPs to participate in a wide range of CME activities , which reflect the diversity of general practice .	0
+Most participants preferred individual , experiential study programmes to more structured CME programmes .	0
+Thromboembolism and its management in pregnancy .	0
+Many questions are still not completely resolved , but the information gathered should provide firm guidelines to practitioners in the areas of diagnosis , the choice of anticoagulant drugs , methods of administration of the drugs , and measurement of therapeutic endpoints .	0
+Isospora belli infection .	0
+A report of two cases in patients with AIDS .	0
+Although Isospora belli is an uncommon cause of gastroenteritis in Australia , it is increasingly recognised as a cause of diarrhoea in travellers , immigrants from endemic areas and immunocompromised people .	0
+It has also been reported in the Aboriginal community ; this article reports the first case of AIDS-related isosporiasis in an Aborigine .	0
+It is likely that both patients acquired Isospora belli before they become HIV seropositive .	0
+Principles behind practice .	0
+6 .	0
+Disease causation .	0
+The role of epidemiological evidence .	0
+How can epidemiology contribute to understanding the cause of clinical disease ?	0
+We discuss the nature of causality and the intrinsic limitations of all empirical science , including epidemiology , in establishing proof of causality .	0
+Our examples relate to eye disease : How the cause of blindness from retrolental fibroplasia was unravelled .	0
+How the congenital rubella syndrome was discovered as a cause of congenital cataract .	0
+
+
+Similarly , the implementation of clinical trial networks will allow the expansion of patient sample populations with genetically defined epilepsy so that drug discovery can be translated into clinical practice .	1
+Prick testing is the appropriate investigation in selected cases for the diagnosis of urticarial contact dermatitis in food handlers .	0
+
+This work provides an integrated analysis of orthologous transcriptome , which aims to provide insights into the Plasmodium evolution thereby establishing a framework to explore complex pathways and drug discovery in Plasmodium species with broad host range .	1
+Any conjugate H influenzae type b vaccine should be effective when administered to non-Aboriginal children in the first six months of life , but only the most immunogenic vaccines for example , the vaccine known as PRP-OMP are likely to be effective in Aboriginal infants .	0
+
+These studies provide an efficient strategy for deriving human COs , which can be used in disease modeling and drug discovery for colorectal disease .	1
+Case-control studies .	0
+Minimising resistance should therefore be considered comprehensively , by resistance mechanism , microorganism , antimicrobial drug , host , and context ; parallel to new drug discovery , broad ranging , multidisciplinary research is needed across these five levels , interlinked across the health-care , agriculture , and environment sectors .	1
+Zika Virus Replicons for Drug Discovery .	1
+Accordingly , Gpr120 is a widely studied drug discovery target within the pharmaceutical industry .	0
+China is both a knowledge producer and sharer , offering lessons based on its health accomplishments , traditional Chinese medicine , and research and development investment in drug discovery .	1
+An important strategy to promote drug discovery will be the development of focused cooperations between academic institutions and small pharmaceutical companies .	1
+Mixed pathologies and neural reserve : Implications of complexity for Alzheimer disease drug discovery .	1
+These results provide promising approaches for drug discovery .	1
+Our findings establish KMO inhibition as a novel therapeutic strategy in the treatment of AP-MODS , and they open up a new area for drug discovery in critical illness .	1
+Thus , a computational approach facilitating identification of candidate genes for a focus synthetic lethal RNAi screening will accelerate novel anticancer drug discovery We used several publicly available cancer cell lines and tumor tissue genomic data in this study We compared the doubling time and multidrug resistance between the NCI-60 cell lines with mutations in some cancer driver genes and those without the mutations .	1
+The demise of antibacterial drug discovery brings the spectre of untreatable infections .	1
+A global alliance for antibiotic drug discovery and development would provide a platform for these initiatives .	1
+Next , their applications to disease detection , drug discovery , and biomedical research are discussed .	1
+Bacterial meningitis in children under five years of age in Western Australia .	0
+Studies that associate these genetic variants with phenotype improve both molecular diagnostics and drug discovery and offer clinicians important opportunities to improve care of patients .	1
+Finally , we compare researchers priority areas to the global funding agendas and activities Our analysis shows that , among the five key research areas defined in the 2011-2015 Global Plan - namely drugs , basic science , vaccines , diagnostics and operational research - drug discovery and basic science on Mycobacterium tuberculosis accounted for 60 of the 2 billion annual funding target .	1
+Modulations of ion channels leading to amelioration of the migraine hyperresponsive brain represent attractive targets for drug discovery .	1
+How allopurinol was cleared from suspicion as a cause of cataract .	0
+Although much remains to be learned , these advances provide an opportunity for rational approaches to target-based drug discovery .	1
+Urticarial contact dermatitis in food handlers .	0
+We note a watershed in osteoporosis drug discovery around the year 2000 , when the approach to developing novel therapeutics shifted from one driven by discoveries in animal studies and clinical observations eg , oestrogen , calcitonin , and teriparatide or opportunistic repurposing of existing compounds eg , bisphosphonates to one driven by advances in fundamental bone biology eg , denosumab coupled with clues from patients with rare bone diseases eg , romosozumab , odanacatib .	1
+Neuropeptides : opportunities for drug discovery .	1
+Human pluripotent stem cells PSCs have emerged as attractive cell source to obtain cardiomyocytes CMs , with potential applications , including drug discovery and toxicity screening , disease modelling and innovative cell therapies .	1
+Science and Industry Endowment Fund Australia , The Commonwealth Scientific and Industrial Research Organisation Australia , The National Health and Medical Research Council of Australia Program and Project Grants , the Austin Hospital Medical Research Foundation , Victorian State Government , The Alzheimer s Drug Discovery Foundation , and the Alzheimer s Association .	0
+7 .
+Pathways to new drug discovery in neuropsychiatry .	1
+There is currently a crisis in drug discovery for neuropsychiatric disorders , with a profound , yet unexpected drought in new drug development across the spectrum .	1
+There is considerable hope for genetics as a purist , pathophysiologically valid pathway to drug discovery ; however , it is unclear whether the science is ready to meet this promise .	1
+
+The utility of non-invasive imaging modalities within the pharmaceutical industry is discussed with particular reference to the use of PET in drug discovery and development in the 21st century .	1
+Considering that the cis-trans isomerization of trans-SG was mediated by ultraviolet light or sunlight , our findings serve as reference for controlling photoisomerization in drug discovery and for the clinical use of Heshouwu and stilbene-related medications .	1
+The antitubercular efficacy of spectinamides demonstrates that synthetic modifications to classical antibiotics can overcome the challenge of intrinsic efflux pump-mediated resistance and expands opportunities for target-based tuberculosis drug discovery .	1

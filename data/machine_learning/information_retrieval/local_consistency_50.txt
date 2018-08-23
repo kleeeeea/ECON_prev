@@ -1,0 +1,100 @@
+
+We remark that estimating functions are concerned with local consistency consistency will denote its local version in the following and in general have spurious solutions .	1
+
+Table 1 : Performance of semi-supervised learning methods on MNIST with varying numbers of labeled samples .	0
+Temporal difference algorithms learn to make long term predictions by achieving local consistency between predictions at neighboring time steps , and by grounding the chain of predictions when information from the environment is obtained .	1
+
+These tighter relaxations enforce local consistency on variable subsets that are larger than individual variables , which makes them higher-order local consistency relaxations .	1 ?? 0
+First , ensuring global consistency of the marginalized dual is more involved as local consistency of edge-marginals does not guarantee existence of a dual variable i , y with those marginals .	1
+In cokriging literature , the local consistency is enforced via the spatial covariance matrix .	1
+
+Unifying Local Consistency and MAX SAT Relaxations	1
+The MTC and PL results are from their respective papers and the remaining results are our own .	0
+For local consistency , we enforce the predicted value for close locations to be similar via spatial Laplacian regularization .	1
+Using PEA penalty Vk at the output layer and computing classification loss gradient only for the unperturbed parent network , we obtained 1 08 averaged error .	0
+Although these pseudo marginals will in general not equal the true marginals pc xc , BP fixed points ensure local consistency so that Ec f Xc is well defined .	1
+where ent denotes the entropy .	0
+In the experiments , we chose between the two output-layer penalties Vt Vx based on observed performance .	0
+The LP relaxations relax this constrain set to enforce only local consistency -- the respective constraint set , the local polytope , is an outer bound on the marginal polytope 22 .	1
+We have shown that all algorithms except for TDSEP SOBI have the local consistency for most of the given data .	1
+
+
+The local consistency of a scoring metric reveals that there exists a path in the search space ending in the true Bayesian network , through which the score always increases .	1
+Then , by assumption of local consistency , there exist edges t , yth , t , yt and t , yt , t , yth which are maximal .	1
+We propose to still visit images uniformly , but to leverage local consistency of f1 in the image plan to limit computation to a sparse subset of locations .	1
+The proof is given in Appendix I Theorem 8 ensures that even if the original online learning algorithm 20 does not converge to the true parameter , we can construct an online learning algorithm with local consistency by appropriately choosing matrix R .	1
+Plugging 19 into the local consistency constraints of L in 2 gives 18 .	1
+In the experiments , we chose between the two output-layer penalties Vt Vx based on observed performance .	0
+
+5 Testing PEA regularization	0
+
+We trained all networks for 1000 epochs with no early-stopping i e .	0
+Theoretically we have shown that at least asymptotically all BSS algorithms except for TDSEP SOBI have the local consistency , thus they should succeed on a given mixed data .	1
+The first is that the robot state vector is highly correlated with the remaining state variables , and the second is that we have access to a low level mapping procedure with moderate accuracy and local consistency .	1
+
+
+
+
+Temporal difference algorithms learn to make long term predictions by achieving local consistency between predictions at neighboring time steps , and by grounding the chain of predictions when information from the environment is obtained .	1
+
+SDE obtained 1 05 error averaged over five random initializations .
+For local consistency , we construct a regularizer via the spatial Laplacian matrix .	1
+Consistency of the Bayesian scoring criterion leads , from the fact that BIC is decomposable , to a more practical property of the criterion that we call local consistency .	1
+For the supervised tests we used SGD hyperparameters roughly following those in 9 .	0
+Unifying Local Consistency and MAX SAT Relaxations	1
+Recent results in numerical methods for stochastic control problems in continuous time can be applied to give assumptions that guarantee a local consistency condition which is needed for convergence .	0
+Unifying local consistency and MAX SAT relaxations for scalable inference with rounding guarantees .	1
+
+
+
+
+Comments on Other Selected BSS Algorithms We will discuss in the following the local consistency of ICA BSS algorithms except the quasi maximum likelihood method .	1
+Thus , Vx combines the KL-divergence penalty with an entropy penalty , which has been shown to perform well in a semi-supervised setting 7 , 14 .	0
+Then , by assumption of local consistency , there exist edges t , yth , t , yt and t , yt , t , yth which are maximal .	1
+Table 1 : Performance of semi-supervised learning methods on MNIST with varying numbers of labeled samples .	0
+
+For local consistency , we enforce the predicted value for close locations to be similar via spatial Laplacian regularization .	1
+This motivates the need for cluster-based LPs Sontag et al , 2008b , a , where local consistency is enforced on clique or cluster marginals .	1
+
+
+
+
+This motivates the need for cluster-based LPs Sontag et al , 2008b , a , where local consistency is enforced on clique or cluster marginals .	1
+
+
+Theoretically we have shown that at least asymptotically all BSS algorithms except for TDSEP SOBI have the local consistency , thus they should succeed on a given mixed data .	1
+
+The MTC and PL results are from their respective papers and the remaining results are our own .	0
+In the context of PGMs , Sontag and Jaakkola use cutting plane method to iteratively tighten the marginal polytope that enforces the local consistency of marginals in order to improve the variational approximation 12 .	1
+2 Local consistency : the data in close locations are likely to be similar .	1
+Such a procedure , which enforces only local consistency of marginals , optimizes our objective only over a relaxation of the marginal polytope .	1
+Using PEA penalty Vk at the output layer and computing classification loss gradient only for the unperturbed parent network , we obtained 1 08 averaged error .	0
+Comments on Other Selected BSS Algorithms We will discuss in the following the local consistency of ICA BSS algorithms except the quasi maximum likelihood method .	1
+The first way applies a tanh-variance penalty Vt and the second way applies a xent-variance penalty Vx , which we define as follows :	0
+
+
+In cokriging literature , the local consistency is enforced via the spatial covariance matrix .	1
+
+where ent denotes the entropy .	0
+Our proof analyzes the local consistency relaxation to derive an equivalent , more	0
+
+5 Testing PEA regularization	0
+Researchers have also studied performance guarantees of other subclasses of the first-order local consistency relaxation .	0
+In the context of PGMs , Sontag and Jaakkola use cutting plane method to iteratively tighten the marginal polytope that enforces the local consistency of marginals in order to improve the variational approximation 12 .	1
+where ent denotes the entropy .	0
+
+Consistency of the Bayesian scoring criterion leads , from the fact that BIC is decomposable , to a more practical property of the criterion that we call local consistency .	1
+Temporal difference algorithms learn to make long term predictions by achieving local consistency between predictions at neighboring time steps , and by grounding the chain of predictions when information from the environment is obtained .	1
+Pre-trained networks were always PEA-regularized with penalty Vx	0
+
+A popular approach to tighten the outer bound is to enforce the local consistency over higher order cliques of variables or clusters 19 , 24 , 1 .	1
+KAWANABE AND MU LLER with the local consistency did not work , we carried out extra experiments with larger sample size T .	1
+We begin by reformulating the local consistency relaxation as a hierarchical optimiza-	0
+
+For the supervised tests we used SGD hyperparameters roughly following those in 9 .	0
+rhs-values of these vertices , checks their local consistency , and adds them to or removes	1
+
+2005 used the local consistency relaxation to decode binary linear codes .	0
+Therefore it is relaxed , yielding an outer bound on the marginal polytope , also called the local polytope L G M G as it enforces only the local consistency on the marginals :	1
+The proposed formula is exact and does not involve any approximations , which is why we are able to prove the local consistency of the resulting method .	1
+

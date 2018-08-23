@@ -1,0 +1,8 @@
+
+### data
+
+1. data/evaluation/ contains data for phrase evaluation
+
+### installation
+
+1. please put dbpedia-spotlight-1.0.0.jar and set up its service
