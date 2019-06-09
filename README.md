@@ -26,9 +26,5 @@ $ pip install -r requirements.txt
 ```
 
 
-## Sample data
-A set of sample data containing all the intermediate results in order to run the prediction is available at Google drive
-
-
 
 
